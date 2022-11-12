@@ -404,7 +404,7 @@
 			this.player.Location = new System.Drawing.Point(0, -2);
 			this.player.Name = "player";
 			this.player.OcxState = ((System.Windows.Forms.AxHost.State)(resources.GetObject("player.OcxState")));
-			this.player.Size = new System.Drawing.Size(164, 749);
+			this.player.Size = new System.Drawing.Size(243, 195);
 			this.player.TabIndex = 54;
 			this.player.Visible = false;
 			this.player.PlayStateChange += new AxWMPLib._WMPOCXEvents_PlayStateChangeEventHandler(this.player_PlayStateChange);

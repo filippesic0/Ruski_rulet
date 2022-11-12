@@ -379,8 +379,10 @@ namespace Ruski_rulet
 			novac[igrac].BackColor = Color.LightBlue;
 			ime[igrac].BackColor = Color.LightBlue;
 			for (int i = 0; i < 6; i++)
+			{
 				izazovi[i].Visible = false;
-			izazovi[igrac].Text = "Izazovi";
+				izazovi[i].Text = "Izazovi";
+			}
 			tacno.Visible = true;
 			vreme.Text = "20";//20
 			vreme.Visible = true;
@@ -859,7 +861,8 @@ namespace Ruski_rulet
 						novac[izazivac].Text = (int.Parse(novac[izazivac].Text) + 100 * runda).ToString();
 						if (runda == 0)
 							novac[izazivac].Text = (int.Parse(novac[izazivac].Text) + 50).ToString();
-						otkljucavanje_opasnih_polja(pitanje_po_redu + 1);
+						if (pitanje_po_redu < 10)
+							otkljucavanje_opasnih_polja(pitanje_po_redu + 1);
 					}
 					else if (game_stage.Equals("preziveo"))
 						otkljucavanje_opasnih_polja(pitanje_po_redu + 1);

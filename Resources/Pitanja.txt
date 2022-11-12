@@ -860,7 +860,7 @@ Zaustavi saobraćajac u centru Niša neki auto radi kontrole. Pogleda sve isprav
 Ulazi žena u taksi. Vozač:NEWLINE- AAAA, BUAAAA - urla iz sveg glasa!NEWLINEŽena prestravljena pita:NEWLINE- Šta ti je, čoveče?NEWLINE-...?
 Sreli se Mujo i Haso posle 50 godina, i sad kao penzioneri, izljube se i odu kod Muje na kafu. Sede oni na terasi, Mujo kaže ženi:NEWLINE- Ljubavi, 'ajde nam skuvaj kaficu!NEWLINEOna donese. Posle pola sata, Mujo opet kaže ženi:NEWLINE- Srećo, 'ajde nam donesi rakijicu!NEWLINEOna donese. Malo kasnije će opet Mujo:NEWLINE- Pile, 'ajde nam naseci malo suvog mesa!NEWLINEOna isecka i donese. Haso sve to gleda, i u čudu, kaže Muji:NEWLINE- Svaka ti čast, jarane moj, divim ti se, i posle toliko godina braka, ti svoju ženu još uvek oslovljavaš sa ljubavi, srećo, maco... stvarno divno!NEWLINEA Mujo će:NEWLINE-...?
 Pita učiteljica Pericu:NEWLINE- Perice, je l' ti tata pomaže kod domaćih zadataka?NEWLINE-...?
-Решава босанац укрштеницу: бол, 7 слова?
+Решава Босанац укрштеницу: бол, 7 слова?
 Стоји човек испред основне школе, види га директорка, прилази му и пита:NEWLINE- Извините, да ли ви то чекате дете?NEWLINE- ...?
 Dva prijatelja odu u lov. Dok hodaju šumom, jedan od njih se sruši. Ne diše i pogled mu je staklast. Onaj drugi panično dograbi telefon i nazove hitnu pomoć:NEWLINE- U pomoć!! Prijatelj mi je umro! Sta da radim?NEWLINEDežurni operater kaže:NEWLINE- Smirite se, ja ću vam pomoći. Za početak, moramo biti sigurni da je mrtav.NEWLINEUsledi tišina, a onda se začu pucanj i tip kaže:NEWLINE- ...?
 Šta radi kladioničar kad nema šta da igra?
