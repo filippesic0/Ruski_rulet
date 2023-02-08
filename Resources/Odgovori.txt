@@ -1,914 +1,895 @@
 49
-Otvoriš frižider, ubaciš žirafu, zatvoriš frižider.
-Otvoriš frižider, izbaciš žirafu, ubaciš slona, zatvoriš frižider.
-Slona. Ostao je u frižideru.
-Krokodil je na žurci.
-Cigla iz aviona.
-Beli konac.
-Senka belog konca.
-Vrana sa mitraljezom.
-Nestalo vrani municije.
-Paradajz u liftu.
-Paradajz kome je pozlilo u liftu.
-Mali zeleni kamenojedac.
-Do metar ispod zemlje, poješće ga mali zeleni kamenojedac.
-Paradajz.
-Opet paradajz.
-Nećete verovati, još jedan paradajz.
-Slučajnost.
-Sreća.
-Navika.
-Klavir.
-Šta te briga kakav je moj raspored u sobi?
-Spajdermen.
-Supermen.
-Taliban.
+Отвориш фрижидер, убациш жирафу, затвориш фрижидер.
+Отвориш фрижидер, избациш жирафу, убациш слона, затвориш фрижидер.
+Слона. Остао је у фрижидеру.
+Крокодил је на журци.
+Цигла из авиона.
+Бели конац.
+Сенка белог конца.
+Врана са митраљезом.
+Нестало врани муниције.
+Парадајз у лифту.
+Парадајз коме је позлило у лифту.
+Мали зелени каменоједац.
+До метар испод земље, појешће га мали зелени каменоједац.
+Парадајз.
+Опет парадајз.
+Нећете веровати, још један парадајз.
+Случајност.
+Навика.
+Клавир.
+Шта те брига какав је мој распоред у соби?
+Спајдермен.
+Супермен.
+Талибан.
 Да би побегли од Чака Нориса.
 Измислио је судар.
-Jer bi ih sve spasio.
+Јер би их све спасио.
 Глумио је ледени брег који га је потопио.
-F.
-Siroče.
-Par.
-Nepar.
-Vepar.
-Petar.
-Šestar.
-Uzme sveću.
-Upali sveću.
-Nisam ja majke mi!
-Pa možda stvarno nije.
-Pa dobro gospođo, na koga vi sumnjate?
-Šaran.
-Obesili su ga.
-Ofarbali su ga.
-Pa to je da se teže pogodi
-Daj sto evra, pa ću ti reći!
-Lud ili ne, ali hiljadu evra dnevno svakako imam.
-Sklekove.
-Trafike.
-Njegova sahrana.
-Dođi u avgustu na 40 dana.
-Pušim, al’ ne pomaže.
-Leva ruka.
-Nijedan, već je izgrađen.
-U Vašingtonu.
-Šta nas briga, imamo lance.
-Ma nema šanse, kasni dva kruga.
-Metar i osamdeset, sedim.
-Maramicom.
-Knijgama.
-Mleko je bilo u prahu.
-Zavisi na koju stranu duva vetar.
-'Ajde ti stavi ruku u ovako vruću vodu.
-Pa ja sam.
-Znači, rekao sam DAĆETE MI!
-Tri i po.
-Ništa, slobodno kašljite.
-I doktor mu suzi oko.
-Nije pravilno, pravilno je 'u šupi'.
-Da izbrojim mušice.
-Meni su rekli da moram odležati dve godine.
-Pa što se pipaš tu?
-punom kofom vode i kaže:NEWLINE-Evo vam, ali posle vratite kofu.
-Rek'o mi doktor, da piće ne smem ni da pogledam.
-Ona što stoji, mrzi je da legne.
-Nazvala me mater jutros i rekla da nam dolazi u goste.
-U bibilioteku.
-Ispod sapuna.
-Na geografskoj karti.
-U ludnici.
-Na dnu stranice.
-Tamo gde si je ostavio.
-U kravi.
-Gde hoće.
-U Pirotu, tamo ne možeš ništa da dobiješ.
-Ispod lopate.
-Bicikle.
-Sine, baba pala na dupe, a ne na glavu.
-Treća glista laže.
-Ne razume ni odbrana Reala.
-Ma šuti bolan, hoćemo i mi da vidimo gol.
-Svih 10 zato što ribice ne mogu da se uguše, udave ili pobegnu iz akvarijuma.
-Tovari dok ne budu džaba.
-Kad krava uđe u kupus.
-Kad sapletete konobara.
-Kad je najslađe.
-Porodični.
-Na eks.
-Uzduž.
-Nikako.
-Cigacigacigacigaromromromromrom!
-Gurne bakarnu žicu. Ako povuče, trudna je.
-Spava samo noću.
-Vetar okeće listove.
-Kako god hoćete. Beton je vrlo čvrst i ne puca tako lako.
-Ima zatamnjena stakla na inkubatoru.
-Na prste.
-Sa zadnjeg sedišta.
-Dođite, vaš auto je već ovde!
-Dobiješ e-mail : Aj' da se kladimo da ne možeš da formatiraš C:.
-Pojedi za doručak dva žileta.
-Prešao na južni.
-Presečes konopac.
-Plus se oduzeo.
-Čak Noris je iskočio iz aviona.
-Obrisao je dupe pogrešnom rukom.
-Sipaš gorivo.
-Fast food.
-Jede jednim štapićem.
-Bace šerpu niz stepenice pa kako ispadne.
-Na dugme.
-Snese na beton.
-Av. . . Av. . . Av.
-Brza hrana.
-Slon sa jednom rukom ne postoji.
-Uplašiš ga na betonu.
-Jupi, jupi.
-Provuče mu kreditnu karticu kroz harmoniku.
-Prospe kukuruz i preko stavi staklo.
-Kroz zube.
-Kaže im da je izgubila dinar.
-Ubije rodu.
-Pokucaš im na vrata.
-Ukradeš 6 jaja.
-Stavi je u teglu i liže govno.
-Stavi je na sto i kaže: Otvaraj, policija!
-Turi glavu u lonac.
-Ima zatamnjena stakla na inkubatoru.
-Nosi zlatan ručni sat oko pojasa.
-Nosi najlepšu trenerku.
-Po bolovima u želucu.
-Idite da spavate.
-Razmeste nameštaj.
-Pojeo žumance.
-Maramicom.
-Ja se tebi sviđam, a ti meni?NEWLINEVidiš onaj cvet? Uberi ga, za tebe je.
-Zemljakinje.
-Zid plača
-Skelet-varoš.
-Uđi.
-Translate me on the second page of the street.
-Ž Pu.
-Nasugushi Kokopushi.
-Toshiba ko ludo.
-Dignu svih osam u vis.
-Daš portiru barometar da ti kaže.
-Al-hemičar.
-Muhamed
-Mubarak
-Supermen.
-Li Jen Chi Na.
-Samajama.
-Bin Laden.
-Basketbalija.
-Otuđmaniti.
-Branimir Glavaš
-Domobran.
-Adios embrios
-A?
-Vrlo brzo.
-Pešakom na C4.
-Zapali šumu i čeka kanader.
-Pala je sa drveta.
-Gde si zemljače!
-Av. Av Av.
-Bacio pogled u utikač.
-Na peticu.
-Skinuću ti sve avione s neba.
-Miču mu se usne.
-Dva kruga oko Slovenije.
-Sindrom.
-Fenomen
-- Nedim.
-- Sadifa.
-Lego Kockica
-Gromada.
-Jaganjci.
-Hipodrom.
-Grom.
-Ciganštura.
-From.
-Tromb.
-Aroma.
-Promaja.
-CiganIn.
-Brom ili hrom.
-CD Rom.
-Mile.
-Cigla.
-Izbaciga.
-Ciganluk.
-Kaciga.
-Digitron.
-Krompir.
-Romboid.
-Aerodrom.
-Roman.
-Erih From.
-Cigara.
-Ganci Rouzis (Gancy 'n' Roses).
-Cigan (Ci gun).
-Pogrom.
-Romario.
-Smrdibuba.
-Roming.
-Eleganci.
-Promoter.
-Roma.
-Lajkovac.
-Odeon
-Prozor.
-Srčka.
-Dodatna oprema.
-Kokain.
-Kost i koža.
-Zaštićeni svedok.
-Londoff.
-Ma Čak.
-Limarija.
-Carlos.
-Osigurač.
-Cipiripi.
-Ta I Kun.
-Sašimi Sako.
-Numeracija blokova na Novom Beogradu.
-Doseže Plafon.
-T. Hanks.
-Li Mun.
-Žuman Ce.
-Smaj Li.
-Pit-bul enterijer.
-Nije bitno. Ionako ne može doći.
-ŠanKer.
-Petarda.
-CICIA.
-Alfa Romeo.
-Elektroda.
-Komičar.
-Ćufta.
-Doncafe.
-Sinalko.
-Miš.
-Triglav.
-Trom.
-Philips Višnjić
-Kopilot.
-Bivo.
-Romeo.
-Kalibri.
-Brusilica.
-Ne znam.
-Romljani.
-Uspravi se.
-Od 0 do granice.
-Rastaviću vas na činioce.
-Rečeno im je da dignu tenkove u vazduh.
-Rečeno im je da dignu tenkove u vazduh.
-Čak Noris je šutnuo konja u bradu.
-Zabiju se kanaderom u vatru.
-Ubaci se mrvica hleba i ako je pojela, onda je žensko, a ako je pojeo, onda je muško.
-Đetić neznanog junaka.
-Ubaciti parče hleba u ficu.
-Znači sestro, brate, ćale si keve mi!
-Na vr' dabr bavr damr.
-:)>+
-Bez žandara.
-Znači C.
-Musliman.
-Gospodine.
-Fiks ideja.
-Velika.
-Da kupiš nova kola.
-Onaj ko je član SNS-a.
-Lele, je l' pocep'o patiku?
-Oni vole da slikaju zmajeve.
-Nije dovoljno kuvan.
-taj se načeka.
-fizički je radnik.
-Slovenci jer nisu imali dovoljno ribe da popune konzervu.
-Crnogorac na Petlovom brdu.
-Ne zna.
-ceo dan zeva.
-najsporije kapira.
-Policajci i carinici.
-Eksere.
-gmail@chucknorris.com
-Partizan.
-Dve tašte.
-Need for speed
-Palčić.
-Need for speed.
-Čistačica očisti sve u roku.
-Kad gumu staviš u lance, ne peva bluz.
-Bicikl ne peva kada ga vežeš za zid.
-Za kompjuter treba više papira.
-Jehovinom svedoku možes zatvoriti vrata.
-Čuje se bum aaaaaaaaaaaaa, odnosno aaaaaaaaaaaa bum
-Pedofil stvarno voli decu.
-Prodavac kola je svestan kad laže.
-4
-Lešinar najpre sačeka da umreš pa ti onda jede džigericu.
-U broju telefona.
-Baba odigra dobro bar dva kola.
-Ni jedni ni drugi ne znaju da igraju fudbal.
-Najopasniji je tihi.
-I morsko prase, niti je morsko, niti je prase.
-Jagnje.
-1.NEWLINE2.NEWLINE3.
-Ne znam.
-1862
-Žuto.
-WC. Tamo su se i najhrabriji usrali.
-Papaja.
-Vreme rasprodaje.
-Službeni.
-Službeni.
-Iron man.
-Brak.
-Peškir.
-Samo skreneš.
-Pikaću.
-Geometrija, kad kaže nastavnik povucite crtu.
-68m.
-Radovi na putu.
-Onaj od dve litre.
-DoruČak i ruČak.
-Rezervni.
-Sve.
-7,5 cm bez filtera.
-Igli i pauku.
-Ma nije, ali evo je ide!
-Za 500 din.
-Marko.
-Alat što dalje od mene!
-Na čokoladu sa lešnicima.
-Imam u garaži dva Magnuma i tri Kalašnjikova!
-Ajde bre sudija, nemoj sad i ti, dosta mi je što me ceo Zemun zeza.
-Joj, joj, ne znam, nikad nisam stigao ovako daleko.
-Od nuklearnog mravojeda.
-Ako je policija prekopala baštu, posadi krompir.
-Nije ni bitno, važno je da padaju.
-Ko? Ja?
-Eto, sad zna.
-Kamera vamo, kamera tamo...
-A koga ću drugog.
-Kopala.
-Juče mi bila puna kuća gostiju.
-Ima, dobijaju deca.
-Neopravdani.
-Plafon.
-Kako to, bolan, misliš da se Zemlja okreće? Slušaj mali, da ti to nisi našao moju rakiju?
-Opštinsko/gradsko iz...
-7
-Kako da ne. Žandar, dama, kralj i kec.
-Proba uspešna, sutra definitivno bežimo!
-Suše WC papir na žici za veš.
-Ne, ja ću sačekati policiju.
-Šta, šta je bilo, pa ubismo ga.
-Pa policija.
-Onaj koji je normalan izvuče čep sa dna kade. Želite li sobu s balkonom ili bez? (ako je odgovor pogrešan)
-N.
-Veoma brze.
-Eno je, još uvek je pred vratima.
-Voda
-Pj
-K
-Novac
-Mg
-000
-Tiranin
-Zvr
-Zl
-Zub
-Pendrek
-Supa
-Smrt
-Ce
-Video
-Pas
-Janko
-Bojović.
-Oćeš da prođemo jos jednom?
-Dobićete vi svoje čim vas nađemo na karti!
-a nesložna dve.
-Čekaju 18. jer je zabranjen ulazak ispod 18.
-Pojeli bi zmiju, a ne jabuku.
-Ladi jaja.
-Pera.
-Potonuće ili postaće mokar.
-Paketić.
-Pretura po recycle binu.
-Lenju pitu.
-Nauči ih da laju.
-Izvadiš osigurač i vratiš mu je.
-Ubijete lava i pobegnete jaguarom.
-Batine.
-Crni čaj.
-Srećan pit-bul terijer.
-Rukavica.
-Jako velike ruke.
-Ništa efikasno.NEWLINECigle, motke, kamenje...
-Ispadnu pudlici oči.
-Zlo i naopako.
-Bik koji leti.
-Ekser na putu.
-Hvala na pitanju, dobro.
-Biti ili prebiti.
-100000 ljudi.
-To je deo odeće koji dete oblači kada je hladno njegovoj majci.
-Fabrika za konzerve.
-Estetski hirurg.
-Smoki slavi rođendan.
-Četkica za zube.
-Kosa bez glave.
-Ak, ak, ak, ak i ak.
-Svinja sa ukusom mentola.
-Čista glupača.
-Baba.
-Seo na njega.
-Vidi, Crnac silazi sa brda.
-Ciga koji proučava stari Rim.
-Hiljadu lisica.
-Čovek koji stalno taba kera.
-Banana.
-Lopov koji se oseća na luk.
-Buba švaba.
-Crnac naš'o bombu.
-Žaba sa govornom manom.
-WC šolja.
-Mrav komunista.
-Talentovana šljiva.
-Taština proteza.
-Kamen.
-Žaba u avionskom motoru.
-Žaba u mikseru.
-Namagnetisana banana.
-Pilot.
-Bumbar.
-Beba žvaće žilet.
-Kopanija za prevoz roditelja.
-Plastična operacija usana.
-Konj koji navija za Parzizan.
-Školska tabla.
-Ljude koji rade u voćnjaku.
-Izvinite, ne mogu da ustanem.
-Aj' upadaj u kola.
-Đe s' ba!
-Ni kučeta, ni mačeta.
-Rigoleto.
-Ne vidim u čemu je fora.
-Hanibal je pred vratima.
-Astal da blista.
-Možda naletim.
-Male kengure.
-Da veruje.
-Milkšejk.
-Oblak.
-Druga polovina.
-Ronioce.
-Nek' ih otvore, da se narod kupa.
-Njeno dupe.
-Ručak i večeru.
-Tračak nade.
-Političare.
-Jedan zavija, drugi odvija.
-Broje pare.
-Broje pare.
-Piju.
-Čekaju red na ljuljašku.
-Seli skelu na pravni fakultet.
-Čeka ga na sledećoj stanici.
-Smrdi do jaja.
-Rominja.
-Smrdi na 100 m.NEWLINESmrdi za medalju.
-Smrdi na sve strane.
-Smrdi sve u 16 .
-Smrdi neviđeno.
-Ništa.
-Sklekove.
-Baci dinar u wc šolju da mu zine dupe.
-Cimne vatrogasce da ga pozovu.
-Puši Kitu.
-Desni klik i refresh.
-Pokupio ga kanader.
-Uči napolju.NEWLINEUči na terasi.
-Uči naglas.
-Munze Konzu.
-Što da sitniš? Pa to je već sitno.
-Lenja pita.
-Pećurka.
-Čaj od nane.
-Čaj od majčine dušice.
-Čaj od kamilice.
-Štedna knjižica.
-Tup ugao.
-Rajsferšlus.
-Čovek koji želi da radi, ali ne može da ustane.
-Puno mesta u autobusu.
-Med i mleko.
-Ne znam, ali ne bih voleo da pomirišem.
-Fleke od miša.
-Albanska ratna mornarica.
-Zekonja.
-2 metra bodljikave žice.
-Razbije se ogledalo.
-Vojnika na vrhu Triglava.
-Puno prostora.
-Ugase playstation.
-Ubaciti prljav veš i malo praška.
-Orla.
-Dočekušu.
-Demokra ti i ja.
-Drogirana stranka.
-Drogirana stranka Srbije.
-Otac.
-Niška industrija krivih eksera.
-Pola daješ vladi.
-Srpska narkomanska stranka.
-Srpska pederska stranka.NEWLINESa pederima smo.
-Srpska retardirana stranka.NEWLINESami rasturili stranku.
-Situacija kad alga uhvati ritam.
-Ovaj voz ide iz stanice, a ti ideš u stanicu.
-Zato što ne umem drugačije.
-Na dole!
-Koliko ko može, litar - dva.
-Mačka ima samo 9 života.
-Ma lenjost. Sve danas ću, sutra ću i nikako.
-Uspela je da je sačuva.
-Dobro, ja mislio da radimo nešto.
-A gde mu je kapa?
-Pa gde vam je?
-Smirite se ljudi, imamo mi gutača vatre!
-Kad se vratio po ciglu.
-Nestalo struje pa ga dovršavaju na sveću!
-Pandur.
-Šta će joj?
-Rekao mu doktor da ne sme ni da pogleda piće.
-Da ne probude publiku.
-Ljušti joj se koža.
-Shavataju da ulaze u svet Čaka Norisa.
-Zato što ih ima više.
-Zato što se jedino tamo ne može izgubiti.
-Da nahrani gusenice.
-Ne može da zabije glavu u nju.
-Odu, pa ne znaju da se vrate.
-Došlo im iz dupeta u glavu.
-Juli je.
-Da im ne bi naplaćivali roming.
-Žao im gvožđa.
-Seo na ekser i mrzi ga da ustane.
-Zato što su čuli da tamo nema posla.
-Da ne mora da se sagne kad mu ispadne.
-Mery (Мeri) Christmas.
-Da ne ostavi otiske prstiju.
-Noga kokoške ima 3 prsta.
-Ko će da puca, a da ne promaši, pa ubije Austrijanca?NEWLINENajbliži top mora da bude u Zagrebu da ne pogodi Grac.NEWLINEAvioni se ne mogu okrenuti, a da ne uđu u Austriju.NEWLINENe stanu dva ratna broda u slovenski deo mora.
-Zato što im je tamo groblje.
-Zato što Internetom ne možeš da ubijaš muve.
-Zato što im špagete ispadaju kroz rešetke.
-Možeš da svališ krivicu na drugog.
-Zato što vežba dva dana dnevno.
-Da mu ne padnu pantalone.
-Zato što mu je doktor rekao da se drži dalje od kokaina.
-Jamajcani su popušili svu travu a Kolubijci pošmrkali sve linije.
-Sve soko do sokola.
-Jer kornere izvode iz Hrvatske i Italije.
-Ne zna se koji je veći konj.
-Može da pase kod komšije.
-A zasto Jevrejin ne bi na pitanje odgovarao pitanjem?
-Da greje ruke kad ga guraš.
-Pobegla od kuće.
-Nema muda.
-Jer nema ruke da je smota.
-Zato što nisu prskane.
+Ф.
+Сироче.
+Пар.
+Непар.
+Вепар.
+Петар.
+Шестар.
+Узме свећу.
+Упали свећу.
+Нисам ја мајке ми!
+Па можда стварно није.
+Па добро госпођо, на кога ви сумњате?
+Шаран.
+Обесили су га.
+Офарбали су га.
+Па то је да се теже погоди
+Дај сто евра, па ћу ти рећи!
+- Па зар не видиш, перем кору од банане!
+Луд или не, али хиљаду евра дневно свакако имам.
+Склекове.
+Трафике.
+Његова сахрана.
+Дођи у августу на 40 дана.
+Елеганци.
+Екстраваганци.
+Јесам, шта је још потребно?
+Пушим, али не помаже.
+Да, он је доктор.
+Са женом.
+Има 4 зечје шапе.
+Добро тата, не љути се, сам ћу урадити домаћи!
+Будим се сваких сат времена и плачем.
+Обриши га.
+Лева рука.
+Ниједан, већ је изграђен.
+У Вашингтону.
+Не знам, и ја сам сад стигао.
+Шта нас брига, имамо ланце.
+Ма нема шансе, касни два круга.
+Ниједном, умро је од смеха.
+Метар и осамдесет, седим.
+Знам, морали смо да их оперемо.
+Кад се вратио по циглу.
+Нестало струје па га довршавају на свећу!
+Пандур.
+Па јеси луд, нећу ваљда јести слане јабуке?
+па сам пустио пса, и стигао га је.
+У бибилиотеку.
+Испод лопате.
+На географској карти.
+У лудници.
+На дну странице.
+Тамо где си је оставио.
+У крави.
+Где хоће.
+У Пироту, тамо не можеш ништа да добијеш.
+У Супер-маркету.
+Испод сапуна.
+Па то сам и урадио. Дао сам му шамар и узео ужину!
+Бицикле.
+Зависи на коју страну дува ветар.
+Добро, сад је сигурно мртав. Шта сад?
+Рек'о ми доктор, да пиће не смем ни да погледам.
+Она што стоји, мрзи је да легне.
+Па играм све по мало, зависи колике су квоте!
+Значи, рек'о сам ДАЋЕТЕ МИ!
+Упс, неко ти га је већ испричао.
+Ма јок, пребаци ми на USB!
+Не знам где сам је оставио.
+Знам, али у чекаоници је велика гужва, а мени се жури на утакмицу.
+Па ја сам.
+'Ајде ти стави руку у овако врућу воду.
+Три и по.
+Ма ништа, слободно кашљите.
+И доктор му сузи око.
+Кога, бре, ти да мучиш???
+Десет, девет, осам, седам...
+Живот имам, али пара би ми добро дошло.
+каже човек да авион још није ни полетео!
+Са виљушком.
+Није правилно, правилно је "у шупи".
+Па ви сте први почели.
+Гледа Мујо у њега, мисли, чешка се и извади 5 долара и да му.
+Ајде још једну, кад си навалила.
+Да избројим мушице.
+Мени су рекли да морам одлежати две године.
+Ево, ја чуо народ спомиње неке лежеће полицајце, па дошао да се пријавим.
+Па што се пипаш ту?
+пуном кофом воде и каже:NEWLINE-Ево вам, али после вратите кофу.
+Опроштено вам је, не морате се извињавати.
+Зато што мораш да одвајаш бели од црног веша.
+Зато што је свима обећала посао!
+Хоће да сурфује.
+Ко ће да пуца, а да не промаши, па убије Аустријанца?NEWLINEНајближи топ мора да буде у Загребу да не погоди Грац.NEWLINEАвиони се не могу окренути, а да не уђу у Аустрију.NEWLINEНе стану два ратна брода у словенски део мора.
+Не зезај да имаш?
+Дуге гаће.
+Буразеру, немој молим те балон, сипај ми у чашицу.
+Ће се подавите за 'иљаду динара...
+Онда упадај да истоваримо овај цемент!
+Е, брате, а како ћу онда ја да се зовем?
+Положи и ти, па ћеш је добити.
+Шта ће јој?
+Рекао му доктор да не сме ни да погледа пиће.
+Да не пробуде публику.
+Љушти јој се кожа.
+Схаватају да улазе у свет Чака Нориса.
+Зато што их има више.
+Зато што се једино тамо не може изгубити.
+Да нахрани гусенице.
+Не може да забије главу у њу.
+Оду, па не знају да се врате.
+Дошло им из дупета у главу.
+Дуже ће бранити брод.
+Merry (Мери) Christmas.
+Да не мора да се сагне кад му испадне.
+Да не би осећала смрад својих ногу.
+Не могу да изведу слободан ударац.
+Није се добро сакрио.
+Тамо им је гробље.
+Интернетом не можеш да убијаш муве.
+Шпагете им испадају кроз решетке.
+Можеш да свалиш кривицу на другог.
+Може да пасе код комшије.
+Чак Норис је опрао ноге у њему.
+Сео је на задње седиште.
+Зато што му је доктор рекао да се држи даље од кокаина.
+Јамајчани су попушили сву траву, а Колубијци су пошмркали све линије.
+Све соко до сокола.
+Јер корнере изводе из Хрватске и Италије.
+Не зна се који је већи коњ.
+Да му не падну панталоне.
+Зато што вежба два дана дневно.
+А зашто Јеврејин не би на питање одговарао питањем?
+Умро му брат.
+Да греје руке кад га гураш.
+Зато што је Радо-ван.
+Побегла од куће.
+Нема муда.
+Јер нема руке да је смота.
+Зато што нису прскане.
 Kinder surprise.
-Zato što je privlačan.
-Zato što ne mogu da naprave živi zid.
-Šmrk'o je koku.
-Da ne bi ulazili kroz gepek.
-Nemaju atmosferu.
-Zato što trče za parkiranim automobilima.
-Avgust je.
-Pije srednju.
-Da ga ne pogodi pesma.
-Zato što na njima piše 'Police'.
-Zato što mu se može.
-Zato što je pas jači od repa, inače bi rep mahao psom.
-Gleda kako muzika vraća pare.
-Seli se.
-Da zadrži bolje komade.
-Da bi videli da li se ugasilo svetlo.
-Zato što na njemu piše EURO krem.
-Da joj ne odnesu auto.
-Da vidi kako vreme leti.
-Da nahrani zebru.
-Zato što je čula da će konobar da joj servira.
-Da ne bi pao sistem.
-Zbog slepog crijeva.
-Da bi bio bogatiji program.
-Zato što na njima piše puma.
-Da bi imala centralno grejanje.
-Da ima slađi san.
-Zato što je čula da tamo ima 90 stepeni.
-Misli da je slikaju.
-Hoće da cita u sebi.
-Jer su visoke cene.
-Ispravlja greške u kucanju.
-Zato što na njemu pise dijamant.
-Zato jer na pakovanju piše do 10 kg.
-Boli je dok podgreva mleko.
-Ne zna koja jedinica ide prva.
-Jer treba da izađu u sto većem broju.
-Ima viruse.
-Jer ima slepo crevo.
-Zato što igra Srna.
-Zato što je otvoren windows.
-Da bi sekla krivine.
-Zato što na jogurtu piše otvori ovde.
-Jer na tetrapaku piše 'otvori ovde'.
-Zato što na šamponu pise wash and go.
-Hoće da surfuje.
-Zato što su joj rekli da je dobra riba.
-Da joj ne bi virili kroz ključaonicu.
-Zato što je čula da ne pustaju bez kaucije.
-Zato što je čula da kuća časti.
-Na omotu CD-a piše Riblja Čorba
-Da joj ne bi nešto palo na pamet.
-Zato što vreme leči sve.
-Čeka večernji list.
-Želi da bude visoko obrazovana.
-Da ga ne bi neko sačekao iza ćoška.
-Zato što je smotana.
-Jer prelaze granicu.
-Posmatrao je sve svoje jedinice.
-Udvara se ležećem policajcu.
-Čeka da se upali zeleno svetlo na bojleru.
-Zar bi ste se vi smejali da vam majka za jelo svakog dana donosi samo crve?
-Imaće više vremena da uči kod kuće.
-Zato što svi beže od Čaka Norisa.
-Plaši se miša.
-Boji se miša.
-Kad bi se ovakvi fazoni pričali o vama, ni vi ne biste voleli da vas svugde prepoznaju.
-Pokušavaju da zaborave.
-Kaže ženi da je kod švalerke, švalerki da je kod žene i ode da uči.
-Zato što su im roditelji svinje.
-Zato što je bio pun.
-Imaju dve leve noge.
-Traže ležaj.
-Ako dođu do zemlje, moraće je obrađivati.
-Zato što su im dosadile lovačke priče.
-Slepi putnici.
-Stao je, pa su otišli da ga guraju.
-Bili su u Bosni 500 godina.
-Čak Noris hoda.
-Nisam zaboravio na nju mama, zato i jedem tako brzo!
-Zato što mu je majka krava.
-Državi treba gas.
-Čak Noris ih je pojeo.
-Svako ubio svoga.
-Jer su se pobunili Hrvati, Italijani, Austrijanci i Mađari da je preglasna.
-Jer ga više ne bi imao ko gledati.
-Zato što se sve vidi kroz prozor.
-Ne izgubi uvek bik u koridi.
-Jer bi ga uzgazili.
-Duže će braniti brod.
-Ne mogu da izvedu slobodan udarac.
-Nije se dobro sakrio.
-Da ne bi osećala smrad svojih nogu.
-Ne zezaj da imaš?
-Duge gaće.
-Nije joj ništa!
-Pa na šta vi ličite?
-Ja bijem, ti biješ,...
-Rom memorija.
-Otvoriš dnevnik i vidiš 1 2 1 2 1 2.
-A koliko je dozvoljeno?
-Pravi se pametna.
-Kako to misliš punila? Pa šaran uopšte nije bio prazan.
-Vozi A4.
-Koje ribe?
-Čekaju dnevnik da čuju.
-Gospodine sudija, ko još krade tramvaje?
-Čak Noris je oprao noge u njemu.
-Beeeeee.
-Pogrešan rezultat.
-Gleda Mujo u njega, misli, češka se i izvadi 5 dolara i da mu.
-Pa vi ste prvi počeli.
-Položi i ti pa ćeš je dobiti.
-Zato što moraš da odvajaš beli od crnog veša.
-Imam, ne sekiraj se ti za mene.
-Rakija od slona.
-Gurnite ga litice.
-Vagu.
-Zato što im je daleko da hodaju.
-Nije to od patke, već od kokoške.
-Onda upadaj da istovarimo ovaj cement.
-plaćam pomalo, koliko mogu.
-Da ga prebiješ.
-Stvarno nema nikog kod kuće.
-Nosi ženu preko Praga.
-Ne znam, i ja sad stigao.
-Evo, ja čuo narod spominje neke ležeće policajce pa došao da se prijavim.
-Onako, iz sprdnje.
-Zato što nema teksta.
-Grobar. Svi leže, samo on radi.
-Odvikavam se od pušenja.
-Šta je to jastuk?
-Kad nećete vi pivo, neću ni ja.
-Džogiranje.
-Sa ženom.
-Pa ti stvarno nisi normalna! Sad, u pola noći, da te vozim kod mame?
-Da bi imao veće dvorište.
-Znam, rekao sam da ima droga u njima.
-Mišn.
-Pali kombajn! 
-U državnim.
-Grba.
-KopaoNik.
-Mačka u prahu.
-Nadgrobna.
-Pa imam tremu, šta ako ne pobedim?
-100e, nije imala više.
-Zato što je Rado-van.
-Dobro, onda crkni!
-Zato što je tata juče pokušao isto i dobio šamar.
-Ne, odavno su mi je pojeli.
-Puca.
-Eeeeeeee…
-Čekam sekretaricu.
-Koja guma?NEWLINEa) prednja levaNEWLINEb) zadnja levaNEWLINEc) prednja desnaNEWLINEd) zadnja desna
-Znam, ali u čekaonici je velika gužva, a meni se žuri na utakmicu.
-Nemoj da ti je palo na pamet da si skočio sa nje!NEWLINE- Ma ti ćeš da mi kažeš!
-Teta ________.
-Umro mu brat.
-Što izlaziš kada ne znaš da se vratiš?
-Uh, dobro je, onda nas dvojicu neće.
-Da, preko dvadeset godina.
-Ne, to je hemičar.
-Ajde još jednu, kad si navalila.
-Na groblju.
-Sa viljuškom.
-pa sam pustio psa, i stigao ga je.
-Na ljuljašci.
-Pa đe je sad zakazaše, u sred ispitnog roka!
-Kome ti kažeš da je gej?
-Jao, a izgledate kao pravi!
-Ugase playstation.
-Sa kojim hoće.
-Je l’ još štuca?
-Šumeću tabletu!
-Nijednom, umro je od smeha
-Biću ženu, decu,...
-Ma šta ću ga pitat’, ba?! Znam da je Zagreb, nego nisam se čuo s Hasom još otkako je otišao u Australiju.
-Sir pojedi, a rupe ostavi!
-Izlazite, Bosanci.
-Pregažena.
-(Ko) pita ne skita.
-Velikan.
-Teorija zavese.
-Začin ce ce.
-Vabvadov.
-SRPski.
-Ćao ćao.
-Baba droga.
-Da se popije srednja.
-Ide slonu po živcima.
-Šrek.
-Pa ta potvrda!
-A ti bi da se trkaš?
-Zato što tamo stoji natpis: "Besplatan parking za invalide"!
-Na slona se možeš nasloniti, a na klavir se ne možeš naklaviriti.
-Da, on je doktor.
-Obriši ga.
-Nemamo, imamo domaću, ali ako hoćete, možemo da je iznerviramo!
-Čistačica očisti sve u roku!
-Deset, devet, osam, sedam...
-Pa to sam i uradio. Dao sam mu šamar i uzeo užinu!
-Zato što je svima obećala posao!
-8.
-Na vazdušnim jastucima.
-Ide kod vulkanizera.
-Kolotrag.
-Semafor žurke.
-Na zelenom talasu.
-Rotaciono svetlo.
-Da mu šasiju odelo.
-Bubanj potok.
-Na auto-placu.
-Punu liniju.
-Jugo.
-Putara.
-Zastavu 101.
-Zato što autostrada.
-Biće autoban.
-Pasat koji laje ne ujeda.NEWLINESitroen gladnom ne veruje.
-Alfa romeo.
-Zelene kartone.
-Iskoristio je prvu pomoć.
-Reflektujući prsluk.
-Čuo je da za pojas gaze.
-Izduvne gasove.
-Previše trube.
-Klipove u točkovima.
-Parking.
-Na sat.
-Menjao je ulje.
-Duva u svećice motora.
-BJRM.
-Pomera sat patrolu unazad.
-Radarom.
-Kolika je kvota?
-Kazaću vam sutra!
-Zato da ih ne bi prepoznali ako nešto zeznu!
-Slovo I.
-Pa jesi lud, neću valjda jesti slane jabuke?
-Asmatičar.
-Matematičar.
-E, lepo, dete. A sad mi odseci za tri dinara.
-Ups, neko ti ga je već ispričao.
-Ne brini Haso, sviram samo na crnim dirkama!
-kaže čovek da avion još nije ni poleteo!
-Ne znam ko je al' papa mu vozač
-Šta ti meni šta je bilo?
-Galileo Galilej.
-Ko govori o salu, idiote? Pričamo o bakarnim olucima.
-Oprošteno vam je, ne morate se izvinjavati.
-Koga ćale, koga?
-Mene strijeljajte prvog.
-Burazeru, nemoj molim te balon, sipaj mi u čašicu.
-Đe s' ba, šta ima?
-Smiri se bolan, mi se vraćamo nazad čim istovarimo crnogorsku delegaciju.
-Palermo.
-Znam, morali smo da ih operemo.
-Tenkom.
-E ja sam u kafani preko puta.
-Aj' diž se i pleši, pusti mene da sednem!
-Ma jok, prebaci mi na USB!
-Pa što ga ne bacite?
-Ostavila je komadić sira kraj miša.
-Pa igram sve po malo, zavisi kolike su kvote!
-Jesam, šta je još potrebno?
-Ne sine, ti ćeš manje da jedeš.
-A onda joj nisam platio, da bi naučila kako stvari funkcionišu u Srbiji.
-Budim se svakih sat vremena i plačem.
-Brate Srbine, ako si brat i drug, ako si Srbin, vrati ovaj kamen nazad da zeznemo još nekoga.
-Šta čitao, pojeo!
-Prelazak Pg u Bg.
-Gajba.
-Će se podavite za 'iljadu dinara...
-Ja sam divlji taksista!
-Ma nije to ljubav, nego već 5 godina ne mogu da se setim kako se ona zove!
-Više ne. Ona zadnja jedinica ga je totalno slomila!
-јооооој
-Ма јок, то ми је од пива.
-Dobro, sad je sigurno mrtav. Šta sad?
-Da krv i čeka rezultate.
-Dobro tata, ne ljuti se, sam ću uraditi domaći!
-Ne samo od radoznalosti...
-Jeste, baš njega i traže.
-Ima 4 zečje šape.
-Ja. A sad idem kući. Ćao i ne zaboravi da mi zaključiš ocenu!!!
-Ne, ja sam zubar.
-Kad uzmem 10 evra, igra je gotova.
-Život imam, ali para bi mi dobro došlo.
-Sad ce da te pretiče.
-Ko pije i puši, nema gliste!
-Seo je na zadnje sedište.
+Зато што је привлачан.
+Превише трубе.
+Чуо је да за појас газе.
+Зато што не могу да направе живи зид.
+Шмркао је коку.
+Да не би улазили кроз гепек.
+Зато што гвоздена врата отвара.
+Немају атмосферу.
+Биће autobahn.
+Зато што трче за паркираним аутомобилима.
+Август је.
+Пије средњу.
+Да га не погоди песма.
+Зато што на њима пише 'Police'.
+Зато што му се може.
+Зато што је пас јачи од репа, иначе би реп махао псом.
+Да би имао веће двориште.
+Гледа како музика враћа паре.
+Сели се.
+Да задржи боље комаде.
+Зато што тамо стоји натпис: "Бесплатан паркинг за инвалиде"!
+Да би видели да ли се угасило светло.
+Зато што на њему пише крем ЕУРО.
+(Ко) пита не скита.
+Да јој не однесу ауто.
+Да види како време лети.
+Да нахрани зебру.
+Зато што је чула да ће конобар да јој сервира.
+Да не би пао систем.
+Да би био богатији програм.
+Зато што на њима пише пума.
+Да би имала централно грејање.
+Да има слађи сан.
+Зато што је чула да тамо има 90 степени.
+Мисли да је сликају.
+Хоће да чита у себи.
+Јер су високе цене.
+Зато што на њему писе дијамант.
+Исправља грешке у куцању.
+Зато јер на паковању пише до 10 кг.
+Боли је док подгрева млеко.
+Не зна која јединица иде прва.
+Јер треба да изађу у што већем броју.
+Има вирусе.
+Јер има слепо црево.
+Да би секла кривине.
+Зато што је отворен windows.
+Јер на тетрапаку пише 'отвори овде'.
+Вози А4.
+Зато што су јој рекли да је добра риба.
+Да јој не би вирили кроз кључаоницу.
+Зато што је чула да пуштају уз кауцију.
+Да јој не би нешто пало на памет.
+Зато што време лечи све.
+На омоту ЦД-а пише Рибља Чорба
+Зато што је чула да кућа части.
+Чека вечерњи лист.
+Прави се паметна.
+Жели да буде високо образована.
+Зато што на шампону писе wash and go.
+Да га не би неко сачекао иза ћошка.
+Зато што им је далеко да ходају.
+Зато што је смотана.
+Јер прелазе границу.
+Посматрао је све своје јединице.
+Удвара се лежећем полицајцу.
+Зар би сте се ви смејали да вам мајка за јело сваког дана доноси само црве?
+Чека да се упали зелено светло на бојлеру.
+Зато што сви беже од Чака Нориса.
+Имаће више времена да учи код куће.
+Боји се миша.
+Кад би се овакви вицеви причали о вама, ни ви не бисте волели да вас свугде препознају.
+Покушавају да забораве.
+Зато што су им родитељи свиње.
+Зато што је био пун.
+Зато што је autostrada.
+Онако, из спрдње.
+Зато што су им досадиле ловачке приче.
+Слепи путници.
+Стао је, па су отишли да га гурају.
+Били су у Босни 500 година.
+Ако дођу до земље, мораће је обрађивати.
+Траже лежај.
+Имају две леве ноге.
+Чак Норис хода.
+Нисам заборавио на њу мама, зато и једем тако брзо!
+Зато што му је мајка крава.
+Држави треба гас.
+Чак Норис их је појео.
+Јер би га узгазили.
+Свако убио свога.
+Јер су се побунили Хрвати, Италијани, Аустријанци и Мађари да је музика прегласна.
+Јер га више не би имао ко гледати.
+Зато што се све види кроз прозор.
+Не изгуби увек бик у кориди.
+Зато што би пао кад би подигао и другу.
+Да не оставе отиске прстију.
+Зато да их не би препознали ако нешто зезну!
+Нога кокошке има 3 прста.
+Јули је.
+Да им не би наплаћивали роминг.
+Жао им гвожђа.
+Сео на ексер и мрзи га да устане.
+Зато што су чули да тамо нема посла.
+Зато што нема текста.
+Каже жени да је код швалерке, швалерки да је код жене и оде да учи.
+Па на шта ви личите?
+Ма нема фрке, купићу малом чоколадно млеко.
+Није јој ништа!
+Е ја сам у кафани преко пута.
+Ма шути болан, хоћемо и ми да видимо гол.
+Пали комбајн! 
+Сине, баба пала на дупе, а не на главу.
+Добро, онда цркни!
+Иде слону по живцима.
+Није то од патке, већ од кокошке.
+Трећа глиста лаже.
+Зато што је тата јуче покушао исто и добио шамар.
+Ја бијем, ти бијеш,...
+Да га пребијеш.
+Свих 10 зато што рибице не могу да се угуше, удаве или побегну из акваријума.
+Товари док не буду џаба.
+Која гума?NEWLINEа) предња леваNEWLINEб) задња леваNEWLINEц) предња деснаNEWLINEд) задња десна
+Шта читао, појео!
+Кад крава уђе у купус.
+Кад саплетеш конобара.
+Кад му запрете отказом.
+Кад је најслађе.
+Вагу.
+Они воле да сликају змајеве.
+Леле, је л' поцеп'о патику?
+Стварно нема никог код куће.
+Породични.
+Колотраг.
+Фикс идеја.
+Велика.
+Семафор журке.
+Да купиш нова кола.
+Гајба.
+Дођите, ваш ауто је већ овде!
+Прелазак Пг у Бг.
+Како год хоћеш. Бетон је врло чврст и не пуца тако лако.
+Има затамњена стакла на инкубатору.
+Са задњег седишта.
+На прсте.
+Казаћу вам сутра!
+На вр' дабр бавр дамр.
+:)>+
+Значи сестро, брате, ћале си, кеве ми!
+Без жандара.
+Значи це.
+Оставила је комадић сира крај миша.
+Муслиман.
+Господине.
+Добијеш е-маил : Ај' да се кладимо да не можеш да форматираш Ц:.
+Поједи за доручак два жилета.
+Прешао на јужни.
+Пресечеш конопац.
+Чак Норис је искочио из авиона.
+Плус се одузео.
+Обрисао је дупе погрешном руком.
+Сипаш гориво.
+Брза храна.
+Једе једним штапићем.
+Баце шерпу низ степенице па како се чује.
+На дугме.
+Снесе јаје на бетон.
+Чекају дневник да чују.
+Ав. . . Ав. . . Ав.
+На САТ.
+Радаром.
+Слон са једном руком не постоји.
+Уплашити га на бетону.
+Ћао ћао.
+Јупи, јупи.
+Кроз зубе, да задржи веће комаде.
+Проспе кукуруз и преко стави стакло.
+Провуче му кредитну картицу кроз хармонику.
+Каже им да је изгубила динар.
+Убије роду.
+Покуцаш им на врата.
+Тури главу у лонац.
+Стави је у теглу и лиже говно.
+Стави је на сто и каже: Отварај, полиција!
+Украдеш 6 јаја.
+Носи златан ручни сат око појаса.
+Носи најлепшу тренерку.
+По боловима у желуцу.
+Идите да спавате.
+Разместе намештај.
+Гурните га литице.
+Појео жуманце.
+Мичу му се усне.
+Куле земљакиње.
+Два круга око Словеније.
+Баба дрога.
+Синдром.
+Феномен.
+Недим.
+Садифа.
+Лего Коцкица
+Копилот.
+Зачин це це.
+Биво.
+Лајковац.
+Одеон
+Брусилица.
+Прегажена.
+Не знам.
 Pena party.
-Ma kakve želje, tozla je tozla.
-Ispuniću ti 10 000 želja, samo me nemoj vratiti unutra!
-'Oćeš ti na mast ili na ulje?!
-Meni je dosadno. 'Ajde ti meni vrati onu dvojicu.
-Želim da uhvatim zlatnu ribicu koja ispunjava tri želje.
-Želim 100 Skinhedova pored mene!
-Ajkula skoči i odgrize mu noge!
-Tri želje? Ne seri!
-Ma, ajde dobro! Reci!
-Ni po mleko da mi ne dolaze!
-I pretvori ga ribica u wc šolju.
-LUDILO BRATEEEE!
-Brate, skini mu kajlu!
-Lažeš, plakao si!
-Ne laži da završava u bolnici!
-Jesam brate, vidi kakav Ajfon!
-E, brate, a kako ću onda ja da se zovem?
-M kao Munze, slinavi!
-Koga ćeš, bre, ti da vaspitaš?
-Ma nema frke, kupiću malom čokoladno mleko.
-Kauciju.
-Pa budio sam joj i majku i oca i brata i sve u kući, i ništa.
-Kevo, šta ti je? Nije to bila moja glava!
-Morao sam, brate, previše je znala!
-Panduri izuvaju cipele kad skaču po trambolini. 
-Koga, bre, ti da mučiš???
-Ma, š'a bre ti meni š'a je bilo, breeee!!!
-Dva šamara, brate!
-Pa sine, da imam recept pravio bih ga sam.
-Upaše jorgan u pidžamu.
-U jednu ruku da, a u drugu ne.
-Ne znam gde sam je ostavio.
-Od kamate.
+Ромео.
+ПаЛерМо.
+Калибри.
+Прозор.
+Теорија завесе.
+Ромињање.
+Срчка.
+Кокаин.
+Кост и кожа.
+Додатна опрема.
+Грба.
+Заштићени сведок.
+Londoff.
+ЛиМарија.
+Математичар.
+МаЧак.
+Carlos.
+Мишн (mission).
+Осигурач.
+Ципирипи.
+Громада.
+Та И Кун.
+Сашими Сако.
+Нумерација блокова на Новом Београду.
+Досеже Плафон.
+Жу Mан Це.NEWLINEЛи Мун.
+T. Hanks.
+Смај Ли.
+Великан.
+Пит-бул ентеријер.
+Није битно. Ионако не може доћи.
+ШанКер.
+Петарда.
+CICIA.
+КопаоНик.
+Алфа Ромео.
+Електрода.
+Ћуфта.
+Синалко.
+Миш.
+Триглав.
+Тром.
+Ганц-нов.
+Philips Вишњић.
+Циганштура.
+Кацига.
+Ром меморија.
+Дигитрон.
+Тромб.
+Арома.
+Промаја.
+ЦиганИн.
+Бром или хром.
+Миле.
+ЦД Ром.
+Цигла.
+Громобран.
+Гром.
+Избацига.
+Циганлук.
+Кромпир.
+Ромбоид.
+Аеродром.
+Роман.
+Ерих Фром.
+Цигара.
+Ганци Роузис (Gancy '&' Roses).
+Погром.
+Ромарио.
+Смрдибуба.
+Роминг.
+Промотер.
+Хиподром.
+Рома.
+Комичар.
+Асматичар.
+Don cafe.
+Шрек.
+Ромљани.
+Toshiba ko ludo.
+Скелет-варош.
+Уђи.
+Translate me to the second page of the street.
+Nasugushi kokopushi.
+Дигну свих осам у вис.
+Даш портиру барометар да ти каже.
+Мухамед.
+Ал-хемичар.
+Мубарак.
+Li yen chi na.
+Самајама.
+Бин Ладен.
+Баскетбалија.
+Отуђманити.
+Бранимир Главаш.
+Домобран.
+А?
+Супермен.
+Адиос ембриос.
+Врло брзо.
+Пешаком на C4.
+Запали шуму и чека канадер.
+Пала је са дрвета.
+Где си земљаче!
+Ав..... Ав Ав.
+Бацио поглед у утикач.
+Скинућу ти све авионе с неба.
+Ја се теби свиђам, а ти мени?NEWLINEВидиш онај цвет? Убери га, за тебе је.
+БЈРМ.
+На петицу.
+Усправи се.
+Од 0 до границе.
+Речено им је да дигну тенкове у ваздух.
+Чак Норис је шутнуо коња у браду.
+Забију се канадером у ватру.
+Никако.
+Убаци се мрвица хлеба и ако је појела, онда је женско, а ако је појео, онда је мушко.
+Ђетић незнаног јунака.
+Убацити парче хлеба у фићу.
+Цигацигацигацигаромромромромром!
+Гурне бакарну жицу. Ако повуче, трудна је.
+Ветар океће листове.
+На екс.
+Уздуж.
+Спава само ноћу.
+Раставићу те на чиниоце.
+Онај ко је члан СНС-а.
+Није довољно куван.
+физички је радник.
+Словенци, јер нису имали довољно рибе да попуне конзерву.
+Црногорац на Петловом брду.
+Не зна.
+цео дан зева.
+најспорије капира.
+Полицајци и цариници.
+тај се начека.
+Бееееее.
+Ексере.
+gmail@chucknorris.com
+Партизан.
+Две таште.
+Палчић.
 Need for speed.
-Zato što bi pao kad bi podigao i drugu.
-U Super marketu.
+Пасат који лаје не уједа.NEWLINEСитроен гладном не верује.
+Надгробна.
+У броју телефона.
+Баба одигра добро бар два кола.
+Пандури изувају ципеле кад скачу по трамболини. 
+Јеховином сведоку можеш да залушиш врата.
+Чује се бум ааааааааааааа, односно аааааааааааа бум
+Педофил стварно воли децу.
+Продавац кола је свестан кад лаже.
+4
+На слона се можеш наслонити, а на клавир се не можеш наклавирити.
+Лешинар најпре сачека да умреш па ти онда једе џигерицу.
+Кад гуму ставиш у ланце, не пева блуз.
+Кад бицикл вежеш за зид, не пева блуз.
+Чистачица очисти све у року.
+И морско прасе, нити је морско, нити је прасе.
+Најопаснији је Тихи.
+Ни једни ни други не знају да играју фудбал.
+Јагње.
+1.NEWLINE2.NEWLINE3.
+Не знам.
+1862. (признаје се било која година осим 1914)
+Жуто.
+Време распродаје.
+WЦ. Тамо су се и најхрабрији усрали.
+Папаја.
+Службени.
+Југо.
+Брак.
+СРПски.
+Само скренеш.
+Гробар. Сви леже, само он ради.
+Пешкир.
+Бубањ поток.
+Алфа ромео.
+Пикаћу.
+Геометрија, кад наставник каже: "Повуците црту."
+50м.
+Iron man.
+Радови на путу.
+Онај од две литре.
+ДоруЧак и руЧак.
+Резервни.
+Вабвадов.
+7,5 цм без филтера.
+8
+Све.
+Не знам ко је, ал' папа му возач
+Ма није, али ево је, иде!
+Ееееееее…
+Кево, шта ти је? То није била моја глава!
+За 500 дин.
+Ма, ш'а бре ти мени ш'а је било, брееее!!!
+Кад узмем 1000, игра је готова.
+Сир поједи, а рупе остави!
+Марко.
+Не брини Хасо, свирам само на црним диркама!
+Ма шта ћу га питат’, ба?! Знам да је Загреб, него нисам се чуо с Хасом још откако је отишао у Аустралију.
+Да, преко двадесет година.
+Не, ја сам зубар.
+Алат што даље од мене!
+Ајде бре судија, немој сад и ти, доста ми је што ме цео Земун зеза.
+Имам у гаражи два Магнума и три Калашњикова!
+Галилео Галилеј.
+На ауто-плацу.
+На зеленом таласу.
+На ваздушним јастуцима.
+На чоколаду са лешницима.
+Јој, јој, не знам, никад нисам стигао овако далеко.
+Од нуклеарног мравоједа.
+плаћам по мало, колико могу.
+Ја.
+Ако је полиција прекопала башту, посади кромпир.
+Које рибе?
+Немамо, имамо домаћу, али ако хоћете, можемо да је изнервирамо!
+Кога ћале, кога?
+Није ни битно, важно је да падају.
+На гробљу.
+Желим да ухватим златну рибицу која испуњава три жеље.
+Ко? Ја?
+Ето, сад зна.
+ЛУДИЛО БРАТЕЕЕЕ!
+Желим 100 Скинхедова поред мене!
+Ајкула скочи и одгризе му ноге!
+Ни по млеко да ми не долазе!
+А кога ћу другог?
+Камера вамо, камера тамо...
+Лажеш, плакао си!
+Два шамара, брате!
+Од камате, брате!
+Копала.
+Јуче ми била пуна кућа гостију.
+Има, добијају деца.
+Неоправдани.
+Плафон.
+У једну руку да, а у другу не.
+Како то, болан, мислиш да се Земља окреће? Слушај мали, да ти то ниси нашао моју ракију?
+Кога ћеш, бре, ти да васпиташ?
+7
+Више не. Она задња јединица га је тотално сломила!
+Како да не. Жандар, дама, краљ и кец.
+Општинско/градско из...
+Тенком.
+Бићу жену, децу,...
+А колико је дозвољено?
+Коме ти кажеш да је геј?
+Како то мислиш пунила? Па шаран уопште није био празан.
+Проба успешна, сутра дефинитивно бежимо!
+А онда јој нисам платио, да би научила како ствари функционишу у Србији.
+Суше WC папир на жици за веш.
+Ко пије и пуши, нема глисте!
+Знам, рекао сам да има дрога у њима.
+Не, ја ћу сачекати полицију.
+Мене стрељајте првог.
+Ај' диж се и плеши, пусти мене да сједнем!
+Онај који је нормалан извуче чеп са дна каде. Желите ли собу са балконом или без? (ако је одговор погрешан)
+Шта, шта је било? Па убисмо га!
+Тета ________.
+Па имам трему, шта ако не победим?
+Па будио сам јој и мајку и оца и брата и све у кући, и ништа.
+Јесам брате, види какав ајфон!
+Шта ти мени шта је било?
+Па полиција.
+Н.
+Шта је то јастук?
+Брате Србине, ако си брат и друг, ако си Србин, врати овај камен назад, да зезнемо још некога.
+Погрешан резултат.
+Веома брзе.
+Ја. А сад идем кући. Ћао и не заборави да ми закључиш оцену!!!
+Ено је, још увек је пред вратима.
+Јесте, баш њега и траже.
+Јооооој
+Видео
+Пас
+Вода
+Зуб
+Јанко
+ПЈ
+Супа
+Новац
+Мг
+000
+Смрт
+Це
+Тиранин
+Звр
+Зл
+К
+Пендрек
+Бојовић
+Паркинг
+Смири се болан, ми се враћамо назад чим истоваримо црногорску делегацију.
+Са којим хоће.
+Ух, добро је, онда нас двојицу неће.
+Ко говори о салу, идиоте? Причамо о бакарним олуцима.
+Е, лепо, дете. А сад ми одсеци за три динара.
+Имам, не секирај се ти за мене.
+Добићете ви своје чим вас нађемо на карти!
+а несложна две.
+Ма није то љубав, него већ 5 година не могу да се сетим како се она зове!
+Не лажи да завршава (посао/робу) у болници!
+Три жеље? Не сери!
+Мунзе Конзу.
+Овај воз иде из станице, а ти идеш у станицу.
+Ма јок, то ми је од пива.
+Одвикавам се од пушења.
+Сад ће да те претиче.
+Господине судија, ко још краде трамваје?
+Излазите, Босанци.
+Немој да ти је пало на памет да си скочио са ње!NEWLINE- Ма ти ћеш да ми кажеш!
+Не сине, ти ћеш мање да једеш.
+Зато што не умем другачије.
+На доле!
+Колико ко може, литар - два.
+У државним.
+Ђе с' ба, шта има?
+Не, одавно су ми је појели.
+На љуљашци.
+Мачка има само 9 живота.
+Ма лењост. Све данас ћу, сутра ћу и никако.
+Успела је да је сачува.
+Ја сам дивљи таксиста!
+Па сине, да имам рецепт, правио бих га сам.
+Па што га не баците?
+А где му је капа?
+Па где вам је?
+Па та потврда!
+Испунићу ти 10 000 жеља, само ме немој вратити унутра!
+Шумећу таблету!
+Колика је квота?
+Не само од радозналости...
+'Оћеш ти на маст или на уље?!
+Ма какве жеље, тозла је тозла.
+Јао, а изгледате као прави!
+Па ти стварно ниси нормална! Сад, у пола ноћи, да те возим код маме?
+Смирите се људи, имамо ми гутача ватре!
+Ма, ајде добро! Реци!
+Добро, ја мислио да радимо нешто.
+И претвори га рибица у wc шољу.
+Брате, скини му кајлу!
+А ти би да се тркаш?
+Чекам секретарицу.
+Морао сам, брате, превише је знала!
+Назвала ме матер јутрос и рекла да нам долази у госте.
+Је л’ још штуца?
+Књигама.
+Марамицом.
+Не, то је хемичар.
+Млеко је било у праху.
+Што излазиш, кад не знаш да се вратиш?
+Оћеш да прођемо још једном?
+М као Мунзе, слинави!
+Мени је досадно. 'Ајде ти мени врати ону двојицу.
+Чекају 18. јер је забрањен улазак испод 18.
+Појели би змију, а не јабуку.
+Ротационо светло.
+Клипове у точковима.
+Убијете лава и побегнете јагуаром.
+Научи их да лају.
+Извадиш осигурач и вратиш му је.
+Зелене картоне.
+Батине.
+Црни чај.
+Кауцију.
+Дочекушу.
+Орла.
+Демокра (шатровачко од крадемо) ти и ја.
+Дрогирана странка Србије.
+Отац.
+Нишка индустрија кривих ексера.
+Пола дајеш влади/Вучићу.
+Српска наркоманска странка.
+Српска педерска странка.NEWLINEСа педерима смо.
+Српска ретардирана странка.NEWLINEСами растурили странку.
+Издувне гасове.
+Путара.
+Рукавица.
+Срећан пит-бул теријер.
+Јако велике руке.
+Ништа ефикасно.NEWLINEЦигле, мотке, камење...
+Испадну пудлици очи.
+Зло и наопако.
+Бик који лети.
+Ексер на путу.
+Рефлектујући прслук.
+Хвала на питању, добро.
+Коњ који навија за Парзизан.
+Школска табла.
+Слово И.
+Фабрика за конзерве.
+Естетски хирург.
+Смоки слави рођендан.
+Четкица за зубе.
+Заставу 101.
+Пуну линију.
+Мачка у праху.
+Коса без главе.
+Ак, ак, ак, ак и ак.
+Свиња са укусом ментола.
+Баба.
+Чиста глупача.
+Сео на њега.
+Мењао је уље.
+Види, Црнац силази са брда.
+Цига који проучава стари Рим.
+Ракија од слона.
+Хиљаду лисица.
+Човек који стално таба кера.
+Банана.
+Жаба у авионском мотору.
+Жаба у миксеру.
+Намагнетисана банана.
+Лопов који се осећа на лук.
+Жаба са говорном маном.
+Буба шваба.
+Црнац наш'о бомбу.
+WЦ шоља.
+Талентована шљива.
+Мрав комуниста.
+Таштина протеза.
+Камен.
+Пилот, расисто!
+Бумбар.
+Беба жваће жилет.
+Копанија за превоз родитеља.
+Искористио је прву помоћ.
+Пластична операција усана.
+Бити или пребити?
+100000 људи.
+То је део одеће који дете облачи када је хладно његовој мајци.
+Отвориш дневник и видиш 1 2 1 2 1 2.
+Људе који раде у воћњаку.
+Извините, не могу да устанем.
+Ај' упадај у кола.
+Ђе с' ба!
+Ни кучета, ни мачета.
+Риголето.
+Не видим у чему је фора.
+Можда налетим.
+Па ђе је сад заказаше, у сред испитног рока!
+Астал да блиста.
+Ханибал је пред вратима.
+Мале кенгуре.
+Да верује.
+Милкшејк.
+Облак.
+Друга половина.
+Рониоце.
+Нека их отворе, да се народ купа.
+Њено дупе.
+Ручак и вечеру.
+Трачак наде.
+Политичаре.
+Један завија, други одвија.
+Броје паре.
+Пију, пију, пију.
+Чекају ред на љуљашку.
+Сели скелу на правни факултет.
+Упаше јорган у пиџаму.
+Пуца.
+Да крв и чека резултате.
+Дува у свећице мотора.
+Иде код вулканизера.
+Помера сат патролу уназад.
+Баци динар у wц шољу да му зине дупе.
+Цимне ватрогасце да га позову.
+Игра се са китом.
+Десни клик и refresh.
+Покупио га канадер.
+Смрди до јаја.
+Ромиња.
+Смрди на 100 м.NEWLINEСмрди за медаљу.
+Смрди на све стране.
+Смрди све у 16 .
+Смрди невиђено.
+Ништа.
+Чека га на следећој станици.
+Носи жену преко Прага.
+Учи напољу.NEWLINEУчи на тераси.
+Учи наглас.
+Што да ситниш? Па то је већ ситно.
+Лења пита.
+Пећурка.
+Чај од нане.
+Чај од мајчине душице.
+Штедна књижица.
+Чај од камилице.
+Туп угао.
+Рајсфершлус.
+Пуно места у аутобусу.
+Зекоња.
+2 метра бодљикаве жице.
+Мед и млеко.
+Не знам, али не бих волео да помиришем.
+Флеке од миша.
+Албанска ратна морнарица.
+Човек који жели да ради, али не може да устане.
+Разбије се огледало.
+100е, није имала више.
+Да му шасију одело.
+Пуно простора.
+Џогирање.
+Пера.
+Потонуће или постаће мокар.
+Угасе playstation.
+Убацити прљав веш и мало прашка.
+Претура по recycle bin-u.
+Лењу питу.
+Лади јаја.
+Пакетић.
+Ситуација кад алга ухвати ритам.
+Ја сам раније хтео бити астронаут, али сад бих да будем Перичина жена!
+Удовица.

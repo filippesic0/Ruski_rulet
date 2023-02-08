@@ -34,3 +34,32 @@ C:\Users\filip\Documents\Visual Studio\Projects\Igre\Ruski rulet\Ruski rulet\obj
 C:\Users\filip\Documents\Visual Studio\Projects\Igre\Ruski rulet\Ruski rulet\obj\Debug\Ruski rulet.csproj.CoreCompileInputs.cache
 C:\Users\filip\Documents\Visual Studio\Projects\Igre\Ruski rulet\Ruski rulet\obj\Debug\Ruski rulet.exe
 C:\Users\filip\Documents\Visual Studio\Projects\Igre\Ruski rulet\Ruski rulet\obj\Debug\Ruski rulet.pdb
+D:\Users\filip\Documents\Visual Studio\Projects\Igre\Ruski rulet\Ruski rulet\bin\Debug\Ruski rulet.exe.config
+D:\Users\filip\Documents\Visual Studio\Projects\Igre\Ruski rulet\Ruski rulet\bin\Debug\Ruski rulet.exe
+D:\Users\filip\Documents\Visual Studio\Projects\Igre\Ruski rulet\Ruski rulet\bin\Debug\Ruski rulet.pdb
+D:\Users\filip\Documents\Visual Studio\Projects\Igre\Ruski rulet\Ruski rulet\bin\Debug\System.Buffers.dll
+D:\Users\filip\Documents\Visual Studio\Projects\Igre\Ruski rulet\Ruski rulet\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Users\filip\Documents\Visual Studio\Projects\Igre\Ruski rulet\Ruski rulet\bin\Debug\System.Memory.dll
+D:\Users\filip\Documents\Visual Studio\Projects\Igre\Ruski rulet\Ruski rulet\bin\Debug\System.Numerics.Vectors.dll
+D:\Users\filip\Documents\Visual Studio\Projects\Igre\Ruski rulet\Ruski rulet\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Users\filip\Documents\Visual Studio\Projects\Igre\Ruski rulet\Ruski rulet\bin\Debug\System.Buffers.xml
+D:\Users\filip\Documents\Visual Studio\Projects\Igre\Ruski rulet\Ruski rulet\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Users\filip\Documents\Visual Studio\Projects\Igre\Ruski rulet\Ruski rulet\bin\Debug\System.Memory.xml
+D:\Users\filip\Documents\Visual Studio\Projects\Igre\Ruski rulet\Ruski rulet\bin\Debug\System.Numerics.Vectors.xml
+D:\Users\filip\Documents\Visual Studio\Projects\Igre\Ruski rulet\Ruski rulet\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Users\filip\Documents\Visual Studio\Projects\Igre\Ruski rulet\Ruski rulet\bin\Debug\Interop.WMPLib.dll
+D:\Users\filip\Documents\Visual Studio\Projects\Igre\Ruski rulet\Ruski rulet\bin\Debug\AxInterop.WMPLib.dll
+D:\Users\filip\Documents\Visual Studio\Projects\Igre\Ruski rulet\Ruski rulet\obj\Debug\Ruski rulet.csproj.AssemblyReference.cache
+D:\Users\filip\Documents\Visual Studio\Projects\Igre\Ruski rulet\Ruski rulet\obj\Debug\Ruski rulet.csproj.SuggestedBindingRedirects.cache
+D:\Users\filip\Documents\Visual Studio\Projects\Igre\Ruski rulet\Ruski rulet\obj\Debug\Interop.WMPLib.dll
+D:\Users\filip\Documents\Visual Studio\Projects\Igre\Ruski rulet\Ruski rulet\obj\Debug\AxInterop.WMPLib.dll
+D:\Users\filip\Documents\Visual Studio\Projects\Igre\Ruski rulet\Ruski rulet\obj\Debug\Ruski rulet.csproj.ResolveComReference.cache
+D:\Users\filip\Documents\Visual Studio\Projects\Igre\Ruski rulet\Ruski rulet\obj\Debug\Ruski_rulet.Player.resources
+D:\Users\filip\Documents\Visual Studio\Projects\Igre\Ruski rulet\Ruski rulet\obj\Debug\Ruski_rulet.Pocetak.resources
+D:\Users\filip\Documents\Visual Studio\Projects\Igre\Ruski rulet\Ruski rulet\obj\Debug\Ruski_rulet.Properties.Resources.resources
+D:\Users\filip\Documents\Visual Studio\Projects\Igre\Ruski rulet\Ruski rulet\obj\Debug\Ruski_rulet.Ruski_rulet.resources
+D:\Users\filip\Documents\Visual Studio\Projects\Igre\Ruski rulet\Ruski rulet\obj\Debug\Ruski rulet.csproj.GenerateResource.cache
+D:\Users\filip\Documents\Visual Studio\Projects\Igre\Ruski rulet\Ruski rulet\obj\Debug\Ruski rulet.csproj.CoreCompileInputs.cache
+D:\Users\filip\Documents\Visual Studio\Projects\Igre\Ruski rulet\Ruski rulet\obj\Debug\Ruski rulet.csproj.CopyComplete
+D:\Users\filip\Documents\Visual Studio\Projects\Igre\Ruski rulet\Ruski rulet\obj\Debug\Ruski rulet.exe
+D:\Users\filip\Documents\Visual Studio\Projects\Igre\Ruski rulet\Ruski rulet\obj\Debug\Ruski rulet.pdb

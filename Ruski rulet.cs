@@ -17,6 +17,7 @@ namespace Ruski_rulet
 		string[] pitanja;
 		string[] odgovori;
 		int[] povezana_pitanja;
+		int[] pitanja_po_rundama;
 		int runda;
 		int izazivac = 0;
 		int izazvao = 0;
@@ -36,6 +37,7 @@ namespace Ruski_rulet
 		bool player_is_free = true;
 		string game_stage = "spica";
 		int opasno_polje;
+		int pocetna_runda;
 
 		public Ruski_rulet()
 		{
@@ -45,7 +47,7 @@ namespace Ruski_rulet
 			play_video(url);
 			//	Sledeca 3 reda su u svrhu testiranja, da se zaobidje uvodna spica i pisanje imena:
 			//	string[] imena = new string[] { "1", "2", "3", "4", "5", "6" };
-			//	string[] imena = new string[] { "1", "2", "", "", "", "" };
+			//	string[] imena = new string[] { "1", "2", "3", "", "", "" };
 			//	Pocetna_podesavanja(imena);
 		}
 
@@ -100,6 +102,11 @@ namespace Ruski_rulet
 			povezana_pitanja = new int[pitanja.Length];
 			for (int i = 0; i < pitanja.Length; i++)
 				povezana_pitanja[i] = int.Parse(pitanja[i]);
+			file = System.IO.Directory.GetCurrentDirectory() + @"\Pitanja po rundama.txt";
+			pitanja = File.ReadAllLines(file);
+			pitanja_po_rundama = new int[pitanja.Length];
+			for (int i = 0; i < pitanja.Length; i++)
+				pitanja_po_rundama[i] = int.Parse(pitanja[i]);
 			file = System.IO.Directory.GetCurrentDirectory() + @"\Pitanja.txt";
 			pitanja = File.ReadAllLines(file);
 			file = System.IO.Directory.GetCurrentDirectory() + @"\Odgovori.txt";
@@ -118,6 +125,7 @@ namespace Ruski_rulet
 			}
 
 			runda = prazna_imena;
+			pocetna_runda = prazna_imena;
 			pitanje.Text = "Želim vam srećan prelazak preko minskog polja uz pesmu: \"Učini jedan pogrešan korak\"!!!";
 			play_video("Runda " + runda);
 			game_stage = "biranje izazivaca";
@@ -326,7 +334,50 @@ namespace Ruski_rulet
 						continue;
 					}
 				}
-				p = random.Next(pitanja.Length);
+				//provera runde
+				while (true)
+				{
+					p = random.Next(pitanja.Length);
+					if (runda == 5)
+					{
+						if (pitanja_po_rundama[p] >= 2)
+						{
+							if (pitanja[p].Length / 15 + 15 <= 20)
+								break;
+						}
+					}
+					else if (runda == 3 || runda == 4)
+					{
+						if (pitanja_po_rundama[p] == runda)
+							break;
+					}
+					else if (runda == 2)
+					{
+						if (pocetna_runda == 2)
+						{
+							if (pitanja_po_rundama[p] <= 2)
+								break;
+						}
+						else
+							if (pitanja_po_rundama[p] == 2)
+							break;
+					}
+					else if (runda == 1)
+					{
+						if (pocetna_runda == 1)
+						{
+							if (pitanja_po_rundama[p] == 1)
+								break;
+						}
+						else
+							if (pitanja_po_rundama[p] <= 2)
+							break;
+					}
+					else
+						if (pitanja_po_rundama[p] == 1)
+						break;
+				}
+
 				if (povezana_pitanja[p] > 0)
 					p = p - povezana_pitanja[p];
 				if (povezana_pitanja[p] == 0 && n > 1)
@@ -863,6 +914,8 @@ namespace Ruski_rulet
 							novac[izazivac].Text = (int.Parse(novac[izazivac].Text) + 50).ToString();
 						if (pitanje_po_redu < 10)
 							otkljucavanje_opasnih_polja(pitanje_po_redu + 1);
+						else
+							runda1234();
 					}
 					else if (game_stage.Equals("preziveo"))
 						otkljucavanje_opasnih_polja(pitanje_po_redu + 1);

@@ -71,11 +71,12 @@
 			this.novac6.AutoSize = true;
 			this.novac6.BackColor = System.Drawing.Color.White;
 			this.novac6.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F);
-			this.novac6.Location = new System.Drawing.Point(90, 239);
-			this.novac6.MaximumSize = new System.Drawing.Size(150, 75);
-			this.novac6.MinimumSize = new System.Drawing.Size(150, 75);
+			this.novac6.Location = new System.Drawing.Point(120, 294);
+			this.novac6.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+			this.novac6.MaximumSize = new System.Drawing.Size(200, 92);
+			this.novac6.MinimumSize = new System.Drawing.Size(200, 92);
 			this.novac6.Name = "novac6";
-			this.novac6.Size = new System.Drawing.Size(150, 75);
+			this.novac6.Size = new System.Drawing.Size(200, 92);
 			this.novac6.TabIndex = 53;
 			this.novac6.Text = "100";
 			this.novac6.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -85,11 +86,12 @@
 			this.ime6.AutoSize = true;
 			this.ime6.BackColor = System.Drawing.Color.White;
 			this.ime6.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F);
-			this.ime6.Location = new System.Drawing.Point(90, 164);
-			this.ime6.MaximumSize = new System.Drawing.Size(150, 75);
-			this.ime6.MinimumSize = new System.Drawing.Size(150, 75);
+			this.ime6.Location = new System.Drawing.Point(120, 202);
+			this.ime6.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+			this.ime6.MaximumSize = new System.Drawing.Size(200, 92);
+			this.ime6.MinimumSize = new System.Drawing.Size(200, 92);
 			this.ime6.Name = "ime6";
-			this.ime6.Size = new System.Drawing.Size(150, 75);
+			this.ime6.Size = new System.Drawing.Size(200, 92);
 			this.ime6.TabIndex = 52;
 			this.ime6.Text = "6";
 			this.ime6.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -99,11 +101,12 @@
 			this.novac5.AutoSize = true;
 			this.novac5.BackColor = System.Drawing.Color.White;
 			this.novac5.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F);
-			this.novac5.Location = new System.Drawing.Point(90, 461);
-			this.novac5.MaximumSize = new System.Drawing.Size(150, 75);
-			this.novac5.MinimumSize = new System.Drawing.Size(150, 75);
+			this.novac5.Location = new System.Drawing.Point(120, 567);
+			this.novac5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+			this.novac5.MaximumSize = new System.Drawing.Size(200, 92);
+			this.novac5.MinimumSize = new System.Drawing.Size(200, 92);
 			this.novac5.Name = "novac5";
-			this.novac5.Size = new System.Drawing.Size(150, 75);
+			this.novac5.Size = new System.Drawing.Size(200, 92);
 			this.novac5.TabIndex = 51;
 			this.novac5.Text = "100";
 			this.novac5.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -113,11 +116,12 @@
 			this.ime5.AutoSize = true;
 			this.ime5.BackColor = System.Drawing.Color.White;
 			this.ime5.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F);
-			this.ime5.Location = new System.Drawing.Point(90, 386);
-			this.ime5.MaximumSize = new System.Drawing.Size(150, 75);
-			this.ime5.MinimumSize = new System.Drawing.Size(150, 75);
+			this.ime5.Location = new System.Drawing.Point(120, 475);
+			this.ime5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+			this.ime5.MaximumSize = new System.Drawing.Size(200, 92);
+			this.ime5.MinimumSize = new System.Drawing.Size(200, 92);
 			this.ime5.Name = "ime5";
-			this.ime5.Size = new System.Drawing.Size(150, 75);
+			this.ime5.Size = new System.Drawing.Size(200, 92);
 			this.ime5.TabIndex = 50;
 			this.ime5.Text = "5";
 			this.ime5.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -127,11 +131,12 @@
 			this.novac4.AutoSize = true;
 			this.novac4.BackColor = System.Drawing.Color.White;
 			this.novac4.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F);
-			this.novac4.Location = new System.Drawing.Point(295, 595);
-			this.novac4.MaximumSize = new System.Drawing.Size(150, 75);
-			this.novac4.MinimumSize = new System.Drawing.Size(150, 75);
+			this.novac4.Location = new System.Drawing.Point(393, 732);
+			this.novac4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+			this.novac4.MaximumSize = new System.Drawing.Size(200, 92);
+			this.novac4.MinimumSize = new System.Drawing.Size(200, 92);
 			this.novac4.Name = "novac4";
-			this.novac4.Size = new System.Drawing.Size(150, 75);
+			this.novac4.Size = new System.Drawing.Size(200, 92);
 			this.novac4.TabIndex = 49;
 			this.novac4.Text = "100";
 			this.novac4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -141,11 +146,12 @@
 			this.ime4.AutoSize = true;
 			this.ime4.BackColor = System.Drawing.Color.White;
 			this.ime4.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F);
-			this.ime4.Location = new System.Drawing.Point(295, 521);
-			this.ime4.MaximumSize = new System.Drawing.Size(150, 75);
-			this.ime4.MinimumSize = new System.Drawing.Size(150, 75);
+			this.ime4.Location = new System.Drawing.Point(393, 641);
+			this.ime4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+			this.ime4.MaximumSize = new System.Drawing.Size(200, 92);
+			this.ime4.MinimumSize = new System.Drawing.Size(200, 92);
 			this.ime4.Name = "ime4";
-			this.ime4.Size = new System.Drawing.Size(150, 75);
+			this.ime4.Size = new System.Drawing.Size(200, 92);
 			this.ime4.TabIndex = 48;
 			this.ime4.Text = "4";
 			this.ime4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -155,11 +161,12 @@
 			this.novac3.AutoSize = true;
 			this.novac3.BackColor = System.Drawing.Color.White;
 			this.novac3.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F);
-			this.novac3.Location = new System.Drawing.Point(503, 461);
-			this.novac3.MaximumSize = new System.Drawing.Size(150, 75);
-			this.novac3.MinimumSize = new System.Drawing.Size(150, 75);
+			this.novac3.Location = new System.Drawing.Point(671, 567);
+			this.novac3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+			this.novac3.MaximumSize = new System.Drawing.Size(200, 92);
+			this.novac3.MinimumSize = new System.Drawing.Size(200, 92);
 			this.novac3.Name = "novac3";
-			this.novac3.Size = new System.Drawing.Size(150, 75);
+			this.novac3.Size = new System.Drawing.Size(200, 92);
 			this.novac3.TabIndex = 47;
 			this.novac3.Text = "100";
 			this.novac3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -169,11 +176,12 @@
 			this.ime3.AutoSize = true;
 			this.ime3.BackColor = System.Drawing.Color.White;
 			this.ime3.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F);
-			this.ime3.Location = new System.Drawing.Point(503, 386);
-			this.ime3.MaximumSize = new System.Drawing.Size(150, 75);
-			this.ime3.MinimumSize = new System.Drawing.Size(150, 75);
+			this.ime3.Location = new System.Drawing.Point(671, 475);
+			this.ime3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+			this.ime3.MaximumSize = new System.Drawing.Size(200, 92);
+			this.ime3.MinimumSize = new System.Drawing.Size(200, 92);
 			this.ime3.Name = "ime3";
-			this.ime3.Size = new System.Drawing.Size(150, 75);
+			this.ime3.Size = new System.Drawing.Size(200, 92);
 			this.ime3.TabIndex = 46;
 			this.ime3.Text = "3";
 			this.ime3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -183,11 +191,12 @@
 			this.novac2.AutoSize = true;
 			this.novac2.BackColor = System.Drawing.Color.White;
 			this.novac2.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F);
-			this.novac2.Location = new System.Drawing.Point(503, 239);
-			this.novac2.MaximumSize = new System.Drawing.Size(150, 75);
-			this.novac2.MinimumSize = new System.Drawing.Size(150, 75);
+			this.novac2.Location = new System.Drawing.Point(671, 294);
+			this.novac2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+			this.novac2.MaximumSize = new System.Drawing.Size(200, 92);
+			this.novac2.MinimumSize = new System.Drawing.Size(200, 92);
 			this.novac2.Name = "novac2";
-			this.novac2.Size = new System.Drawing.Size(150, 75);
+			this.novac2.Size = new System.Drawing.Size(200, 92);
 			this.novac2.TabIndex = 45;
 			this.novac2.Text = "100";
 			this.novac2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -197,11 +206,12 @@
 			this.ime2.AutoSize = true;
 			this.ime2.BackColor = System.Drawing.Color.White;
 			this.ime2.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F);
-			this.ime2.Location = new System.Drawing.Point(503, 164);
-			this.ime2.MaximumSize = new System.Drawing.Size(150, 75);
-			this.ime2.MinimumSize = new System.Drawing.Size(150, 75);
+			this.ime2.Location = new System.Drawing.Point(671, 202);
+			this.ime2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+			this.ime2.MaximumSize = new System.Drawing.Size(200, 92);
+			this.ime2.MinimumSize = new System.Drawing.Size(200, 92);
 			this.ime2.Name = "ime2";
-			this.ime2.Size = new System.Drawing.Size(150, 75);
+			this.ime2.Size = new System.Drawing.Size(200, 92);
 			this.ime2.TabIndex = 44;
 			this.ime2.Text = "2";
 			this.ime2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -211,11 +221,12 @@
 			this.novac1.AutoSize = true;
 			this.novac1.BackColor = System.Drawing.Color.White;
 			this.novac1.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F);
-			this.novac1.Location = new System.Drawing.Point(295, 105);
-			this.novac1.MaximumSize = new System.Drawing.Size(150, 75);
-			this.novac1.MinimumSize = new System.Drawing.Size(150, 75);
+			this.novac1.Location = new System.Drawing.Point(393, 129);
+			this.novac1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+			this.novac1.MaximumSize = new System.Drawing.Size(200, 92);
+			this.novac1.MinimumSize = new System.Drawing.Size(200, 92);
 			this.novac1.Name = "novac1";
-			this.novac1.Size = new System.Drawing.Size(150, 75);
+			this.novac1.Size = new System.Drawing.Size(200, 92);
 			this.novac1.TabIndex = 43;
 			this.novac1.Text = "100";
 			this.novac1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -225,11 +236,12 @@
 			this.ime1.AutoSize = true;
 			this.ime1.BackColor = System.Drawing.Color.White;
 			this.ime1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F);
-			this.ime1.Location = new System.Drawing.Point(295, 30);
-			this.ime1.MaximumSize = new System.Drawing.Size(150, 75);
-			this.ime1.MinimumSize = new System.Drawing.Size(150, 75);
+			this.ime1.Location = new System.Drawing.Point(393, 37);
+			this.ime1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+			this.ime1.MaximumSize = new System.Drawing.Size(200, 92);
+			this.ime1.MinimumSize = new System.Drawing.Size(200, 92);
 			this.ime1.Name = "ime1";
-			this.ime1.Size = new System.Drawing.Size(150, 75);
+			this.ime1.Size = new System.Drawing.Size(200, 92);
 			this.ime1.TabIndex = 42;
 			this.ime1.Text = "1";
 			this.ime1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -239,11 +251,12 @@
 			this.vreme.Anchor = System.Windows.Forms.AnchorStyles.Top;
 			this.vreme.Enabled = false;
 			this.vreme.Font = new System.Drawing.Font("Microsoft Sans Serif", 110.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-			this.vreme.Location = new System.Drawing.Point(1032, 534);
+			this.vreme.Location = new System.Drawing.Point(1376, 657);
+			this.vreme.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
 			this.vreme.Multiline = true;
 			this.vreme.Name = "vreme";
 			this.vreme.ReadOnly = true;
-			this.vreme.Size = new System.Drawing.Size(200, 198);
+			this.vreme.Size = new System.Drawing.Size(265, 243);
 			this.vreme.TabIndex = 41;
 			this.vreme.Text = "20";
 			this.vreme.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
@@ -252,9 +265,10 @@
 			// netacno
 			// 
 			this.netacno.Font = new System.Drawing.Font("Microsoft Sans Serif", 32F);
-			this.netacno.Location = new System.Drawing.Point(1032, 534);
+			this.netacno.Location = new System.Drawing.Point(1376, 657);
+			this.netacno.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
 			this.netacno.Name = "netacno";
-			this.netacno.Size = new System.Drawing.Size(200, 200);
+			this.netacno.Size = new System.Drawing.Size(267, 246);
 			this.netacno.TabIndex = 40;
 			this.netacno.Text = "Netačno";
 			this.netacno.UseVisualStyleBackColor = true;
@@ -264,9 +278,10 @@
 			// tacno
 			// 
 			this.tacno.Font = new System.Drawing.Font("Microsoft Sans Serif", 32F);
-			this.tacno.Location = new System.Drawing.Point(826, 534);
+			this.tacno.Location = new System.Drawing.Point(1101, 657);
+			this.tacno.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
 			this.tacno.Name = "tacno";
-			this.tacno.Size = new System.Drawing.Size(200, 200);
+			this.tacno.Size = new System.Drawing.Size(267, 246);
 			this.tacno.TabIndex = 39;
 			this.tacno.Text = "Pokaži odgovor";
 			this.tacno.UseVisualStyleBackColor = true;
@@ -276,27 +291,29 @@
 			// pitanje
 			// 
 			this.pitanje.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F);
-			this.pitanje.Location = new System.Drawing.Point(826, 12);
+			this.pitanje.Location = new System.Drawing.Point(1101, 15);
+			this.pitanje.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
 			this.pitanje.Multiline = true;
 			this.pitanje.Name = "pitanje";
 			this.pitanje.ReadOnly = true;
-			this.pitanje.Size = new System.Drawing.Size(406, 516);
+			this.pitanje.Size = new System.Drawing.Size(540, 634);
 			this.pitanje.TabIndex = 38;
 			// 
 			// rucica
 			// 
-			this.rucica.Location = new System.Drawing.Point(743, 12);
+			this.rucica.Location = new System.Drawing.Point(991, 15);
 			this.rucica.Name = "rucica";
-			this.rucica.Size = new System.Drawing.Size(75, 721);
+			this.rucica.Size = new System.Drawing.Size(75, 887);
 			this.rucica.TabIndex = 37;
 			this.rucica.Scroll += new System.Windows.Forms.ScrollEventHandler(this.vScrollBar1_Scroll);
 			// 
 			// izazovi6
 			// 
 			this.izazovi6.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F);
-			this.izazovi6.Location = new System.Drawing.Point(90, 313);
+			this.izazovi6.Location = new System.Drawing.Point(120, 385);
+			this.izazovi6.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
 			this.izazovi6.Name = "izazovi6";
-			this.izazovi6.Size = new System.Drawing.Size(151, 50);
+			this.izazovi6.Size = new System.Drawing.Size(201, 62);
 			this.izazovi6.TabIndex = 36;
 			this.izazovi6.Text = "Izazovi";
 			this.izazovi6.UseVisualStyleBackColor = true;
@@ -306,9 +323,10 @@
 			// izazovi5
 			// 
 			this.izazovi5.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F);
-			this.izazovi5.Location = new System.Drawing.Point(90, 535);
+			this.izazovi5.Location = new System.Drawing.Point(120, 658);
+			this.izazovi5.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
 			this.izazovi5.Name = "izazovi5";
-			this.izazovi5.Size = new System.Drawing.Size(151, 50);
+			this.izazovi5.Size = new System.Drawing.Size(201, 62);
 			this.izazovi5.TabIndex = 35;
 			this.izazovi5.Text = "Izazovi";
 			this.izazovi5.UseVisualStyleBackColor = true;
@@ -318,9 +336,10 @@
 			// izazovi4
 			// 
 			this.izazovi4.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F);
-			this.izazovi4.Location = new System.Drawing.Point(295, 670);
+			this.izazovi4.Location = new System.Drawing.Point(393, 825);
+			this.izazovi4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
 			this.izazovi4.Name = "izazovi4";
-			this.izazovi4.Size = new System.Drawing.Size(151, 50);
+			this.izazovi4.Size = new System.Drawing.Size(201, 62);
 			this.izazovi4.TabIndex = 34;
 			this.izazovi4.Text = "Izazovi";
 			this.izazovi4.UseVisualStyleBackColor = true;
@@ -330,9 +349,10 @@
 			// izazovi3
 			// 
 			this.izazovi3.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F);
-			this.izazovi3.Location = new System.Drawing.Point(503, 535);
+			this.izazovi3.Location = new System.Drawing.Point(671, 658);
+			this.izazovi3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
 			this.izazovi3.Name = "izazovi3";
-			this.izazovi3.Size = new System.Drawing.Size(151, 50);
+			this.izazovi3.Size = new System.Drawing.Size(201, 62);
 			this.izazovi3.TabIndex = 33;
 			this.izazovi3.Text = "Izazovi";
 			this.izazovi3.UseVisualStyleBackColor = true;
@@ -342,9 +362,10 @@
 			// izazovi2
 			// 
 			this.izazovi2.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F);
-			this.izazovi2.Location = new System.Drawing.Point(503, 313);
+			this.izazovi2.Location = new System.Drawing.Point(671, 385);
+			this.izazovi2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
 			this.izazovi2.Name = "izazovi2";
-			this.izazovi2.Size = new System.Drawing.Size(151, 50);
+			this.izazovi2.Size = new System.Drawing.Size(201, 62);
 			this.izazovi2.TabIndex = 32;
 			this.izazovi2.Text = "Izazovi";
 			this.izazovi2.UseVisualStyleBackColor = true;
@@ -354,9 +375,10 @@
 			// izazovi1
 			// 
 			this.izazovi1.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F);
-			this.izazovi1.Location = new System.Drawing.Point(295, 179);
+			this.izazovi1.Location = new System.Drawing.Point(393, 220);
+			this.izazovi1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
 			this.izazovi1.Name = "izazovi1";
-			this.izazovi1.Size = new System.Drawing.Size(151, 50);
+			this.izazovi1.Size = new System.Drawing.Size(201, 62);
 			this.izazovi1.TabIndex = 31;
 			this.izazovi1.Text = "Izazovi";
 			this.izazovi1.UseVisualStyleBackColor = true;
@@ -402,19 +424,20 @@
 			// 
 			this.player.Enabled = true;
 			this.player.Location = new System.Drawing.Point(0, -2);
+			this.player.Margin = new System.Windows.Forms.Padding(4);
 			this.player.Name = "player";
 			this.player.OcxState = ((System.Windows.Forms.AxHost.State)(resources.GetObject("player.OcxState")));
-			this.player.Size = new System.Drawing.Size(243, 195);
+			this.player.Size = new System.Drawing.Size(1383, 955);
 			this.player.TabIndex = 54;
 			this.player.Visible = false;
 			this.player.PlayStateChange += new AxWMPLib._WMPOCXEvents_PlayStateChangeEventHandler(this.player_PlayStateChange);
 			// 
 			// Ruski_rulet
 			// 
-			this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+			this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
 			this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
 			this.BackgroundImage = global::Ruski_rulet.Properties.Resources.Pozadina;
-			this.ClientSize = new System.Drawing.Size(1244, 746);
+			this.ClientSize = new System.Drawing.Size(1656, 908);
 			this.Controls.Add(this.player);
 			this.Controls.Add(this.novac6);
 			this.Controls.Add(this.ime6);
@@ -439,8 +462,9 @@
 			this.Controls.Add(this.izazovi3);
 			this.Controls.Add(this.izazovi2);
 			this.Controls.Add(this.izazovi1);
-			this.MaximumSize = new System.Drawing.Size(1260, 785);
-			this.MinimumSize = new System.Drawing.Size(1260, 785);
+			this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+			this.MaximumSize = new System.Drawing.Size(1674, 955);
+			this.MinimumSize = new System.Drawing.Size(1674, 955);
 			this.Name = "Ruski_rulet";
 			this.Text = "Ruski_rulet";
 			this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Ruski_rulet_FormClosed);

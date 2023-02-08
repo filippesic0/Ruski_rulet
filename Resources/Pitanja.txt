@@ -1,914 +1,895 @@
-Ako imaš 50 cigli u avionu i baciš jednu, koliko ostaje?
-Kako ćeš da ubaciš žirafu u frižider u 3 poteza?
-A kako slona u 4 poteza?
-Prave sve životinje u šumi žurku i jedne nema. Koje i zašto?
-Kako je baba prešla Nil i ostala živa?
-Šta je ubilo babu?
-Šta je to malo, belo, u pustinji?
-Šta je to malo, crno u pustinji?
-Šta je malo crno, opasno po život?
-Šta je malo crno, a nije opasno po život?
-Šta je to malo crveno, ide gore dole?
-Šta je to malo zeleno, ide gore dole?
-Šta je to: malo, zeleno, kreće se metar ispod zemlje i jede kamenje?
-Ako iskopamo rupu do središta zemlje, dokle će da upadne kamen koji u nju bacimo?
-Šta je to malo zeleno u travi, a počinje sa slovom P?
-Šta je to malo narandžasto u travi i počinje sa slovom O?
-Šta je to malo crveno u travi i počinje sa slovom N?
-Šta je to kad jedan čovek padne sa 10.000 metara i ostane živ?
-Šta je to kad taj isti čovek ponovo padne sa 10.000 metara i ponovo ostane živ? 
-Šta je to kad taj isti čovek i treći put padne sa 10.000 metara i ostane živ?
-Šta je to: crno, ima tri noge, na plafonu je?
-Kako klavir na plafonu?
-Kako se zove čovek koji hoda po zgradama?
-Kako se zove čovek koji leti po zgradama?
-Kako se zove čovek koji uleće u zgrade?
+Ако имаш 50 цигли у авиону и бациш једну, колико остаје?
+Како ћеш да убациш жирафу у фрижидер у 3 потеза?
+А како слона у 4 потеза?
+Праве све животиње у шуми журку и једне нема. Које и зашто?
+Како је баба прешла Нил и остала жива?
+Шта је убило бабу?
+Шта је то: мало, бело, у пустињи?
+Шта је то: мало, црно у пустињи?
+Шта је то: мало црно, опасно по живот?
+Шта је то: мало црно, а није опасно по живот?
+Шта је то: мало црвено, иде горе доле?
+Шта је то: мало зелено, иде горе доле?
+Шта је то: мало, зелено, креће се метар испод земље и једе камење?
+Ако ископамо рупу до средишта земље, докле ће да пада камен који у њу бацимо?
+Шта је то: мало зелено у трави, а почиње са словом П?
+Шта је то: мало наранџасто у трави и почиње са словом О?
+Шта је то: мало црвено у трави и почиње са словом Н?
+Шта је то кад један човек падне са 10.000 метара и остане жив?
+Шта је то кад тај исти човек поново падне са 10.000 метара и остане жив? 
+Шта је то: црно, има три ноге и на плафону је?
+Како клавир на плафону?
+Како се зове човек који хода по зградама?
+Како се зове човек који лети по зградама?
+Како се зове човек који улеће у зграде?
 Зашто су људи измислили кола? 
 Шта је Чак Норис тада урадио?
-Zašto Čak Noris nije imao glavnu ulogu u Titaniku?
-Коју је улогу ипак имао?
-Kako se zove foka bez oka?
-Kako se zove Joca bez oca?
-Kako se zove vepar sa 2 noge?
-Kako se zove vepar sa 3 noge?
-Kako se zove vepar sa 4 noge?
-Kako se zove vepar sa 5 nogu?
-Kako se zove vepar sa 6 nogu?
-Šta radi Piroćanac kad mu je hladno?
-Šta radi Piroćanac kad mu je mnogo hladno?
-Pita učiteljica u školi ko je napisao 'Na Drini Ćuprija', pa kaže:NEWLINE- Ajde reci nam ti Perice.NEWLINEPerica će na to:NEWLINE-...?
-Učiteljica pukne I odvede ga kod direktora i kaže:NEWLINE- Zamislite ja pitam ko je napisao 'Na Drini Ćuprija', a on mi na to kaže: 'Nisam ja majke mi!'NEWLINENa to će direktor:NEWLINE-...?
-Učiteljica pusti urlik, uhvati Pericu za uši i izvede ga iz škole. Sretnu oni policajca, I učiteljica se odmah njemu požali:NEWLINE- Zamislite ja pitam ko je napisao 'Na Drini Ćuprija', a on mi na to kaže: 'Nisam ja majke mi!'. Odvedem ga kod direktora koji mi kaže: 'Pa možda mali i nije.'NEWLINEPolicajac je zbunjeno pogleda i kaže:NEWLINE-...?
-Šta je to crveno, visi na grani i pjeva "O sole mio"? 
-Kako je šaran na grani? 
-Kako je crven? 
-A kako šaran može pevati "O sole mio"??? 
-Sedi majmun pored reke i pere koru od banane. Dolazi krokodil, gleda, gleda, pa pita:NEWLINE- Je li, a šta ti to radiš?NEWLINE- ...?
-Krokodil misli, misli, misli, ali ga sve kopka, pa na kraju da majmunu sto evra.NEWLINE- Dakle, šta to radiš?NEWLINE- Zar ne vidiš, perem koru od banane!NEWLINE- Jesi li ti lud?!NEWLINE- ...?
-Šta radi Dorćolac u Zemunu?
-A šta radi Zemunac na Dorćolu?
-Profesor:NEWLINE-Šta je prvo bilo posle smrti cara Dušana?NEWLINE-…?
-A profesor će...?
-- Doktore, kašljem i teško dišem!NEWLINE- Pa je l’ pušite cigare?NEWLINE-...?
-Ako gledate ka nebu, a okrenuti ste ka severu šta vam je sa leve strane?
-Ako je osmorici ljudi trebalo 10 sati da sagrade zid, koliko treba četvorici da ga sagrade?
-Ako je plava kuća levo, a crvena desno, gde je bela kuća?
-Beže dvojica iz zatvora. Jedan kaže drugom: - Kako ćemo, napolju je sneg?
-Beži Mihael Šumaher od psa oko jezerceta. Dodje jedan prolaznik i dovikne:NEWLINE- Brže malo, stići će te!NEWLINE-...?
-Bosanac radio kao pilot i zovu ga iz kontrolnog tornja.NEWLINE- Molimo vas, recite nam vašu visinu i položaj.NEWLINE-...?
-Čime se češlja ćelav čovek?
-Čime se pokriva štreber?
-Čovek je umro u pustinji od žeđi ,a imao je torbu punu mleka. Zašto?
-Da li je više Etiopljana na severu ili na jugu Etiopije?
-Dođe Haso kod Muje i nađe ga kako u kadi kupa malog Mujicu. Sa jednom rukom drži Mujicu za uho, a sa drugom ga pere. Haso pita Muju:NEWLINE- Haso, a što maloga držiš za uho?NEWLINE-...?
-Dođe plavuša na kiosk i kaže pradavačici:NEWLINE- Molim vas jedne cigare.NEWLINE- Koje?NEWLINE-...?
-Dođe Zemunac na pijacu do štanda sa jabukama:NEWLINE- Daćete mi kilo jabuka.NEWLINE- To vam je 80 dinara.NEWLINE-...?
-Doktor:NEWLINE- Koliko ste kilograma imali najviše u životu?NEWLINEMujo:NEWLINE- 138!NEWLINE- A najmanje?NEWLINE-...?
-Doktore, imate li nešto protiv kašlja? -...
-Doktore, suzi mi oko!
-Dolazi Cigo kod predsednika i kaže: Predsedniče, moj gazda sa ženom i jednim djetetom živi u vili sa bazenom a ja sa ženom i petoro djece živim u šupu. Da li je to pravilno?
-Došao Piroćanac u poljoprivrednu apoteku da kupi sprej protiv mušica. Prodavac mu ponudi dva spreja:NEWLINE- Ovaj košta 100 dinara i ubija oko 1.000 mušica, a ovaj vam košta 50 dinara i ubija oko 500 mušica.NEWLINEPiroćanac se okrene i pođe iz radnje.NEWLINE- Pa kuda ćete?NEWLINE- ...?
-Došao upravitelj zatvora u ćeliju i pita Crnogorca:NEWLINE- Zašto ne ustaneš kada ulazim?NEWLINE-...?
-Došla baba kod doktora i žali se: Doktore kad se tu pipnem boli me. A doktor ce na to?
-Došla deca kod Piroćanca i pitaju ga:NEWLINE- Gospodine, skupljamo u dobrotvorne svrhe za bazen. Imate li neki doprinos?NEWLINE- Sačekajte sekund, deco.NEWLINEMalo kasnije Piroćanac se vraća sa...?
-Dva prijatelja piju u kafani: Zašto žmuriš kad piješ?
-Dve krave na livadi: jedna stoji, a druga leži. Koja je crnogorska?
-Fata se naveče pred televizorom počne umiljavati Muji i šapne mu na uho:NEWLINE– Mujo moj, moram ti reć’ nešto. Uskoro nas više neće biti samo dvoje u kući, bit će nas troje!NEWLINEMujo oduševljeno pogleda u Fatin trbuh i reče:NEWLINE– Jao, Fato, mašala, de da te poljubim! A kako znaš?NEWLINE–...?
-Gde beži štreber iz škole?
-Gde Ciga krije pare?
-Gde ima reke bez vode, šume bez drveća i gradovi bez kuća?
-Gde je najluđi doček nove godine? 
-Gde je potpisana kapitulacija Nemačke na kraju 2. svetskog rata?
-Gde možeš naći kornjaču bez nogu?
-Gde najduže držati mleko da se ne pokvari?
-Gde spava zec od 100 kg?
-Gde su ljudi najsigurniji od ptičijeg gripa?
-Gde žena Crnogorca sakriva pare?
-Gura mali Perica bicikl, a na njemu džak sa peskom. Prolazi carinu i carinik ga pita šta to ima u džaku.NEWLINEPerica: Ma ništa gospodine cariniče, samo pesak.NEWLINECarinik: Hmmmm..... Da proverimo!NEWLINEKad on ovori džak stvarno pesak unutra. Dobro, prođi!NEWLINESUTRADANNEWLINEPerica opet gura bicikl i džak na njemu, dolazi na carinu i carinik ga pita:NEWLINESta to opet nosis u dzaku?NEWLINE- Pesak gospodine.NEWLINEProveri carinik džak i dopusti mu da prođe.NEWLINEŠta Perica švercuje?
-Ide baba ulicom i padne i pritrci Toma Nikolić u pomoć i podigne je s ulice, i baba će:NEWLINE- Sine, hvala, kako da ti se odužim?NEWLINE- Pa glasajte za mene na izborima.NEWLINE-...?
-Idu 3 gliste. Prva kaže: Vidim 2 gliste iza sebe. Druga kaže: Vidim jednu glistu ispred, i jednu iza sebe. Treća kaže: Vidim 4 gliste iza sebe. Kako to?
-Idu Mesi, Vilja i Pedro. Razumeš?
-Igraju BiH i Brazil utakmicu i Ronaldinjo šutira slobodan udarac, a Bosanci u živom zidu se okrenuli prema golu.NEWLINEGolman viče:NEWLINE- Šta to radite, okrenite se prema lopti!NEWLINEA Mujo će:NEWLINE-...?
-Imaš akvarijum sa 10 ribica. 2 ti se uguše, 3 ti se udave i 2 ti pobegnu. Koliko ti je ribica ostalo živo na broju? 
-Išao Piroćanac da kupi jabuke i pita:NEWLINE- Pošto jabuke?NEWLINE- Što više kupiš, sve su jeftinije!NEWLINE-...?
-Kad ima najviše mesa u kupusu? 
-Kad možete da vidite leteći tanjir? 
-Kad umire dijabetičar?
-Kakav sladoled ne mogu da jedu siročići?
-Kako Čak Noris pije vodu sa česme?
-Kako Čak Noris preskače rijeku? 
-Kako ćeš prepoznati vojnika u civilnom odelu na stadionu među 30.000 ljudi?
-Kako Ciga pali motor? 
-Kako Ciga proverava da li mu je žena trudna?
-Kako čovek može da izdrži 8 dana bez sna?
-Kako Crnogorac čita knjigu?
-Kako da ispustite jaje na beton, a da se ne polomi?
-Kako da prepoznate bebu Zemunca u porodilištu?
-Kako deca u Černobilu broje do 100?
-Kako dvometraš vozi Fiću?
-Kako glasi slogan za turističku agenciju u Zemunu?
-Kako izgleda bosanski kompjuterski virus?
-Kako izoštriti apetit?
-Kako je Eskim promenio pol? 
-Kako je najlakše skinuti Crnca sa drveta?
-Kako je nastao minus?
-Kako je nastao Veliki kanjon?
-Kako je umro kapetan Kuka?
-Kako jugu udvostručiti vrednost?
-Kako kanibali zovu atletičare?
-Kako Kinez drži dijetu?
-Kako Kinezi dobijaju imena?
-Kako Kinezi zovu lift?
-Kako kokoška abortira?
-Kako laje crnogorski pas?
-Kako ljudožderi zovu atletičare?
-Kako možeš dignuti slona sa jednom rukom?
-Kako najlakše ubiti noja?
-Kako pijuče zemunsko pile?
-Kako Piroćanac časti harmonikaša na svadbi? 
-Kako Piroćanac hrani piliće?
-Kako Piroćanac povraća?
-Kako Piroćanka natera decu da pokose dvorište?
-Kako plavuša abortira?
-Kako plavušama potopiti podmornicu ?
-Kako počinje ciganski recept za tortu?
-Kako policajac muči muvu?
-Kako policajac otvara konzervu? 
-Kako političar kuva goveđu supu? 
-Kako prepoznati bebu zemunca?
-Kako prepoznati bogatog Etiopljana?
-Kako prepoznati mladoženju na zemunskoj svadbi?
-Kako prepoznati otrovnu gljivu?
-Kako pronaći osobu iz snova?
-Kako roditelji kažnjavaju Sašu Matića?
-Kako se Bosanac udavio kinder jajetom?
-Kako se češlja ćelav čovek?
-Kako se Crnogorac udvara devojci?
-Kako se danas zovu kule bliznjakinje?
-Kako se kaže bankomat?
-Kako se kaže groblje na mađarksom?
-Kako se kaže kamin na srpskom?
-Kako se kaže na engleskom: Prevedi me na drugu stranu ulice?
-Kako se kaže na francuskom puž?
-Kako se kaže na japanskom: On ne može da ostavi cigarete?
-Kako se kaže voz na japanskom?
-Kako se ljudi izležavaju u Černobilu?
-Kako se meri visina hotela barometrom?
-Kako se na arapskom kaže: hemičar?
-Kako se na arapskom kaže: pčela?
-Kako se na arapskom kaže: štala?
-Kako se na hrvatskom kaže: radnik na benzinskoj pumpi?
-Kako se na japanskom kaže Crnogorac?
-Kako se na Japanskom kaže: jugoslovenski putevi?
-Kako se na makedonskom kaže: be cool?
-Kako se na novobosanskom kaže: košarkaš?
-Kako se na novohrvatskom kaže oteti?
-Kako se na novohrvatskom kaže: kaciga?
-Kako se na novohrvatskom kaže: pas?
-Kako se na španskom kaže: abortus?
-Kako se na svahiliju kaze: Izvinite, da li bi ste mogli ponoviti poslednje dve rečenice?
-Kako se oblače Eskimi?
-Kako se Osama Bin Laden otvara u šahu? 
-Kako se Piroćanac tušira?
-Kako se plavuša polomila dok je skupljala lisce? 
-Kako se pozdavljaju 2 kostura?
-Kako se predstavlja pas Džejmsa Bonda?
-Kako se puž ubio strujom?
-Kako se štreber ošiša?
-Kako se terorista udvara devojci?
-Kako se vidi da političar laže?
-Kako se zagrevaju slovenski fudbaleri?
-Kako se zove bolestan Ciga?
-Kako se zove Bosanac koji koristi fen?
-Kako se zove Bosanac koji ne puši? 
-Kako se zove Bosanka koja studira DIF? 
-Kako se zove Branko Kockica kad legne da spava? 
-Kako se zove Ciga bilder?
-Kako se zove Ciga čoban?
-Kako se zove Ciga džokej?
-Kako se zove Ciga električar?
-Kako se zove Ciga koji beži iz škole?
-Kako se zove Ciga koji ide otuda?
-Kako se zove Ciga koji ima zakrčenje vena?
-Kako se zove Ciga koji miriše?
-Kako se zove Ciga koji otvara prozore?
-Kako se zove Ciga koji prati modne trendove?
-Kako se zove Ciga koji predaje hemiju?
-Kako se zove Ciga koji prodaje CD-ove?
-Kako se zove Ciga koji prodaje kokice?
-Kako se zove Ciga koji radi kao zidar?
-Kako se zove Ciga koji se vozi javnim prevozom bez karte?
-Kako se zove Ciga koji seče luk?
-Kako se zove Ciga koji vozi motor?
-Kako se zove Ciga koji zna da računa?
-Kako se zove Ciga kuvar?
-Kako se zove Ciga matematičar?
-Kako se zove Ciga pilot?
-Kako se zove Ciga pisac?
-Kako se zove Ciga psiholog?
-Kako se zove Ciga pušač?
-Kako se zove Ciga roker?
-Kako se zove Ciga sa puškom?
-Kako se zove Ciga terorista?
-Kako se zove Ciga u brazilu?
-Kako se zove Ciga u 'Bubi'?
-Kako se zove Ciga u inostranstvu?
-Kako se zove Ciga u odelu?
-Kako se zove Ciga u reklami?
-Kako se zove Cigin omiljeni fudbalski klub?
-Kako se zove glavni grad Fejsbuka?
-Kako se zove grčki bog bežanja sa časa?
-Kako se zove izum kojim Rusi gledaju kroz zidove?
-Kako se zove koalicija Srbije i Grčke?
-Kako se zove kočnica na jugu?
-Kako se zove kokoška u trendu?
-Kako se zove kostur koji nosi kožnu jaknu?
-Kako se zove kum na venčanju u Zemunu?
-Kako se zove London sa ugašenim svetlima? 
-Kako se zove mačor Čaka Norisa?
-Kako se zove Marija koja se uda za Brus Lija? 
-Kako se zove Meksikanac koji je izgubio auto?
-Kako se zove muž od ose?
-Kako se zove mužjak veverice?
-Kako se zove najbogatiji Kinez?
-Kako se zove najbolji japanski krojač?
-Kako se zove najbolji random algoritam ikada?
-Kako se zove najveci francuz?
-Kako se zove najzahvalniji američki glumac?
-Kako se zove najžući Japanac?
-Kako se zove najžući Japanac?
-Kako se zove nasmejani Japanac?
-Kako se zove opasan pas koji čuva nameštaj?
-Kako se zove pas bez nogu?
-Kako se zove pas koji radi za šankom?
-Kako se zove Petar pirotehničar?
-Kako se zove piroćanska obaveštajna služba?
-Kako se zove prvi Ciga u selu?
-Kako se zove roda na električnom stubu?
-Kako se zove šaljivdžija u komi?
-Kako se zove sarma nudista?
-Kako se zove šef italijanske mafije koji najvise voli kafu?
-Kako se zove sin od alkoholičara?
-Kako se zove slepi miš posle operacije očiju?
-Kako se zove Slovenac iz Černobilja?
-Kako se zove spori Ciga?
-Kako se zove televizor bez slike?
-Kako se zove vanbračno dete pilota?
-Kako se zove vo u bigamiji?
-Kako se zove zaljubljeni Ciga?
-Kako se zove zemunski dečji hor?
-Kako se zove žena Brus Lija?
-Kako se zove životinja koju su otkrili u Zenici?
-Kako se zovu stari Cigani?
-Kako slepi miš padane u nesvest?
-Kako Slovenci mere ubrzanje automobila?
-Kako štreber preti batinama?
-Kako su Bosanci dobili kilu u ratu?
-Kako su Bosanci dobili kilu u ratu?
-Kako su nastale žirafe?
-Kako talibani gase požar?
-Kako u akvarijumu prepoznati koja je ribica ON, a koja ONA?
-Kako u Crnoj Gori zovu vanbračno dete?
-Kako ugurati 50 Etiopljana u fiću?
-Kako Zemunac čestita sestri položen ispit?
-Kako Zemunac kaže 'Na vrh brda vrba mrda'?
-Kako Zemunac piše smajlija?
-Kako Zemunci igraju karte?
-Kako Zemunci kažu začin ce?
-Kako zove čovek koji voli musli? 
-Kako zoveš Cigu sa puškom?
-Kakva ideja narkomanu najčešće pada na pamet? 
-Kakva je razlika između igle i aviona?
-Kakvo je vreme kad ti slon padne na kola?
-Kandiduju se Srbin, Albanac i Ciga za neko radno mesto. Ko će dobiti posao?
-Kaže komšija Piroćancu:NEWLINE- Sin vam je nagazio na ekser!NEWLINE-...?
-Kaže zet tašti:NEWLINE- Vi tako dobro izgledate. Bili biste idealan model za nekog kineskog slikara.NEWLINETašta, sva ushićena, upita:NEWLINE- A zašto baš kineskog? NEWLINE-...? 
-Kineska poslovica: Pas koji laje...?
-Ko čeka,...?
-Ko drugome jamu kopa,...?
-Ko je izmislio ribu sa povrćem i zašto?
-Ko je rođen kao soko, a živi kao kokoška?
-Ko pita,...?
-Ko rano rani,...?
-Ko se zadnji smeje,...?
-Ko uzima drogu?
-Koga najviše udaraju po glavi?
-Koja je e-mail adresa Čaka Norisa?
-Koja je jedinica za otpor?
-Koja je kazna za bigamiju?
-Koja je najdraža video igra narkomanu? 
-Koja je omiljena bajka autostopera?
-Koja je omiljena igrica narkomana?
-Koja je razlika između čistačice i običnog studenta?
-Koja je razlika između Crnca i automobilske gume?
-Koja je razlika između Crnca i bicikla?
-Koja je razlika između dupeta i kompjutera?
-Koja je razlika između Juga i Jehovinog svedoka?
-Koja je razlika između pada sa prvog i 10. sprata?
-Koja je razlika između pedagoga i pedofila?
-Koja je razlika između prodavca kompjutera i prodavca kola?
-Koja je razlika između sedam plavuša i tri ovce? 
-Koja je razlika između tašte i lešinara?
-Koja je razlika između Više poslovne škole i ludare?
-Koja je razlika između Zvezde/Partizana i babe na svadbi?
-Koja je sličnost između fudbalera i košarkaša Srbije?
-Koja je sličnost između prdeža i 'Otpisanih'?
-Koja je sličnost između žene inženjera i morskog praseta?
-Koja se životinja nakon smrti okrene jedno 500 puta?
-Koja su 3 nepisana pravila?
-Koje 2 reči se najviše koriste u školi?
-Koje godine se desila 1914?
-Koje je boje žumance, belo i li bijelo?
-Koje je najstrašnije mesto na svijetu ? 
-Koje je Pajino omiljeno voće (Za MATFovce, Bobino)?
-Koje je vreme ja kupujem, ti kupuješ, on kupuje...?
-Koji auto može da ide 120 km/h makadamom? 
-Koji auto možeš da voziš 120 km/h po neasfaltiranom putu?
-Koji je cigi omiljeni super heroj?
-Koji je glavni uzrok razvoda?
-Koji je najčešći razlog za suvu kožu?
-Koji je najkraći put do ludnice?
-Koji je omiljeni pokemon igrača igrica?
-Koji je omiljeni školski predmet narkomana i zašto?
-Koji je rekord Crnogoraca na 100m?
-Koji saobraćajni znak ne postoji u Crnoj Gori?
-Koji sok Ciga najviše voli?
-Koji su omiljeni obroci Čaka Norisa?
-Koji točak se ne okreće u krivini?
-Koliko Čak Noris može da uradi sklekova?
-Koliko je dugačka Drina?
-Kome život visi o koncu?
-Leži Crnogorac u travi i viče:NEWLINE- Ženoooooo, daj mi serum za zmije!NEWLINEPita žena:NEWLINE- Da te nije ugrizla slučajno?NEWLINE-...?
-Mali Zemunac u kupatilu se kupa sat vremena. Ćale mu lupa na vrata i pita: Slinavi za koliko završavaš?
-Markova mama ima troje dece: Ponedeljak, Utorak i ?
-Na olimpijadi baca Crnogorac motiku i osvoji zlato, a posle ga novinari pitaju: NEWLINE- Kako Vam je to uspelo?NEWLINE-...?
-Na šta liči Crnac sa velikim boginjama?
-Na suđenju pita sudija optuženog Zemunca:NEWLINE- Imate li nešto za svoju odbranu?NEWLINE-...?
-Na sudu odgovara Zemunac.NEWLINE- Kad ste već uzeli zlatan nakit, zašto niste uzeli i 5.000 evra koji su bili u susednoj fioci?NEWLINE-...?
-Neko kuca na vrata:NEWLINE - Dobar dan, ja sam iz Jehovinih svjedoka, želeo bih da razgovaram sa vama.NEWLINE- Izvolite, uđite, sjedite. O čemu želite razgovarati?NEWLINE-...?
-Od čega se atomski mrav usere od straha?
-Otišao Mujo u Nemačku i jednog dana šalje Fati telegram: 'Iskopaj onaj mitraljez. Očisti ga, podmaži i vrati na isto mesto.'NEWLINEPročitao poštar telegram i odmah ga odneo u policiju. Policija došla, prekopala baštu i nije našla mitraljez.NEWLINEŠalje Mujo drugi telegram:NEWLINE'...'?
-Padaju sa visokog solitera Ketrin Ešton i Angela Merkel. Koja će prva da padne?
-Perice, kaži dve zamenice. -...
-Petogodišnjak dolazi plačući majci:NEWLINE- Seka me počupala za kosu.NEWLINE- Nemoj se ljutiti na nju, ona još ne zna da čupanje za kosu boli.NEWLINEUbrzo nakon toga, majka začuje malenu kako plače. Ode pogledati šta se dešava.NEWLINEDečak joj reče:NEWLINE-...?
-Pita ekipa RTS-a Cigu:NEWLINE- Da li vam je bilo dobro za vreme Slobodana Miloševića?NEWLINE- Pa, bilo je dobro.. Odem sa ženu u market, uzem salamu, leba, mleko za decu, sok frutela...NEWLINE- A kako vam je sada?NEWLINE-...?
-Pita Eva Adama:NEWLINEAdame voliš li me?NEWLINEAdam odgovara:
-Pita jedna žena drugu:NEWLINE- Kako si smršala?NEWLINE- Ma krompir, šargarepa,...NEWLINE- Pržila ili kuvala?NEWLINE-...?
-Pita komšija Piroćanca:NEWLINE- Što ti ova kokoška ima jednu nogu?NEWLINE-...?
-Pita mama Pericu: Ima li petica u školi?
-Pita mama Pericu:NEWLINE- Kako je bilo na testu?NEWLINE- Dobro.NEWLINE- Šta ćeš dobiti?NEWLINE-...?
-Pita mama Pericu:NEWLINE-Sine, šta je između tebe i one zgodne djevojke sa sprata iznad nas?NEWLINE-...?
-Pita Mujica svog oca Muju:NEWLINE- Tata, kako se Zemlja okreće?NEWLINEPosle dužeg razmišljanja Mujo kaže:NEWLINE-...?
-Pita štrebera njegova devojka šta je 14. februara. Šta je rekao?
-Pita učiteljica malog Piroćanca: Imaš 7 jabuka i ja ti tražim 2. Koliko će ti ostati?
-Pita učiteljica u školi ko zna da broji od 7 do 10. Javlja se Perica:NEWLINE- Znam ja, znam ja!NEWLINEUčiteljica:NEWLINE- Hajde Perice.NEWLINEPerica:NEWLINE- 7, 8, 9, 10.NEWLINEUčiteljica:NEWLINE- Bravo, Perice. A znaš li kako ide dalje?NEWLINEPerica:
-Planiraju ludaci da pobegnu iz ludnice. Obiju bravu, ošamute stražara i preskoče ogradu.Vođa kaže: ?
-Po čemu se prepoznaje piroćansko dvorište?
-Posle udesa dva automobila u potpunosti slupana.NEWLINEIz jednog auta izlazi zdrav i živ, zgodan muškarac. Iz drugog auta izvuče se nepovređna lepa, zgodna žena. Muškarac joj priđe sa flašom vina koja je po sreći takođe nerazbijena i kaže:" & vbCrLf &" - Mi se moramo upoznati i nazdraviti za naše buduće prijateljstvo.NEWLINEŽena ga pogleda i pomisli: 'Kako je samo lep'. Uzme flašu i nazdravi. Zatim pruži vino muškarcu da i on nazdravi. On uzme flasu i zatvori je. Žena ga pita:NEWLINE- Zar ti nećeš nazdraviti?NEWLINE-...?
-Priča Mujo Hasi:NEWLINE- Sinoć, kada sam se vraćao iz kafane, vidim na jednom ćosku, njih petorica tuku nekog jadnika. Razmišljam ja, da l' da uletim među njih... oću, neću, oću, neću... Ma reko' ulećem i ja u tuču.NEWLINE- I šta je bilo?NEWLINE-...?
-Pričaju Mujo i Haso u zatvoru. Kaže Mujo:NEWLINE- Haso, šta je tebe dovelo u zatvor?NEWLINE-...?
-Prilikom posete psihijatrijskoj bolnici jedan posetitelj pita direktora bolnice na osnovu čega odlučuju koga će primiti u bolnicu na lečenje.NEWLINE- Vrlo jednostavno, stavimo ga pred kadu punu vode i damo mu čajnu kašičicu, čašu i kantu, i kažemo mu da isprazni kadu na najbrži način.NEWLINE- Aha, razumem, onaj koji je normalan, ... (dopunite)
-Probaj da izgovoriš slovo između m i nj.
-Profesor hemije pita studenta:NEWLINE- Plin u ovoj boci je smrtonosan. U slučaju da se on oslobodi, kakve biste korake preduzeli?
-Razgovaraju dva prijatelja:NEWLINE- Prošlog petka zateknem taštu pred vratima, pita me da li može da ostane par dana. Rekao sam da može.NEWLINE- I ...?
-Rešava pandur ukrštene reči: deo kupatila, 4 slova?
-Rešava pandur ukrštene reči: Inicijali pesnika Jesenjina
-Rešava pandur ukrštene reči: Kiseonik?
-Rešava pandur ukrštene reči: Mera za dragocenosti, 5 slova?
-Rešava pandur ukrštene reči: Morski greben, 2 slova?
-Rešava pandur ukrštene reči: Najmanji trocifreni broj, 3 slova?
-Rešava pandur ukrštene reči: stanovnik Tirane, 7 slova?
-Rešava pandur ukrštene reči: telefonski poziv, 3 slova?
-Rešava pandur ukrštene reči: Zlato?
-Rešava plavuša ukrštene reči: Deo pribora za jelo, 3 slova?
-Rešava plavuša ukrštene reči: Hladno oruzje, 7 slova?
-Rešava plavuša ukrštene reči: Kokosiji proizvod, 4 slova?
-Rešava plavuša ukrštene reči: Neizleciva bolest, 4 slova?
-Rešava plavuša ukrštene reči: Neophodan začin, 2 slova?
-Rešava plavuša ukrštene reči: Vidi sliku, 5 slova?
-Rešava plavuša ukrštene reči: Vrsta životinje sa kućicom, 3 slova?
-Rešava plavuša ukrštene reči: Ženin brat, 5 slova?
-Rešava Zemunac ukrštene reči: Luka u Španiji 7 slova?
-Šeta se Piroćanac sa devojkom. Prođu oni pored cvećare, a devojka će:NEWLINE- Joj, dragi, koliko lepo miriše ono cveće!NEWLINE-...?
-Slovenija baci nuklearnu bombu na Ameriku. Amerika ništa ne vraća, tako prvi put, drugi put i treći put. Nakon toga nazove predsjednik Slovenije Džordža Buša i pita ga zašto ne vraća. Šta kaže Džordž Buš?
-Složna braća kuću grade,...?
-Šta 17 plavuša čeka ispred diskoteke?
-Šta bi bilo da su Adam i Eva bili Kinezi?
-Šta Čak Noris radi u ključaloj vodi? 
-Šta će mali Perica da bude kad poraste?
-Šta će se desiti ako bacimo crveni kamen u plavo more?
-Šta čeka narkoman ispod jelke?
-Šta Ciga radi na kompjuteru?
-Šta Crnogorac jede za dezert?
-Šta da radiš ako hoćeš psa u kući, a imaš decu?
-Šta da radiš kad te Bosanac gađa bombom?
-Šta da radite u pustinji kad je ispred vas lav, iza vas jaguar, a imate samo jedan metak na raspolaganju?
-Šta dobiješ kad policajca poliješ jogurtom po glavi ?
-Šta dobiješ kad staviš crnca u ključalu vodu?
-Šta ima četiri noge i jednu ruku?
-Šta ima prste, a nema nokte?
-Šta imaš ako ti u levoj ruci stoje 3 jabuke i 4 pomorandže, a u desnoj 4 jabuke i 3 pomorandže?
-Šta imaš protiv Cigana?
-Šta ispadne kad se ukrste pit bul i pudlica?
-Šta je 666999? 
-Šta je 'aerobik'?
-Šta je autostoper?
-Šta je Bosanac napisao na pismenom i dobio 1 na temu kako sam se proveo na letnjem raspustu?
-Šta je Čak Noris pomislio kad je sreo Vilijama Šekspira?
-Šta je Čaku Norisu potrebno da za minut ubije 100000 ljudi?
-Šta je džemper?
-Šta je konzervatorijum?
-Šta je 'licemer'?
-Šta je malo žuto i skače po tepihu?
-Šta je malo, duguljasto dolazi u raznim bojama i zna šta si vecero?
-Šta je perika?
-Šta je 'petak'?
-Šta je 'pigment'?
-Šta je plavuša kad se okupa?
-Šta je plavuša kad završi fakultet?
-Šta je prvo uradio car Dušan kad je došao na presto?
-Šta je rekao Indijanac kada je video Crnca da silazi s brda?
-Šta je romantičar?
-Šta je 'somalija'?
-Šta je tabakera?
-Šta je to Ba + Na2?
-Šta je to lopovluk? 
-Šta je to malo crno i govori hail Hitler?
-Šta je to malo crno u travi? Crnac traži bombu. Šta je to malo crno u vazduhu?
-Šta je to malo zeleno, što vice muuu?
-Šta je to malo, belo, sedi u uglu i jede govna?
-Šta je to malo, crveno, mili po zidu?
-Šta je to malo, plavo na grani i peva?
-Šta je to što danju laje, a noću pliva?
-Šta je to što kad se čita unazad nema k?
-Šta je to zeleno i crveno i pravi 5000 obrtaja u minutu?
-Šta je to zeleno, klik, crveno?
-Šta je to zuto i uvek pokazuje sever?
-Šta je to, crnac u kabini aviona?
-Šta je to: bumbar jeste, osa nije?
-Šta je to: malo, crveno, sedi u kolicima i plače?
-Šta je 'transparent'?
-Šta je 'ustanova'?
-Šta je zebra?
-Šta je zeleno kad je čisto, a belo kad je isprljano?
-Šta jedu ljudožderi vegetarijanci?
-Šta kavaljeru piše na grobu?
-Šta kaže Betmen Robinu kada ulaze u kola? 
-Šta kaže Bosanac kad vidi pola babe?
-Šta kaže kinez kad vidi prazan frižider?
-Šta kaže Pavaroti kad mu se povraća?
-Šta kaže Saša Matić na viceve o njemu?
-Šta kaže štreber pre nego što uđe stroga istoričarka u učionicu?
-Šta kaže Švarceneger ženi kad završi ručak?
-Šta kaže taliban kada ga pozoveš na kafu?
-Šta kenguri imaju, a ostale životinje nemaju?
-Šta kornjača ne može kad je okreneš na leđa?
-Šta krava daje posle zemljotresa?
-Šta leti, a nema krila?
-Šta liči na pola jabuke?
-Šta ljudožderi jedu kad je post?
-Šta mislite o zatvorenim bazenima?
-Šta muvi zadnje proleti kroz glavu kad udari u šoferšajbnu?
-Šta nikada ne možeš pojesti za doručak?
-Šta označava crna vlas kose na glavi jedne plavuše?
-Šta predstavljaju 4 konja ispred skupštine?
-Šta rade 2 vuka kad idu ulicom?
-Šta rade mlada i mladoženja prve bračne noći?
-Šta rade mladenci prve bračne noći? 
-Šta rade pilići u kafani?
-Šta radi 10 mazohista ispred vešala?
-Šta radi Bosanac kad završi ekonomski fakultet?
-Šta radi Čak Noris kada zakasni na bus?
-Šta radi Ciga do pojasa u vodi?
-Šta radi Ciga na kiši?
-Šta radi Ciga na olimpijadi?
-Šta radi Ciga na raskrsnici?
-Šta radi Ciga u 4h popodne?
-Šta radi Ciga u mraku?
-Šta radi crnogorski virus u kompjuteru? 
-Šta radi Dorćolac u Zemunu?
-Šta radi Piroćanac kad ima zatvor?
-Šta radi Piroćanac kad mu gori kuća?
-Šta radi plavuša na dnu mora?
-Šta radi programer kad mu je vruće?
-Šta radi ronilac u šumi?
-Šta radi štreber kad je lepo vreme?
-Šta radi štreber kad mu roditelji otputuju?
-Sta radi Zemunac na selu?
-Šta radiš kad hoćes da usitniš 100 dinara?
-Šta se dobija kad se Crnogorac ubaci u rernu?
-Šta se dobije kad se ukrste ćurka i pečurka?
-Šta se dobije kada se baba stavi u vrelu vodu?
-Šta se dobije kada se beba stavi u vrelu vodu?
-Šta se dobije kada se mladunče od kamile stavi u vrelu vodu?
-Šta se dobije kada se ispresuje Piroćanac?
-Šta se dobije kada se stavi Bosanac u ugao?
-Šta se dobije kada se ukrste 2 stonoge?
-Šta se dobije kada se ukrste Crnogorac i Japanac?
-Šta se dobije kada se ukrste gorila i bodljikavo prase?
-Šta se dobije kada se ukrste krava i pčela?
-Šta se dobije kada se ukrste ruža i krokodil?
-Šta se dobije kada se ukrste slon i miš?
-Šta se dobije kada se ukrste splav i praćka?
-Šta se dobije kada se ukrste zec i konj?
-Šta se dobije kada se ukrste zmija i jež?
-Šta se dogodi kad jedna plavuša trči prema drugoj?
-Šta Slovenci koriste za nadgledanje vazdušnog prostora?
-Šta treba dati slonu kad ima proliv?
-Šta urade naši fudbaleri kad pobede Argentinu?
-Šta uraditi kada epileptičar dobije napad u kadi?
-Šta zec ima na leđima kad leti?
-Šta Zemunci prave 31. decembra?
-Šta znači demokratija?
-Šta znači DS?
-Šta znači DSS?
-Šta znači 'nemati'?
-Šta znači NIKE?
-Šta znači PDV?
-Šta znači SNS?
-Šta znači SPS?
-Šta znači SRS?
-Što je to algoritam? 
-Stoje na stanici pandur i dizelaš, pa će dizelaš panduru:NEWLINE- Znaš koja je razlika između tebe i ovog voza?NEWLINE- Nemam pojma.NEWLINE- Voz ima dva razreda, a ti ni toliko.NEWLINEMisli se pandur i kaže:NEWLINE- A znaš ti koja je razlika između tebe i tog voza?NEWLINE- Ne znam.NEWLINE-...?
-Tetka pita malog Pericu: Zašto tako plačeš, mali moj?
-Titanic tone. Džon:NEWLINE- Koliko je do zemlje odavde?NEWLINEDžek:NEWLINE- 1 km.NEWLINEDžon skoči u more i pita:NEWLINE- U kojem smeru?NEWLINE-...?
-U Beogradu gužva, svi automobili stoje. Jednom tipu neko kuca na prozor. Ovaj otvara prozor:NEWLINE- Druže, šta je ovo?NEWLINE- Teroristi oteli celo predsedništvo Srbije. Traže 10.000.000 evra, ili će da ih poliju benzinom i zapale, pa skupljamo priloge.NEWLINE- Ok, daću, nije problem. A koliko se daje otprilike?
-U čemu je razlika između mačke i Čaka Norisa?
-Ubio crnogorac ženu posle 35 godina braka. Na suđenju pita ga sudija: Pa dobro, što ste to uradili baš sada nakon toliko godina, a ne nekada ranije? 
-Ugledavši Šćepanovo otečeno izgrebano lice, modricu na oku i zamotanu ruku Crnogorac ga upita:NEWLINE- Šta se to desilo sokole?NEWLINE- Borio sam se za čast jedne dame.NEWLINE- I šta je bilo jado?NEWLINE-...?
-Uhvatili u ratu grupu Crnogoraca i vodili ih nekom livadom, kad pita Crnogorac:NEWLINE- Gde nas ovo vodite?NEWLINE- Na streljanje.NEWLINE-...?
-Ulazi Piroćanac u kafanu i pita jednog čoveka:NEWLINE- Jesi li ti onaj što je mom detetu spasio zivot da se ne udavi u reci?NEWLINE- Jesam, ne morate da mi zahvaljujete.NEWLINE-...?
-Ulazi Piroćanac u kafic i narucuje kafu, okrene se a iza njega tri devojke i on ih pita:NEWLINE- Devojke, šta pijete?NEWLINE- Koka-kolu.NEWLINE-...?
-Usred tačke zapali se cirkus i voditelj smiruje publiku: ...?
-Vest dana: Piroćanac razbio ciglom izlog zlatare i pokrao svo zlato.NEWLINEKad je uhvaćen?
-Vodi pandur jednog čoveka u zatvor. Čuje se galama i pita on policajca:NEWLINE– Kakva je to galama?NEWLINE– Ma ništa, kolege izvršavaju smrtnu kaznu na električnoj stolici.NEWLINE– A zašto osuđenik toliko viče?NEWLINE–...?
-Voze se Zemunac i Dorćolac u kolima. Ko vozi?
-Zašto ajkula nema rogove?
-Zašto alkoholičar žmuri dok pije?
-Zašto balerine plešu na prstima?
-Zašto banana ide kod doktora?
-Zašto bebe plaču (Čak Noris)?
-Zašto bele ovce pojedu više trave nego crne?
-Zašto bi plavuša volela da živi u Sloveniji?
-Zašto bosanac kad uđe u tenk nosi dve glavice kupusa?
-Zašto Bosanac ne jede krastavac iz tegle?
-Zašto Bosanaca ima svuda po svetu?
-Zašto Bosanci imaju smeđe oči?
-Zašto Cezar nosi sandale?
-Zašto Cigani ne pričaju preko mobilnog na romskom?
-Zašto Cigani plaču kad gledaju Titanik?
-Zašto Crnogorac sedi na klupi i plače?
-Zašto crnogorci dolaze u Srbiju?
-Zašto deda Crnogorac nosi stakleni štap?
-Zašto deda mraz ima lenjir?
-Zašto hirurg stavlja rukavice prije operacije? 
-Zašto Hrvati i Šiptari ne gaje kokoške?
-Zasto Hrvatska nikad neće napasti Sloveniju?
-Zašto Indijanci sahranjuju mrtve iza brda?
-Zašto Internet ne može da zameni standardne štampane novine?
-Zašto Italijani nikad ne roštiljaju?
-Zašto je bitan timski rad?
-Zašto je Čak Noris najjači?
-Zašto je Hitler nosio crvene tregere?
-Zašto je narkoman napravio slamku od 3m?
-Zašto je odložen fudbalski meč između Kolubije i Jamajke?
-Zašto je ptičji grip najopasniji u Crnoj Gori?
-Zašto je Slovencima svaka fudbalska utakmica međunarodna?
-Zašto je u skupštini potrebniji veterinar nego lekar?
-Zašto je žirafa omiljena životinja Piroćancu?
-Zašto Jevrejin na pitanje uvek odgovara pitanjem?
-Zašto Jugo ima grejače samo na zadnjem staklu?
-Zašto kornjača nema oklop?
-Zašto kostur ne skače u vodu?
-Zašto krava pase travu?
-Zašto ljudožderi vole da jedu devojke?
-Zašto ljudožderi vole da jedu trudnice?
-Zašto magnet uvek ima devojku?
-Zašto mrtvaci ne mogu da igraju fudbal?
-Zašto Mujo ima nos pun perja?
-Zašto na vratima policijskih kola piše policija?
-Zašto ne prave Marsovci zurke?
-Zašto neki psi imaju zatupaste njuške?
-Zašto Oktavijan nosi sandale?
-Zašto pandur naručuje 3 kafe odjednom?
-Zašto pandur nosi pancir kada ulazi u kafanu?
-Zašto pandur ostavlja knjige u policijskim kolima?
-Zašto pas liže sebi prepone?
-Zašto pas maše repom?
-Zašto Piroćanac premotava video snimak svadbe unazad?
-Zašto Piroćanac skida tapete sa zida?
-Zašto Piroćanac stavlja ruku na usta kada povraća?
-Zašto Piroćanci imaju rupu na frižideru?
-Zašto Piroćanci ne jedu eurokrem?
-Zašto plaviša stalno gazi pauke?
-Zašto plavuša baca sat u vazduh?
-Zašto plavuša baca travu na ulicu?
-Zašto plavuša donosi reket u restoran?
-Zašto plavuša drži kompjuter na zemlji?
-Zašto plavuša drži naočare na stomaku?
-Zašto plavuša drži novčanik na televizoru?
-Zašto plavuša drži patike u kavezu?
-Zašto plavuša drži radijator na sred sobe?
-Zašto plavuša drži šećer ispod jastuka?
-Zašto plavuša ide u ćošak kada joj je hladno?
-Zašto plavuša izlazi napolje kada grmi?
-Zašto plavuša jede novine?
-Zašto plavuša kada ide u prodavnicu nosi merdevine?
-Zašto plavuša maže korektorom ekran kompjutera?
-Zašto plavuša maže vrat margarinom?
-Zašto plavuša menja bebi pelene jedanput mesecno?
-Zašto plavuša ne doji bebu?
-Zašto plavuša ne zna da napiše broj 11?
-Zašto plavuša nosi broj cipela 45 na izborima?
-Zašto plavuša nosi kompjuter u dom zdravlja?
-Zašto plavuša nosi naočare na stomaku?
-Zašto plavuša nosi pušku na stadion?
-Zašto plavuša nosi šal kad radi na računaru?
-Zašto plavuša nosi sekiru u kolima?
-Zašto plavuša otvara jogurt u super-marketu?
-Zašto plavuša otvara mleko u prodavnici?
-Zašto plavuša šeta dok se tusira?
-Zasto plavuša sipa vodu u kompjuter?
-Zašto plavuša skače sa mosta u reku? 
-Zašto plavuša skida vrata od kupatila kad se tušira?
-Zašto plavuša skuplja prazne flaše u zatvoru?
-Zašto plavuša stavlja čašu ispred kuce?
-Zašto plavuša stavlja CD u šerpu?
-Zašto plavuša stavlja kacigu na glavu?
-Zašto plavuša stavlja sat na rane?
-Zašto plavuša stoji uveče ispod drveta?
-Zašto plavuša uči na krovu?
-Zašto policajac zida okruglu kuću?
-Zašto sarma nema dečka?
-Zašto se deca u Sloveniji ne smeju istezati na fizičkom?
-Zašto se Perica osećao kao general u školi?
-Zašto se plavuša valja po putu?
-Zašto se saobraćajac nikad ne kupa?
-Zašto se ptice u gnezdu nikada ne smeše?
-Zašto se štreber obraduje skraćenim časovima?
-Zašto se svemir širi? 
-Zašto slon ne koristi kompjuter?
-Zašto slon nema kompjuter? 
-Zašto slonovi nose tamne naočare?
-Zašto slonovi suviše piju?
-Zašto štreber ima švalerku i ženu?
-Zašto su 3 praseta pobegla od kuće?
-Zašto su astronauti otišli sa meseca?
-Zašto su četvoronošci loši plesači?
-Zašto su Crnogorci odbili stolicu u UN?
-Zašto su Crnogorci zabranili izvoz kamena iz Crne Gore?
-Zašto su lovačkim psima uvek spuštene uši? 
-Zašto su Saša i Dejan Matić izbačeni iz voza? 
-Zašto su se udavili Bosanci na trajektu?
-Zašto su Turci toliko zaostali?
-Zašto Supermen leti?
-Zašto tako brzo jedeš te kolače sine? Zar si zaboravio na sestru? 
-Zašto tele plače celi dan?
-Zašto treba jesti pasulj?
-Zašto u Americi nema ljudoždera (Čak Noris)?
-Zašto u Kini nema komaraca?
-Zašto u Ljubljani više nema disko klubova?
-Zašto u Sloveniji nema Velikog brata?
-Zašto u Sloveniji u školi nemaju geografske karte?
-Zašto u španskim restoranima postoje 2 vrste bubrega?
-Zašto u Zemunu ne pada sneg?
-Zašto vojna mornarica prima više neplivača nego plivača?
-Zašto zatvorenici ne mogu da igraju fudbal?
-Zašto zecu vire uši kad se sakrije?
-Zašto žirafa ima dugačak vrat? 
-Zaustavi pandur narkomana zbog prebrze vožnje i kaže mu:NEWLINE- Izađi da duvaš!NEWLINEA narkoman će na to iznenađen:NEWLINE-...?
-Zaustavi policajac vozača i pita:NEWLINE- Sta imate od zimske opreme?NEWLINE-...?
-Zet zabrinuto pita doktora za zdravlje svoje tašte:NEWLINE- Šta joj je, doktore?NEWLINE- Ono najgore.NEWLINE- Pa recite mi!NEWLINE-...?
-Zvoni telefon u mesari. Pita čovek:NEWLINE- Imate li svinjsku glavu?NEWLINE- Da.NEWLINE- A pileće noge?NEWLINE- Da, mesar će nervozno.NEWLINE-...?
-Izmenjaj glagol biti (ja ..., ti ..., on ..., itd.).
-Kako se zove Ciga koji dobro pamti?
-Šta je školski marš?
-Plavuša autom pregazila četiri čoveka. Zaustavi je policajac i upita:NEWLINE- Jeste li vi normalni? Pregazili ste četiri čoveka!NEWLINE-...?
-Zašto plavuša u kosi ima i po koji crni pramen?
-Plavuša prvi put sprema ručak. Kad je pojeo nekoliko zalogaja, muž je upita:NEWLINE- Čime si punila šarana, draga?NEWLINE-...?
-Zašto plavuša sedi na listu papira na autoputu?
-Otišao Suljo da peca na neko jezero u Americi gde je inače pecanje zabranjeno. Ribe k’o peska. Začas nahvatao punu kantu ribe i taman je poneo, kad – rotacija. Murija.NEWLINE- Gospodine, ovde je pecanje zabranjeno. Moraćete krivično odgovarati za te ribe.NEWLINE- Ovo su moje ribe.NEWLINE- Kako?NEWLINE- Lepo. Ja ih svako jutro donesem ovdje na jezero, pustim ih da se malo isplivaju, poslije ih zovnem, one se fino vrate u kantu, nosim ih kući i sve tako. Hoćete li da vam pokažem?NEWLINE- Hajde.NEWLINESuljo istrese ribe u jezero. Tajac nekoliko sekundi. Policajac:NEWLINE- Hajde sad.NEWLINE- Šta?NEWLINE- Pa zovni ih.NEWLINE- Koga?NEWLINE- Pa ribe.NEWLINE-...?
-Kako kriminalci broje pare posle pljačke?
-Sudija pita optuženog:NEWLINE- Zašto ste ukrali auto?NEWLINE- Žurio sam na voz.NEWLINE- Mogli ste tramvajem.NEWLINE-...?
-Zašto je Mrtvo more mrtvo?
-Kog vitamina ovca najviše ima?
-Profesor matematike pita Pericu: 'Ako sabereš 2.506 i 6.708, pa pomnožiš sa 6 i podeliš sa 22, šta dobiješ?'
-Došao Amerikanac u Bosnu i čuo da su Bosanci prirodno glupi. Šeta se on tako i ugleda Muju i pomisli sad će da ga zezne za pare. Kaže on Muji:NEWLINE- Gle prijatelju, ja tebi postavim pitanje i ako ti ne znaš odgovor, ti meni daš 5 dolara. A onda ti meni postaviš pitanje a ako ja ne znam odgovor, ja tebi dam 50 dolara.NEWLINEMisli se Mujo, misli, i kaže:NEWLINE- Aj' može!NEWLINE- Kolika je udaljenost između Zemlje i Sunca?NEWLINEGleda Mujo u njega, pojma nema i izvadi 5 dolara i da mu. Strpa Amer pare u džep i kaže: Aj' sad ti mene nešto pitaj!NEWLINE- De ti meni bolan reci, šta je to, ima dve noge kad ide uzbrdo, a 3 kad ide nizbrdo?NEWLINEGleda Amer u njega, problijedio, pojma nema, pretraži internet, opet ništa, i izvadi 50 dolara i da mu. Nije mu vrag dao mira i pita on Muju:NEWLINE- Ajde, molim te, reci mi šta je to?NEWLINE-...?
-Dolazi čovek u zavod za zapošljavanje i pita:NEWLINE– Imate li neki posao za mene?NEWLINE– Naravno!NEWLINE– Kakav?NEWLINE– Odličan! Imaćete svoju kancelariju, sekretaricu i vozača, a plata će vam biti 2000 eura.NEWLINE– Je l' vi to mene zezate?NEWLINE–...?
-Zaustavlja policajac Hasu i kaže:NEWLINE- Gospodine dajte mi vašu vozačku i saobraćajnu.NEWLINE-...?
-Zasto veš mašina ima rasistički koncept?
-Sin se spremio za izlazak u grad i pita:NEWLINE- Tata, imaš li para?NEWLINE-...?
-Šta je slonovača?
-Kako sa Jugom za 10 sekundi ubrzati do 100 km/h?
-Kaže žena mužu: Kupi mi nešto što ide od 0 do 100 za par sekundi. Šta je muž kupio?
-Zašto ptice u jesen lete na jug?
-Ide čovek ulicom i jede batak. Odjednom baci kost na ulicu a prolaznik ga pita:NEWLINE- Zašto bacaš otpatke?NEWLINE-...?
-Zaustavi se šleper na autoputu. Priđje prostitutka, a vozac je pita:NEWLINE- Šta radis za 50 Evra?NEWLINE- Sve.NEWLINE-...?
-Opljačkali Mujo i Haso banku i svaki uzme po jedan džak. Posle nekoliko meseci sretnu se oni, i Mujo pita Hasu:NEWLINE- Šta je bilo u tvojoj torbi?NEWLINE- Oko pola miliona evra. Kupio sam kuću, auto, proputovao sam dosta,... A u tvojoj?NEWLINE- Ma, puna vreća računa, ...?
-Imaš 4 čokolade i ovaj pored tebe ti uzme 3. Šta ti ostaje?
-Kaže tip devojci: 'Dođi večeras kod mene, nema nikog kod kuće.' I ona dođe, zvoni, i ...?
-Šta radi Čeh posle svadbe?
-Bacio se narkoman sa 2. sprata i ljudi se okupe oko njega i pitaju ga:NEWLINE- Šta se desilo?NEWLINE-...?
-Došao Crnogorac u policijsku stanicu i poneo jastuk.NEWLINE- Izvolite, gospodine.NEWLINE-...?
-Zašto su kamikaze nosile slem?
-Zašto Španci ne pevaju himnu?
-Koji je najteži posao Crnogorcu?
-Stoji čovek na benzinskoj pumpi ceo dan. Dosadilo to radniku na benzinskoj, pa pita on čovjeka:NEWLINE- Čoveče, šta radite ceo dan ovdje?NEWLINE-...?
-Prodavac iz telešopa ubeđuje lika:NEWLINE- Zaboravite odmah sve što ste znali o jastucima!NEWLINE- Dobro, važi!NEWLINE- Da li znate kakav jastuk Vama treba?NEWLINE-...?
-Bilo neko takmičenje proizvođača piva, pa u pauzi išli ljudi nešto popiti. I sad predstavnik Heinekena naruči Heineken, onaj iz Goessera naruči Goesser, onaj iz Stele naruči Stelu, samo Irac iz Guinnessa naruči Pepsi. Pitaju ga ostali:NEWLINE- Pa dobro, kako možeš na takmičenju pivara naručiti Pepsi?NEWLINE-...?
-Šta trenira čistačica?
-- Kakva ti je to masnica na oku?NEWLINE- Potukao sam se zbog devojke.NEWLINE- Sa kim?NEWLINE-...?
-Usred noći probudi žena muža i kaže:NEWLINE- Dragi, baš sam nešto ružno sanjala i prepala sam se. Znaš, kada sam bila mala i kad sam se usred noći bojala mraka, ili kad mi je bilo hladno, mama bi me uvek privila sebi, zagrlila i poljubila.NEWLINE-...?
-Zašto Piroćanac ne malteriše kuću? 
-Policija ti cepa drva.NEWLINE-...?
-Kako se zove miš koji ima misiju?
-Igraju se djeca skrivača u žitu. I kaže jedan mali:NEWLINE- Gde god se budete sakrili u žitu, moj prijatelj koji će sada doći će vas 100 posto sve pronaći. Evo, sada se sakrijte, on dolazi!NEWLINEI sakriju se deca, pa dolazi taj prijatelj i govori mu dečko:NEWLINE-...?
-U kojim organima se najčešće nalaze paraziti?
-Kako se zove kriva vrba?
-Kako se zove planina kroz koju je Nik kopao tunel?
-Šta je otrov za miševe?
-Koja je poslednja ploča Tome Zdravkovića?
-Pričaju dva drugara:NEWLINE- Devojka me vodi na izložbu kućnih ljubimaca.NEWLINE- Dobro, pa?NEWLINE-...?
-Šta si uzeo ženi za 8. mart?
-Zašto Karadžić neće da se preda u Hag?
-Ide zlo prase kroz šumu i naiđe na dobru vilu. Pita ga dobra vila:NEWLINE- Ko si ti?NEWLINE- Ja sam zlo prase!NEWLINE- E pošto si zlo prase, imaš pravo samo na jednu želju.NEWLINE-...?
-Izašla mama sa sinom napolje u šetnju i usput sretne svoju jako lepu i zgodnu prijateljicu. Kaže Mama sinu:NEWLINE– Sine, poljubi tetu.NEWLINE– Ne, mama!NEWLINE– Čuješ šta ti kažem, poljubi tetu odmah. Ne budi nepristojan!NEWLINE– MAMA, rekao sam NE!NEWLINE– A zašto nećeš da je poljubiš?NEWLINE–...?
-U supermarketu:NEWLINE- Imate li džigerice?NEWLINE...?
-Šta radi žena kad joj muž trči cik-cak po dvorištu?
-Leti orao iznad grada, kad za njim ide vrabac, sav zadihan:NEWLINE- Orle, orle, orle!NEWLINE- Reci.NEWLINE- Kako to ti tako fino letiš, skoro ne mašući krilima, a ja moram 5 puta u sekundi mahnuti kako bih leteo?NEWLINEPogleda ga orao, odmahne desnim krilom i kaže:NEWLINE-...?
-Učiteljica zadala temu za pismeni zadatak: 'Da sam direktor'. Svi pišu, samo Perica sedi skrštenih ruku. Pita ga učiteljica:NEWLINE– A što ti ne pišeš, Perice?NEWLINE-...?
-Jedne večeri četiri prijatelja studenta su bili na zabavi i nisu učili za test koji je trebao biti sljedeći dan. Ujutro su isplanirali sljedeće: zaprljali su se što su bolje mogli, zatim su takvi otišli do profesora i rekli mu da su prošlu noć bili na vjenčanju, a na povratku im je pukla guma na autu pa su ga morali gurati natrag i zbog toga nisu u stanju pisati test. Profesor je ljubazno dozvolio da pišu test za 3 dana. Zahvalili su mu i rekli da će biti spremni za 3 dana. Trećeg dana su otišli pisati test. Profesor je rekao da im je pripremio poseban test i da će svatko od njih pisati u drugoj prostoriji. Svi su se složili s tim budući da su se dobro pripremili. Test se sastojao od jednog pitanja za 100 bodova.NEWLINEKoje je pitanje?
-Dođe pacijent kod zubaru i on mu kaže:NEWLINE- Sada vičite najglasnije što možete.NEWLINE- Ali mene ništa ne boli, doktore.NEWLINE-...?
-Takmičili se Amerikanac, Francuz i Srbin ko ima najboljeg vojnika. Predsednik Amerike: Ajde ti skoči sa one tamo kule!NEWLINE- Ali ne mogu, imam ženu, decu, familiju,...NEWLINE- Bruko jedna, obrukao si i mene i celu našu državu!NEWLINEPredsednik Francuske: Ajde ti skoči sa one tamo kule!NEWLINE- Ali ne mogu, imam ženu, decu, familiju,...NEWLINE- Bruko jedna, obrukao si i mene i celu našu državu!NEWLINEPredsednik Srbije: Gledajte šta je pravi vojnik. Živorade!NEWLINE- Molim?NEWLINE- Je l' vidiš tamo onu kulu?NEWLINE- Vidim.NEWLINE-...?
-Pričaju dva deteta:NEWLINE– Pogodi kako mi se zove vaspitačica, na slovo T.NEWLINE– Tanja.NEWLINE– Ne.NEWLINE– Tijana.NEWLINE– Ne.NEWLINE– Tamara.NEWLINE– Ne.NEWLINE– Ne znam, kako se zove?NEWLINE–...?
-Zašto Jovica igra šah crnim figurama?
-Šeta baba grobljem i naiđe na grobara i pita ga gde je grob 143. A grobar kaže:
-Sede dva Zemunca u kafiću.NEWLINE- Brate, vidi ove što ulazi u kafić koliko je debela, sve će nas pojesti.NEWLINE- Konjino to mi je sestra!NEWLINE-...?
-Mujo sedi u čekaonici opštinskog suda. Nakon dva sata čekanja, nailazi sudija koji ga upita:NEWLINE- Izvinite što kasnim, zbog čega ste vi ovdje?NEWLINE- Zbog tetkinog nasledstva.NEWLINE- Da li ste dugo čekali?NEWLINE-...?
-Čovek želi da iznajmi stan. Primetio je mrlje na zidu i reče:NEWLINE- Kakve su ono mrlje na zidu?NEWLINE- Pre vas ovde je bio hemičar koji se bavio opasnim eksperimentima.NEWLINE- I to su hemikalije?NEWLINE-...?
-Došao muž ženi sav pijan. Žena mu opali šamar i reče:NEWLINE- Hoćeš li još piti?NEWLINEMuž ćuti. Žena mu ponovo opali šamar i reče:NEWLINE- Hoćeš li još piti?NEWLINEMuž i dalje ćuti. Žena mu ponovo opali šamar i reče:NEWLINE- Hoćeš li još piti?NEWLINEMuž konačno progovori i kaže joj:NEWLINE...?
-Perica zove policiju:NEWLINE- Policija, policija, brzo dođite, ovde ima puno mrtvih ljudi!NEWLINE- Recite gde se nalazite.NEWLINE-...?
-Dolazi Perica kući i pita:NEWLINE- Sa čim se jedu ove makarone?
-Vraća se sin sa psom kući i kaže:NEWLINE- Tata, danas sam učinio jedno dobro delo!NEWLINE- Kakvo, sine?NEWLINE- Komšija je trčao na autobus,...(nastavite).
-U tri ujutro, u olujnoj noći, neko lupa na vrata. Mujo otvara vrata kuće, a pred njim stoji pijanac, jedva stoji na nogama. Pijanac moli Muju da izađe da ga malo pogura.NEWLINE– Nema teorije, tri je ujutru, čoveče!NEWLINEI zalupi mu vrata pred nosom. Fata:– Ko je bio?NEWLINE- Ma neki pijanac, traži da ga poguram.NEWLINE- Jesi li mu pomogao?NEWLINE- Nisam lud, tri je ujutru i napolju lije k’o iz kabla!NEWLINE– Sram te bilo! Sećaš li se kad smo se prije dva mjeseca vraćali od Sulje i kad su ti kola crkla po onoj kišurini? Da se ona dvojica momaka nisu zaustavili da te poguraju, nikad se ne bismo odande izvukli.NEWLINEMujo se malo postidi i na kraju se obuče, otvori vrata i prodere se u mrak i kišu:NEWLINE– Halo, jesi li još tu?NEWLINE– Jesam, dere se pijanac.NEWLINE– Treba li te još pogurati?NEWLINE– Treba, hvala lepo!NEWLINE– A gde si?NEWLINE–...?
-Šta kaže Crnogorac kada ga zovu na proslavu 20 godina mature?
-Plavuša muva Zemunca:NEWLINE- Joj, kako si mi lep, sav sladak, tako lepo obrijan, super ti stoji ta trenerka, a i parfem ti je super.NEWLINEZemunac se trgne i odvali joj šamarčinu:NEWLINE-...?
-Upoznaje se plavuša sa nekim likom i on se pohvali njoj:NEWLINE- Ja sam plastični hirurg!NEWLINEA plavuša će na to:NEWLINE-...?
-Šta urade fudbaleri Srbije kad pobede Brazil?
-Sa kojim zemljama se graniči Rusija?
-Habiba dođe kod svog doktora na pregled, međutim on ima veliku gužvu pa je pošalje svom mlađem kolegi s kojim deli ordinaciju. Pet minuta kasnije, Habiba izjuri iz ordinacije i počne vrišteći trčati niz hodnik. Zaustavi je stariji doktor i smiri te odvede u svoju ordinaciju da mu se izjada. Pet minuta kasnije, stariji doktor uleti u ordinaciju mlađeg kolege i bijesno ga upita:NEWLINE– Šta vam je, kolega! Gospođa ima 63 godine i muža, troje dece i sedmero unučadi! Zašto ste joj rekli da je trudna!?NEWLINEMladi ljekar, bez da digne pogled sa kartona kojeg je ispunjavao upita:NEWLINE-...?
-Umrli Bosanac, Rus i Amerikanac. Dođe đavo i kaže:NEWLINE– Bacite nešto u ovo jezero, i ako ja nađem to što ste bacili idete u pakao, a ako ne nađem idete u raj!NEWLINEPrvo Rus baci iglu, ode đavo i posle pola minuta nađe. Onda Amerikanac baci dugme, eto đavola posle pola minute nađe i Amerikanac i Rus odoše u pakao. Baci Bosanac nešto, ode đavo i nema ga deset dana. Izađe đavo i pita Bosanca:NEWLINE– Ama šta si to bacio pa ne mogu da nađem?NEWLINE-...?
-Bio Mujo u lovu i ulovio medveda. Pita ga Haso:NEWLINE- Je l’ bolan, kako ulovi ovolikog međeda?!NEWLINEOdgovara mu Mujo:NEWLINE- Pucao sam u njega 100 puta.NEWLINE- A koliko si ga puta pogodio?NEWLINE-...?
-Pitali Cigu: Šta ćeš biti kad porasteš?
-Mujo na kvizu odgovara na pitanje za 100.000 evra.NEWLINEPitanje glasi: Koji je glavni grad Hrvatske?NEWLINEa) KninNEWLINEb) ZagrebNEWLINEc) SisakNEWLINEd) SplitNEWLINEMujo se misli, misli, pa na kraju kaže:NEWLINE– Ja bih ipak pozvao pomoć, iskoristio bih "Pozovi prijatelja", pa bih pozvao svog jarana Hasu.NEWLINE– U redu, pozvaćemo vašeg prijatelja Hasu – odgovara voditelj.NEWLINE– Halooooo, Haso? Ovde voditelj kviza ”Milioner”. Vaš prijatelj je zapeo na jednom pitanju pa izvolite, imate 30 sekundi.NEWLINE– Zdravo Haso, šta ima? Kako su ti Fata i deca, ima li šta novo?NEWLINEI tako teče priča dok ne istekne 30 sekundi. Sirena se oglasi, a Mujo ga ne upita koji je glavni grad Hrvatske.NEWLINE– Pa dobro Mujo, zašto niste pitali svog prijatelja za odgovor? – začuđeno će voditelj.NEWLINE–...?
-Mali Ciga kaže mami:NEWLINE- Ali mamo, ja ne volim sir s rupama!NEWLINEMama odgovara:NEWLINE-...?
-Takmičili se Amerikanac, Nemac i Crnogorac ko će da probije kineski zid. Amerikanac turira svoj kadilak i opali u zid ali ništa. Pa Nemac turira svoju mečku i opali u zid ali opet ništa. Došao red na Crnogorca, a Amerikanac i Nemac su već odustali od takmičenja. Crnogorac turira, turira fiću i krene i probi zid. Tad će njemu ova dvojica:NEWLINE- Pa kako ti probi zid, a mi ovakva besna auta imamo?NEWLINE- E, sada ćete videti.NEWLINEOtvori Crnogorac haubu i kaže:NEWLINE-...?
-Kako se zove žena koju je pregazio voz?
-Zašto pita stalno sedi kući?
-Kako se zove odrasli pelikan?
-Kako se zove kad ti mistična osoba ukrade zavesu?
-Kako se zove vegeta kad na nju sleti muva?
-Koju rasu pasa naročito ne voli Šešelj?
-Koji je maternji jezik kosača?
-Kako otpozdravlja dvoglavi orao na ćao?
-Kako se zove baba diler?
-Što se poručuju 3 kafe?
-Ide slon preko mosta, a miš za njim. Gde ide miš?
-Kako se zove Šrek u Finskoj?
-Ulazi Ciga u ordinaciju, i sa vrata kaže:NEWLINE- Doktore, treba mi potvrda da ne mogu da radim.NEWLINEDoktor pita:NEWLINE- A šta ti fali?NEWLINE-...?
-Učili Mujo i Haso da skaču padobranom. Na prvom praktičnom skoku, instruktor im objasni kako da otvore padobran:NEWLINE- Prva ručica je za otvaranje, a druga je rezervna, u slučaju da se padobran ne otvori.NEWLINEPrvo je došao red na Hasu. On skoči i nakon što je povukao ručicu, padobran se otvori. Nakon toga i Mujo skoči, međutim, obe ručice pukoše, tako da on projuri pored Hase. A Haso će na to, skidajući padobran:NEWLINE-...?
-Zašto Piroćanac, koji se upravo dovezao na parking, sebi reže nogu testerom?
-Koja je razlika između slona i klavira?
-- Zašto nisi juče došao na posao?NEWLINE- Stric mi je u bolnici.NEWLINEPosle 7 dana:NEWLINE- Jel' ti stric još u bolnici?NEWLINE-...?
-- Šta studiraš?NEWLINE- Medicinu.NEWLINE- E, da te pitam: Ceo dan mi curi nos, šta da radim?NEWLINE-...?
-Otišao Ciga u kafanu i pita kelnera:NEWLINE- Je l' imate divlju patku?NEWLINE-...?
-Koja je razlika između običnog studenta i čistačice na fakultetu?
-Dolazi bolesnik kod doce i pita:NEWLINE- Doktore, koliko mi je još ostalo da živim?NEWLINEPa će na to doca:NEWLINE- Pa, nije još mnogo.NEWLINE- A koliko je to?NEWLINE- Pa, još deset.NEWLINE- Čega deset? Meseca, godina, dana, nedelja...?NEWLINE-...?
-Grdi učiteljica Pericu:NEWLINE- Perice, nemoj biti mangup, ne smeš se tući, moraš naučiti uzimati i davati!NEWLINE-...?
-Zasto je stranka opozicije izgubila na zadnjim izborima u Crnoj Gori?
-Koliko nogu ima sto i jedna ovca?
-Na čemu spava Mirko Alvirović (tj. ispod glave)?
-Šta radi Mirko Alvirović kad mu se pocepa obuća?
-Kakav trag je ostavio Mirko Alvirović?
-Kakve žurke je najviše voleo Mirko Alvirović?
-Na čemu Mirko Alvirović surfuje?
-Šta vidi Mirko Alvirović na kraju tunela?
-Šta traži Mirko Alvirović od krojača?
-Koji je omiljeni instrument Mirka Alvirovića?
-Na čemu Mirko Alvirović zida kuću?
-Šta je Mirko Alvirović poklonio Čedi Jovanoviću za rođendan?
-Koji vetar duva kad je Mirko Alvirović na moru?
-Šta ima Mirko Alvirović na glavi kad mu nije čista savest?
-Šta je Mirko Alvirović zapalio na protestu?
-Zašto su italijanski autoputevi vrlo opasni?
-Zašto ne treba da vozite nemačkim autoputevima?
-Koja je omiljena poslovica Mirka Alvirovića?
-Koji je omiljeni književni lik Mirka Alvirovića?
-Šta deli Mirko Alvirović kad sudi fudbalsku utakmicu?
-Šta je uradio Mirko Alvirović kad nije znao da odgovori na pitanje u kvizu Milioner?
-Šta je bacio Mirko Alvirović čoveku koji se davio u reci?
-Zašto Mirko Alvirović ne ide u Izrael?
-Šta ima Mirko Alvirović kad pojede pasulj?
-Zašto Mirko Alvirović ne ide u Guču?
-Šta gleda Mirko Alvirović na jutubu?
-Rešava Mirko Alvirović ukrštene reči: Kako se zove državno uređenje u kome vladaju kralj i kraljica?
-Kako Mirka Alvirovića plaćaju na RTS-u?
-Šta je radio Mirko Alvirović dok je imao fritezu?
-Šta radi Mirko Alvirović kad mu je rođendan?
-Kako se čuje motor u Makedoniji?
-Šta radi Mirko Alvirović u poslednjoj nedelji oktobra u 3 ujutru?
-Kako Mirko Alvirović prafi selfi?
-Upada policija kladioničaru u kuću i kaže: Imamo dojavu da prodajete drogu. A kladioničar će:
-Kako držati budalu u neizvesnosti?
-Zašto hirurzi nose masku za vreme operacije?
-Šta je između neba i mora?
-Vozio se Mujo i stopira neki lik. Ulazi on u kola i pita ga Mujo dokle će.NEWLINE- Idem do Doboja. Moš mislit, strpali me u ludnicu, pa ja pobegao .NEWLINEMuji se digoše dlake na glavi, jedva čeka da dođu do Doboja.U međuvremenu dok se voze izvadi ovaj neku kesu u njoj jabuke, slanik i nož .Uze ludak jabuku, popolovi je nožem, posoli, otvori prozor i baci. Tako drugu, treću, petu,... Kaze Mujo:NEWLINE- Šta ti je bolan, soliš i bacaš?NEWLINE-...?
-Kako se zove šampion matičar?
-Kako se zove matičar koji dobro računa?
-Sedi Piroćanac u kafani i za oko mu zapadne papagaj koji stoji u jednom kavezu u ćošku. Piroćanac pozove kelnera:NEWLINE- Dete, skuvaj der mi onu pticu za večeru.NEWLINE- Jeste li pri sebi? Taj papagaj vredi bar deset hiljada dolara!NEWLINE- Ništa se ti ne brini za pare, nego čerupaj!NEWLINEPosle nekog vremena, kelner donosi spremljenog papagaja na poslužavniku.NEWLINE-...?
-Dođe jedan čovek invalidu koji nema noge i kaže mu:NEWLINE- Hoćeš da ti ispričam vic od kojeg će ti otpasti noge?NEWLINE- Ajde.NEWLINE-...?
-Mujo za klavirom. Dođe Haso pa ga pita:NEWLINE- Bolan Mujo, kako možeš da sviraš klavir kad ti je juče Fata umrla?NEWLINE-...?
-Dolazi Medvedev kod Putina i nervozno mu predlaže da ukinu više ove vremenske zone. Pita ga Putin:NEWLINE- Zašto?NEWLINE- Pa ne snalazim se više, odletim u drugi grad, zovem kući a oni svi spavaju, prošli put tebe budim u 4 ujutro, a mislio sam da je veče.Zovem Angelu da joj čestitam rođendan, kaže bio je juče, predsedniku Kine Novu godinu, kaže da je sutra.NEWLINE- Ma dobro, to su sve gluposti.NEWLINE- Ma kakve gluposti, sećaš se kad se srušio onaj poljski predsednički avion? Ja zovem da im izjavim saučešće,...?
-Kupio papa novi Mercedes pa seo da se malo provoza. Kaže vozaču:NEWLINE- Vozi!NEWLINEVozi vozač, vozi ali vozi sporo, oko 70 km na sat. papa mu kaže:NEWLINE- 'Ajde bre, vozi to brže!NEWLINEI ovaj stvarno, ubrza na stotku, papa se iznervira i kaže:NEWLINE- Sedi nazad, konju jedan, sad ću da ti pokažem kako se vozi.NEWLINEI papa sedne i pojuri 200 na sat, ne staje na crveno, ne poštuje znake, ništa i normalno, zaustavi ga milicija. Papa otvara prozor i pita:NEWLINE- Šta je bilo?NEWLINEA policajac, kad je video da se zeznuo, kaže:NEWLINE- Ništa, druže predsedniče, sretan put...NEWLINEI policajac odmah zove ovog na sledećoj raskrsnici i kaže:NEWLINE- Nemoj slučajno da si zaustavio crni mercedes!NEWLINE- Što bre, ko je unutra?NEWLINE-...?
-Pričaju dva Zemunca:NEWLINE- E brate, bio sam na jednoj žurci, bilo puuuno dobrih riba! Jednoj sam prišao!NEWLINE- I šta je bilo?NEWLINE-...?
-Na testu.NEWLINEProfesor: Ko se to okreće?!NEWLINEUčenik: Zemlja.NEWLINEProfesor: Ko je to rekao?NEWLINE-...?
-Sede tri cigana za stolom u kafani i hvale se jedan drugom:NEWLINE- Ja sam za 15 dana skinuo 35 kilograma!NEWLINE- Ja sam za 10 dana skinuo 40 kilograma!NEWLINE- A ja sam za 7 dana skinuo 45 kilograma!NEWLINESluša to konobar sa strane pa im reče:NEWLINE- Ma daj, ne lažite! Ne moguće je da čovek skine toliko sala za tako kratko vreme!NEWLINE-...?
-Došli radnici kod direktora, žale mu se i jedan će :NEWLINE- Izvinite direktore, ali evo nema plate vec treći mesec.NEWLINE-...?
-Otišli na večeru Zemunac i njegov ćale u otmeni restoran.NEWLINEKad su počeli večerati ugleda otac sina kako jede rukama pa mu govori:NEWLINE- Nožem sine, nožem.NEWLINE-...?
-Pred pogubljenje dvojicu osudjenika na smrt pitaju za poslednju želju. Prvi kaže:NEWLINE- Da još jednom čujem poslednji hit od Jelene Karleuše!NEWLINEA drugi će na to:NEWLINE-...?
-Zaustavi policijska patrola pijanog vozača.NEWLINE- Kolega, daj balon. - reče jedan policajac.NEWLINEA pijani vozač ga uhvati za ruku i kaže:NEWLINE-...?
-U Pentagon stiglo najnovije dostignuće tehnologije, kompjuter sa svom bazom podataka, a reaguje na ljudski glas. Amerikanac ga pita koliko je težak kip slobode - isprinta sve u gram tačno. Francuz - koloko šrafova ima Ajfelov toranj - ma isprinta sve tačno. Sad nagovaraju i Muju da ga nešto pita, a oni odoše na piće.Kad su se vratili, soba puna papira, komjuter poludeo.NEWLINE- Pa moj Mujo šta si ga pitao?NEWLINE-...?
-Rešili Japanci da nauče kako se ne radi, i naravno pozvali crnogorske stručnjake da im u tome pomognu. Najavila se crnogorska delegacija da stiže uskoro i Japanci trk na aerodrom da ih dočekaju. Sleće avion, otvaraju se vrata... i iz aviona izlazi gomila Bosanaca. Japanci odmah počnu da se bune i galame:NEWLINE- Mi smo sklopili ugovor sa Crnogorcima a ne Bosancima, kakva je ovo prevara?NEWLINEJedan od Bosanaca im priđe i mirno reče:NEWLINE-...?
-Kako se zove Zemunac moler u Italiji ?
-Budi se Ciga u bolnici i onako sam uspaničen kaže doktoru:NEWLINE- Doktoreeeeee ne osećam nogeeeee!!!NEWLINE-...?
-Pitaju Amera:NEWLINE- Kojim vozilom idete na posao?NEWLINE- Fordom.NEWLINE- Kojim vozilom idete na izlete?NEWLINE- Ševroletom.NEWLINE- Kojim vozilom idete u inostranstvo?NEWLINE-...?
-Zove žena muža i dere se:NEWLINE- Gde si ti idiote!NEWLINE- Draga, znaš onu zlataru gde si se zaljubila u onu ogrlicu za koju sam rekao da će jednom biti tvoja?NEWLINE- Daaaaa!NEWLINE-...?
-Prilazi Crnogorac djevojci.NEWLINE- Oćeš plesat?NEWLINE- Oću!NEWLINE-...?
-Dodje kompjuteraš u mesaru i kaže:NEWLINE- Dajte mi 100 grama salame.NEWLINE- Da vam narežem?NEWLINE-...?
-Ulazi idiot u pekaru i pita:NEWLINE- Јe l' imate hleb od pre 3 dana?NEWLINE- Imamo.NEWLINE-...?
-Kako znamo da je plavuša radila na kompjuteru?
-Devojka:NEWLINE- Koji sport igras?NEWLINEDečko:NEWLINE- Igram fudbal, kosarku, tenis, odbojku i vaterpolo! NEWLINE- Kako sve to postižeš?NEWLINE-...?
-- Alo, je l' to skupština? Recite mi šta mi treba da postanem poslanik?NEWLINE- Aman čoveče, jesi li ti lud?NEWLINE-...?
-Tata, sad kad su poskupele cigarete, oćeš manje pušiti?
-Plače mala petogodišnja Mara, sva se ubi od suza. Upita majka Pericu:NEWLINE- Perice, crni sine, šta si uradio Mari?NEWLINE- Ponudio sam Mari pare ako pospremi sobu, da bi naučila kako se zarađuje.NEWLINE- Dobro, ali sigurno ne plače zbog toga?NEWLINE-...?
-- Čoveče, ne mogu da spavam, dugujem na deset mesta.NEWLINE- Ja od kad sam uzeo kredit spavam kao beba.NEWLINE- Pa kako?NEWLINE-...?
-Prolazi čovek grobljem i vidi ogroman kamen na kome piše:NEWLINE- Brate Srbine, ako si pravi brat i drug pomozi, pomeri kamen ovaj što mi na duši stoji i olakšaj mi muke.NEWLINEČovek proba da pomeri, gura, vuče, i posle podužeg mučenja, skoro se iskilavivši, uspe da pomeri kamen. A ono ispod njega urezano u kamen:NEWLINE-...?
-Jesi li čitao "7 jarića"?
-Kako glasi crnogorska palatalizacija?
-Kako glasi množina od piva? 
-Zaustavi saobraćajac u centru Niša neki auto radi kontrole. Pogleda sve ispravno, a sva 4 putnika u autu i napred i pozadi vezani pojasom. Gleda on svakog ponaoson od njih i sav razočaran, na glas prokomentariše:NEWLINE-...?
-Ulazi žena u taksi. Vozač:NEWLINE- AAAA, BUAAAA - urla iz sveg glasa!NEWLINEŽena prestravljena pita:NEWLINE- Šta ti je, čoveče?NEWLINE-...?
-Sreli se Mujo i Haso posle 50 godina, i sad kao penzioneri, izljube se i odu kod Muje na kafu. Sede oni na terasi, Mujo kaže ženi:NEWLINE- Ljubavi, 'ajde nam skuvaj kaficu!NEWLINEOna donese. Posle pola sata, Mujo opet kaže ženi:NEWLINE- Srećo, 'ajde nam donesi rakijicu!NEWLINEOna donese. Malo kasnije će opet Mujo:NEWLINE- Pile, 'ajde nam naseci malo suvog mesa!NEWLINEOna isecka i donese. Haso sve to gleda, i u čudu, kaže Muji:NEWLINE- Svaka ti čast, jarane moj, divim ti se, i posle toliko godina braka, ti svoju ženu još uvek oslovljavaš sa ljubavi, srećo, maco... stvarno divno!NEWLINEA Mujo će:NEWLINE-...?
-Pita učiteljica Pericu:NEWLINE- Perice, je l' ti tata pomaže kod domaćih zadataka?NEWLINE-...?
-Решава Босанац укрштеницу: бол, 7 слова?
-Стоји човек испред основне школе, види га директорка, прилази му и пита:NEWLINE- Извините, да ли ви то чекате дете?NEWLINE- ...?
-Dva prijatelja odu u lov. Dok hodaju šumom, jedan od njih se sruši. Ne diše i pogled mu je staklast. Onaj drugi panično dograbi telefon i nazove hitnu pomoć:NEWLINE- U pomoć!! Prijatelj mi je umro! Sta da radim?NEWLINEDežurni operater kaže:NEWLINE- Smirite se, ja ću vam pomoći. Za početak, moramo biti sigurni da je mrtav.NEWLINEUsledi tišina, a onda se začu pucanj i tip kaže:NEWLINE- ...?
-Šta radi kladioničar kad nema šta da igra?
-- Mrzim matematiku, ništa ja ovo ne kapiram! Najgori predmet! Neću da ga radim!NEWLINE- ...?
-Upada čovek kod doktora:NEWLINE- Doktore, recite mi kakvi su mi nalazi, ne mogu da čekam više, umirem od radoznalosti!NEWLINEDoktor se okrene i sa smeškom kaže:NEWLINE- ...?
-Razgovaraju dva prijatelja:NEWLINE- U mojoj firmi traže blagajnika.NEWLINE- Zašto? Pa prošle nedelje ste uzeli novog.NEWLINE- ...?
-- Koja je najsrećnija životinja na svetu?NEWLINE- Zec.NEWLINE- Zašto?NEWLINE- ...?
-Profesor:NEWLINE- Ko odgovori na moje sledeće pitanje, moze da ide kući i zaključiću mu peticu za kraj školske godine!NEWLINEPerica gađa kredom tablu.NEWLINE- Ko je bacio kredu???NEWLINEPerica:NEWLINE- ...?
-Na jednom plesnom balu muškarac prilazi devojci:NEWLINE- Oprostite, gospođice, već sat vremena želim nešto da vam kažem, ali se ustručavam...NEWLINE- Slobodno recite.NEWLINE- Kad god se nasmejete, poželim da vam kažem da dođete kod mene.NEWLINE- Oh, vi ste jedan pravi zavodnik!NEWLINE- ...?
-Mali Ivica uđe kod frizera, a brica veli jednoj mušteriji:NEWLINE- Ovo je najgluplji klinac na svetu. Sad ću ti dokazati.NEWLINEBrica stavi novčanicu od 10 evra u jednu ruku i dve kovanice od 1 evra u drugu ruku, zatim pozove malog Ivicu i pita ga:NEWLINE- Šta bi hteo od ovoga, mali?NEWLINEMali Ivica uzme dve kovanice i ode.NEWLINE- Šta sam ti rekao? Taj mulac nikad neće naučiti! Kasnije, mušterija ode i vidi klinca kako jede sladoled.NEWLINE- Hej, mali! Mogu nešto da te pitam? Zasto si uzeo kovanice, a ne 10 evra?NEWLINEMali Ivica poliže sladoled i kaže:NEWLINE- ...?
-Dolazi mafijaš sa pištoljem i uperi u plavušu:NEWLINE- Pare ili život!NEWLINE- ...?
-Stopiraju seljak i ovca i niko neće da im stane. Posle pola sata staje čovek sa BMW-om i kaže seljaku da će njega povesti, a ovcu neće, jer mnogo smrdi. Seljak se složi i kaže vozaču da će ovca ići iza njih. Krenu oni, vozač vozi 30 km/h, pogleda u retrovizor a ovca ih prati. Ubrza do 70 km/h, kad ovca i dalje prati. Vozač se iznervira, nagazi 200 km/h, pogleda u retrovizor, kad ovca trči, ali je isplezila jezik ulevo. Kaže on to seljaku, a seljak kaže: 
-Pokazuje učitelj deci kako su alkohol i cigarete štetni, pa naspe alkohola u jednu teglu i ubaci u nju glistu. Nakon par minuta glista ugine. Onda uzme cigaretu i zapali je pa je ubaci u teglu i onda ubaci drugu glistu. Nakon par minuta i ova glista ugine. Pošto je zavrsio sa demonstriranjem, pita učitelj decu jesu li nesto naučili. Javlja se Perica i kaže: 
-Zašto je Mujo pao vozački ispit čim je seo u kola?
-Kako se zove žurka epileptičara?
-Upecao dizelaš zlatnu ribicu. Kaže mu ribica:NEWLINE-Pusti me i ispuniću ti tri želje!NEWLINEZagledao se on u ribicu i posle par minuta stavi je u unutrašnji džep kožne jakne i kaže:NEWLINE- ...?
-Ulovi ribar zlatnu ribicu u kanalizaciji i ribica reče:NEWLINE- ...?
-Upeca Zemunac zlatnu ribicu i ribica mu kaže da će da mu ispuni jednu želju ako je pusti.NEWLINE- Dobro, hoću neka dobra kola.NEWLINE- 'Oćeš na kredit ili na lizing?NEWLINE- ...?
-Šetali Mujo, Italijan i Amerikanac pustinjom. I najednom vide jezerce, a u njemu zlatna ribica. Uzmu zlatnu ribicu i kaže im ribica:NEWLINE- Vratite me natrag u jezero i ispuniću vam svakom po jednu želju.NEWLINEI vrate je oni u jezero i kaže Amerikanac svoju prvu želju:NEWLINE- Ja bih kući.NEWLINEI vrati se kući. Poželi Italijan svoju želju:NEWLINE-I ja bih kući.NEWLINEI vrati se kući. I dođe red na Muju da kaže svoju želju:NEWLINE- ...?
-Perica upeca zlatnu ribicu i ona progovori:NEWLINE- Pusti me, ipuniću ti jednu  želju.NEWLINE- Samo jednu?NEWLINE- Da, samo jednu.NEWLINE- ...?
-Peca Skinhed i pored njega peca Ciga. Upeca Skinhed zlatnu ribicu. Kaže zlatna ribica:NEWLINE- Imaš tri želje, ali Ciga će dobiti dva puta više.NEWLINE- Želim jedan BMW.NEWLINEDobije on BMW, a Ciga dobije dva.NEWLINE- Dobro. Želim jednu veliku kuću i milion evra.NEWLINEDobije on veliku kuću i milion evra, a Ciga dobije dve velike kuće i dva miliona evra. Skinhed pobesni i reče:NEWLINE- ...?
-Peca Suljo ribu, i upeca zlatnu ajkulu! Kaže mu ona:NEWLINE- Pusti me i ispuniću ti jednu želju.NEWLINEKaže Suljo:NEWLINE- Želim da mi je ona stvar do zemlje.NEWLINE- ...?
-Sretnu se dve zlatne ribice i jedna će:NEWLINE- Što si tako naduvena?NEWLINEMa uhvatio me Haso i rekao:NEWLINE- ...?
-Uhvati Bil Gejts zlatnu ribicu i kaže mu ona:NEWLINE- Molim te, baci me natrag u vodu.NEWLINEI baci nju Bil natrag, pa nastavi da peca. Kaže ribica:NEWLINE- A želja?NEWLINE- ...?
-Pecao Lala, pa upecao zlatnu ribicu. Ribica mu kaže da ce mu ispuniti tri želje ako je pusti.NEWLINE- Prva želja je da komšiji izbeglici iz Bosne crkne krava.NEWLINE- Druga želja je da drugom komšiji, izbeglici iz Hrvatske, isto crkne krava.NEWLINE- A trećaNEWLINE- I meni da crkne krava.NEWLINERibica ga pogleda, pa ga upita:NEWLINE- A što tebi?"NEWLINE- ...?
-Uhvatio crnac zlatnu ribicu i dobije tri želje, kako to već dolikuje zlatnoj ribici. Poželi on da bude belac, da živi blizu vode i da neprestano gleda u žensko međunožje.NEWLINEŠta se posle desilo?
-Peca luđak i upeca zlatnu ribicu. Kaže ona:NEWLINE- Pusti me i ispuniću ti tri želje.NEWLINE- Prva želja da se Ameri presele u Rusiju.NEWLINE- Druga želja da se Rusi presele u Ameriku.NEWLINE- Treća želja da se svi vrate i sve bude normalno.NEWLINEKaže ribica:NEWLINE- Pa jesi li ti normalan, potroši tri želje džabe, što si to uradio???NEWLINE- ...?
-Uči Zemunac klinca da pliva. Posle prvog zaveslaja, mali počne da se davi. Izvuče ga Zemunac iz vode i stavi mu one mišice na naduvavanje. Međutim, opet ista priča. Prvi zaveslaj i mali ponovo počne da se davi. Stavi mu i onaj šlauf oko pojasa, opet ga ubaci u vodu. Ali opet ista priča. Tek jedan lik vikne iz kafića na obali:NEWLINE- ...?
-Pita Zemunac sina:NEWLINE- Zašto su ti crvene oči?NEWLINE- Duvao sam travu, tata.NEWLINE- ...?
-Sretnu se dva zemunca:NEWLINE- ‘De si brate, šta ima?NEWLINE- Ma brate, ne pitaj, ortak mi završio u bolnici.NEWLINE- ...?
-Pričaju dva Zemunca:NEWLINE- Brate, kakvu sam ribu sinoć upoznao! Vrh!NEWLINE- Pa je l' si joj uzeo fon?NEWLINE- ...?
-Zaustavio policajac Zemunca i kaže:NEWLINE- Dajte mi vaše ime i prezime.NEWLINE- ...?
-Šetaju ćale i sin Zemunci centrom, naravno, Zemuna, i mali vidi veliko M na Mek Donaldsu.NEWLINE– Ćale, š’a je ono veliko M na onoj zgradi?NEWLINE– ...?
-Pita slučajni prolaznik Zemunca:NEWLINE– Izvinite, da vas pitam...NEWLINE– ...?
-Zemunac prilazi devojci:NEWLINE- 'Alo sestro, jesi li za neko pićence?NEWLINE- Ma briši bre, imam dečka šest godina!NEWLINE- ...?
-Šta Zemunski studenti najčešće daju?
-Pričaju dva Zemunca.NEWLINE- Kako da je osvojim, brate?NEWLINE- Pa budi joj sve!NEWLINE- ...?
-Majka pita sina Zemunca:NEWLINE- Zašto si dobio jedinicu iz vladanja?NEWLINE- Udarao sam glavom o zid.NEWLINE- Nesrećniče, zašto si udarao glavom o zid?NEWLINE- ...?
-Učiteljica u Zemunu ispituje prvake matematiku:NEWLINE– Marice, ajde ti: koliko je 2+2?NEWLINE– 4, učiteljice!NEWLINE– Bravo! A 3+3?NEWLINE– 6!NEWLINE– Odlično Marice! A koliko jeeee... 3+2?NEWLINE– Mmmmmm... 5!NEWLINE– Odlično, Marice!NEWLINEU tom momentu mali Zemunac ustaje, vadi utoku i ispaljuje 4 metka u Maricu. Učiteljica:NEWLINE– Pa, dete, šta si to uradio???NEWLINE- ...?
-Koja je razlika između Zemunca i tramboline?
-Dolazi Beograđanin kod Zemunca i Zemunac ga pita:- ...?- Oćeš da popiješ nesto?- ...?- Ma jok.- ...?- Oćeš kafu i keks?- ...?- Ma, neću da te mučim, neću ništa.- ...?- ...?
-Mali Zemunac:NEWLINE- Kevoooo! Kevooooooooo!!! Kevo, bre!!!NEWLINE- Ćao, sine! Šta je bilo?NEWLINE- ...?
-Pita jedan Zemunac drugog:NEWLINE– Brate, koliko si puk’o za patike?NEWLINE- ...?
-Ulazi Zemunac u apoteku:NEWLINE- Znači, treba mi kutija bensedina.NEWLINE- Je l' imate recept?NEWLINE- ...?
-Šta radi dizelaš kada mu je hladno dok spava?
-Pita mama sina:NEWLINE- Sine, da se ti ne drogiraš?NEWLINE- ...?
-Dođe narkoman kod doktora i kaže:NEWLINE- Doktore, imam dve vesti, jednu lošu, a drugu dobru.NEWLINE- Hajde, reci prvo lošu.NEWLINE- Dobra je da sam ostavio drogu.NEWLINE- Pa to je sjajno! A koja je loša vest?NEWLINE- ...?
-Pita jedan Zemunac drugog:NEWLINE- Čuo sam da ti sav novac daješ siromašnima.NEWLINE- Da.NEWLINE- Pa od čega živiš, brate?NEWLINE- ...?
-Kako se zove igrica za narkomane?
-Zašto flamingo drži jednu nogu podignutu?
-Gde Supermen kupuje hranu?
+Зашто Чак Норис није имао главну улогу у Титанику?
+Коју улогу је ипак имао?
+Како се зове фока без ока?
+Како се зове Јоца без оца?
+Како се зове вепар са 2 ноге?
+Како се зове вепар са 3 ноге?
+Како се зове вепар са 4 ноге?
+Како се зове вепар са 5 ногу?
+Како се зове вепар са 6 ногу?
+Шта ради Пироћанац кад му је хладно?
+Шта ради Пироћанац кад му је много хладно?
+Пита учитељица у школи ко је написао 'На Дрини Ћуприја', па каже:NEWLINE- Ајде реци нам ти, Перице.NEWLINEПерица ће на то:NEWLINE-...?
+Учитељица пукне и одведе га код директора и каже:NEWLINE- Замислите ја питам ко је написао 'На Дрини Ћуприја', а он ми на то каже: 'Нисам ја мајке ми!'NEWLINEНа то ће директор:NEWLINE-...?
+Учитељица пусти урлик, ухвати Перицу за уши и изведе га из школе. Сретну они полицајца, И учитељица се одмах њему пожали:NEWLINE- Замислите ја питам ко је написао 'На Дрини Ћуприја', а он ми на то каже: 'Нисам ја мајке ми!'. Одведем га код директора који ми каже: 'Па можда мали и није.'NEWLINEПолицајац је збуњено погледа и каже:NEWLINE-...?
+Шта је то црвено, виси на грани и пева "О соле мио"? 
+Како је шаран на грани? 
+Како је црвен? 
+А како шаран може певати "О соле мио"??? 
+Седи мајмун поред реке и пере кору од банане. Долази крокодил, гледа, гледа, па пита:NEWLINE- Је ли, а шта ти то радиш?NEWLINE- ...?
+Крокодил мисли, мисли, мисли, али га све копка, па на крају да мајмуну сто евра.NEWLINE- Дакле, шта то радиш?NEWLINE- ...?
+Крокодил:NEWLINE- Јеси ли ти луд?!NEWLINE- ...?
+Шта ради Дорћолац у Земуну?
+А шта ради Земунац на Дорћолу?
+Професор:NEWLINE-Шта је прво било после смрти цара Душана?NEWLINEПерица:NEWLINE-…?
+А професор ће...?
+Како се зове Цига у оделу?
+Како се зове Цига у версаће оделу?
+- Ало, је л' то скупштина? Реците ми шта ми треба да постанем посланик?NEWLINE- Аман човече, јеси ли ти луд?NEWLINE-...?
+- Докторе, кашљем и тешко дишем!NEWLINE- Па је л’ пушите цигаре?NEWLINE-...?
+- Зашто ниси јуче дошао на посао?NEWLINE- Стриц ми је у болници.NEWLINEПосле 7 дана:NEWLINE- Јел' ти стриц још у болници?NEWLINE-...?
+- Каква ти је то масница на оку?NEWLINE- Потукао сам се због девојке.NEWLINE- Са ким?NEWLINE-...?
+- Која је најсрећнија животиња на свету?NEWLINE- Зец.NEWLINE- Зашто?NEWLINE- ...?
+- Мрзим математику, ништа ја ово не капирам! Најгори предмет! Нећу да га радим!NEWLINE- ...?
+- Човече, не могу да спавам, дугујем на десет места.NEWLINE- Ја од кад сам узео кредит спавам као беба.NEWLINE- Па како?NEWLINE-...?
+- Шта студираш?NEWLINE- Медицину.NEWLINE- Е, да те питам: Цео дан ми цури нос, шта да радим?NEWLINE-...?
+Ако гледате ка небу и окренути сте ка северу, шта вам је са леве стране?
+Ако је осморици људи требало 10 сати да саграде зид, колико треба четворици људи да саграде тај зид?
+Ако је плава кућа лево, а црвена десно, где је бела кућа?
+Бацио се наркоман са 2. спрата и људи се окупе око њега и питају га:NEWLINE- Шта се десило?NEWLINE-...?
+Беже двојица из затвора. Један каже другом:NEWLINE- Како ћемо, напољу је снег?
+Бежи Михаел Шумахер од пса око језерцета. Дође један пролазник и довикне:NEWLINE- Брже мало, стићи ће те!NEWLINE-...?
+Био Мујо у лову и уловио медведа. Пита га Хасо:NEWLINE- Јел’ болан, како улови оволиког међеда?!NEWLINEОдговара му Мујо:NEWLINE- Пуцао сам у њега 100 пута.NEWLINE- А колико си га пута погодио?NEWLINE-...?
+Босанац радио као пилот и зову га из контролног торња.NEWLINE- Молимо вас, реците нам вашу висину и положај.NEWLINE-...?
+Буди се Цига у болници и онако сам успаничен каже доктору:NEWLINE- Докторееееее не осећам ногеееее!!!NEWLINE-...?
+Вест дана: Пироћанац разбио циглом излог златаре и покрао сво злато.NEWLINEКад је ухваћен?
+Води пандур једног човека у затвор. Чује се галама и пита он полицајца:NEWLINE– Каква је то галама?NEWLINE– Ма ништа, колеге извршавају смртну казну на електричној столици.NEWLINE– А зашто осуђеник толико виче?NEWLINE–...?
+Возе се Земунац и Дорћолац у колима. Ко вози?
+Возио се Мујо и стопира неки лик. Улази он у кола и пита га Мујо докле ће.NEWLINE- Идем до Добоја. Мош мислит, стрпали ме у лудницу, па ја побегао .NEWLINEМуји се дигоше длаке на глави, једва чека да дођу до Добоја.У међувремену док се возе извади овај неку кесу у њој јабуке, сланик и нож .Узе лудак јабуку, преполови је ножем, посоли, отвори прозор и баци. Тако другу, трећу, пету,... Каже Мујо:NEWLINE- Шта ти је болан, солиш и бацаш?NEWLINE-...?
+Враћа се син са псом кући и каже:NEWLINE- Тата, данас сам учинио једно добро дело!NEWLINE- Какво, сине?NEWLINE- Комшија је трчао на аутобус,...(наставите).
+Где бежи штребер из школе?
+Где жена Црногорца сакрива паре?
+Где има реке без воде, шуме без дрвећа и градови без кућа?
+Где је најлуђи дочек нове године? 
+Где је потписана капитулација Немачке на крају 2. светског рата?
+Где можеш наћи корњачу окренуту на леђа?
+Где најдуже држати млеко да се не поквари?
+Где спава зец од 100 кг?
+Где су људи најсигурнији од грипа?
+Где Супермен купује храну?
+Где Цига крије паре?
+Грди учитељица Перицу:NEWLINE- Перице, немој бити мангуп, не смеш се тући, мораш научити узимати и давати!NEWLINE-...?
+Гура мали Перица бицикл, а на њему џак са песком. Пролази царину и цариник га пита шта то има у џаку.NEWLINE- Ма ништа господине цариниче, само песак.NEWLINE- Хмммм..... Да проверимо!NEWLINEКад он овори џак стварно песак унутра.NEWLINE- Добро, прођи!NEWLINEСУТРАДАНNEWLINEПерица опет гура бицикл и џак на њему, долази на царину и цариник га пита:NEWLINE- Шта то опет носиш у џаку?NEWLINE- Песак, господине.NEWLINEПровери цариник џак и допусти му да прође.NEWLINEШта Перица шверцује?
+Да ли је више Етиопљана на северу или на југу Етиопије?
+Два пријатеља оду у лов. Док ходају шумом, један од њих се сруши. Не дише и поглед му је стакласт. Онај други панично дограби телефон и назове хитну помоћ:NEWLINE- У помоћ!! Пријатељ ми је умро! Шта да радим?NEWLINEДежурни оператер каже:NEWLINE- Смирите се, ја ћу вам помоћи. За почетак, морамо бити сигурни да је мртав.NEWLINEУследи тишина, а онда се зачу пуцањ и тип каже:NEWLINE- ...?
+Два пријатеља пију у кафани.NEWLINE- Зашто жмуриш кад пијеш?
+Две краве на ливади: једна стоји, а друга лежи. Која је црногорска?
+Девојка:NEWLINE- Који спорт играш?NEWLINEДечко:NEWLINE- Играм фудбал, кошарку, тенис, одбојку и ватерполо! NEWLINE- Како све то постижеш?NEWLINE-...?
+Дође Земунац на пијацу до штанда са јабукама:NEWLINE- Даћете ми кило јабука.NEWLINE- То вам је 80 динара.NEWLINE-...?
+Дође један човек инвалиду који нема ноге и каже му:NEWLINE- Хоћеш да ти испричам виц од којег ће ти отпасти ноге?NEWLINE- Ајде.NEWLINE-...?
+Дође компјутераш у месару и каже:NEWLINE- Дајте ми 100 грама саламе.NEWLINE- Да вам нарежем?NEWLINE-...?
+Дође наркоман код доктора и каже:NEWLINE- Докторе, имам две вести, једну лошу, а другу добру.NEWLINE- Хајде, реци прво добру.NEWLINE- Добра је да сам оставио дрогу.NEWLINE- Па то је сјајно! А која је лоша вест?NEWLINE- ...?
+Дође пацијент код зубара и он му каже:NEWLINE- Сада вичите најгласније што можете.NEWLINE- Али мене ништа не боли, докторе.NEWLINE-...?
+Дође плавуша на киоск и каже прадавачици:NEWLINE- Молим вас једне цигаре.NEWLINE- Које?NEWLINE-...?
+Дође Хасо код Мује и нађе га како у кади купа малог Мујицу. Са једном руком држи Мујицу за ухо, а са другом га пере. Хасо пита Мују:NEWLINE- Хасо, а што малога држиш за ухо?NEWLINE-...?
+Доктор:NEWLINE- Колико сте килограма имали највише у животу?NEWLINEМујо:NEWLINE- 138!NEWLINE- А најмање?NEWLINE-...?
+Докторе, имате ли нешто против кашља?NEWLINE -...
+Докторе, сузи ми око!
+Долази Београђанин код Земунца и Земунац га пита:NEWLINE- Оћеш да попијеш нешто?NEWLINE- Ма јок.NEWLINE- Оћеш кафу и кекс?NEWLINE Ма, нећу да те мучим, нећу ништаNEWLINE- ...?
+Долази болесник код доце и пита:NEWLINE- Докторе, колико ми је још остало да живим?NEWLINEПа ће на то доца:NEWLINE- Па, није још много.NEWLINE- А колико је то?NEWLINE- Па, још десет.NEWLINE- Чега десет? Месеци, година, дана, недеља...?NEWLINE-...?
+Долази мафијаш са пиштољем и упери у плавушу:NEWLINE- Паре или живот!NEWLINE- ...?
+Долази Медведев код Путина и нервозно му предлаже да укину више ове временске зоне. Пита га Путин:NEWLINE- Зашто?NEWLINE- Па не сналазим се више, одлетим у други град, зовем кући, а они сви спавају, прошли пут тебе будим у 4 ујутро, а мислио сам да је вече. Зовем Ангелу да јој честитам рођендан, каже био је јуче, председнику Кине Нову годину, каже да је сутра.NEWLINE- Ма добро, то су све глупости.NEWLINE- Ма какве глупости, сећаш се кад се срушио онај пољски председнички авион? Ја зовем да им изјавим саучешће,...?
+Долази Перица кући и пита:NEWLINE- Са чим се једу ове макароне?
+Долази Циго код председника и каже: Председниче, мој газда са женом и једним дететом живи у вили са базеном, а ја са женом и петоро деце живим у шупу. Да ли је то правилно?
+Долази човек у завод за запошљавање и пита:NEWLINE– Имате ли неки посао за мене?NEWLINE– Наравно!NEWLINE– Какав?NEWLINE– Одличан! Имаћете своју канцеларију, секретарицу и возача, а плата ће вам бити 2000 евра.NEWLINE– Је л' ви то мене зезате?NEWLINE–...?
+Дошао Американац у Босну и чуо да су Босанци природно глупи. Шета се он тако и угледа Мују и помисли сад ће да га зезне за паре. Каже он Муји:NEWLINE- Гле пријатељу, ја теби поставим питање и ако ти не знаш одговор, ти мени даш 5 долара. А онда ти мени поставиш питање, а ако ја не знам одговор, ја теби дам 50 долара.NEWLINEМисли се Мујо, мисли, и каже:NEWLINE- Ај' може!NEWLINE- Колика је удаљеност између Земље и Сунца?NEWLINEГледа Мујо у њега, појма нема и извади 5 долара и да му. Стрпа Амер паре у џеп и каже: Ај' сад ти мене нешто питај!NEWLINE- Де ти мени болан реци, шта је то, има две ноге кад иде узбрдо, а 3 кад иде низбрдо?NEWLINEГледа Амер у њега, пробледио, појма нема, претражи интернет, опет ништа, и извади 50 долара и да му. Није му враг дао мира и пита он Мују:NEWLINE- Ајде, молим те, реци ми шта је то?NEWLINE-...?
+Дошао муж жени сав пијан. Жена му опали шамар и рече:NEWLINE- Хоћеш ли још пити?NEWLINEМуж ћути. Жена му поново опали шамар и рече:NEWLINE- Хоћеш ли још пити?NEWLINEМуж и даље ћути. Жена му поново опали шамар и рече:NEWLINE- ХОЋЕШ ЛИ ЈОШ ПИТИ?NEWLINEМуж коначно проговори и каже јој:NEWLINE...?
+Дошао Пироћанац у пољопривредну апотеку да купи спреј против мушица. Продавац му понуди два спреја:NEWLINE- Овај кошта 100 динара и убија око 1.000 мушица, а овај вам кошта 50 динара и убија око 500 мушица.NEWLINEПироћанац се окрене и пође из радње.NEWLINE- Па куда ћете?NEWLINE- ...?
+Дошао управитељ затвора у ћелију и пита Црногорца:NEWLINE- Зашто не устанеш када улазим?NEWLINE-...?
+Дошао Црногорац у полицијску станицу и понео јастук.NEWLINE- Изволите, господине.NEWLINE-...?
+Дошла баба код доктора и жали се:NEWLINE- Докторе кад се ту пипнем боли ме.NEWLINE- ...?
+Дошла деца код Пироћанца и питају га:NEWLINE- Господине, скупљамо у добротворне сврхе за базен. Имате ли неки допринос?NEWLINE- Сачекајте секунд, децо.NEWLINEМало касније Пироћанац се враћа са...?
+Дошли радници код директора, жале му се и један ће :NEWLINE- Опростите директоре, али ево нема плате већ трећи месец.NEWLINE-...?
+Зашто веш машина има расистички концепт?
+Зашто је странка опозиције изгубила на последњим изборима у Црној Гори?
+Зашто плавуша сипа воду у компјутер?
+Зашто Хрватска никад неће напасти Словенију?
+Заустави пандур наркомана због пребрзе вожње и каже му:NEWLINE- Изађи да дуваш!NEWLINEА наркоман ће на то изненађен:NEWLINE-...?
+Заустави полицајац возача и пита:NEWLINE- Шта имате од зимске опреме?NEWLINE-...?
+Заустави полицијска патрола пијаног возача.NEWLINE- Колега, дај балон. - рече један полицајац.NEWLINEА пијани возач га ухвати за руку и каже:NEWLINE-...?
+Заустави саобраћајац у центру Ниша неки ауто ради контроле. Погледа све исправно, а сва 4 путника у ауту и напред и позади везани појасом. Гледа он сваког понаособ од њих и сав разочаран, на глас прокоментарише:NEWLINE-...?
+Заустави се шлепер на паркингу. Приђе проститутка, а возач је пита:NEWLINE- Шта радиш за 50 евра?NEWLINE- Све.NEWLINE-...?
+Зауставио полицајац Земунца и каже:NEWLINE- Дајте ми ваше име и презиме.NEWLINE- ...?
+Зауставља полицајац Хасу и каже:NEWLINE- Господине, дајте ми вашу возачку и саобраћајну.NEWLINE-...?
+Зашто ајкула нема рогове?
+Зашто алкохоличар жмури док пије?
+Зашто балерине плешу на прстима?
+Зашто банана иде код доктора?
+Зашто бебе плачу (Чак Норис)?
+Зашто беле овце поједу више траве него црне?
+Зашто би плавуша волела да живи у Словенији?
+Зашто Босанац кад уђе у тенк носи две главице купуса?
+Зашто Босанац не једе краставац из тегле?
+Зашто Босанаца има свуда по свету?
+Зашто Босанци имају смеђе очи?
+Зашто војна морнарица прима више непливача него пливача?
+Зашто деда мраз има лењир?
+Зашто деда Црногорац носи стаклени штап?
+Зашто жирафа има дугачак врат? 
+Зашто затвореници не могу да играју фудбал?
+Зашто зецу вире уши кад се сакрије?
+Зашто Индијанци сахрањују мртве иза брда?
+Зашто Интернет не може да замени стандардне штампане новине?
+Зашто Италијани никад не роштиљају?
+Зашто је битан тимски рад?
+Зашто је жирафа омиљена животиња Пироћанцу?
+Зашто је Мртво море мртво?
+Зашто је Мујо пао возачки испит чим је сео у кола?
+Зашто је наркоман направио сламку од 3м?
+Зашто је одложен фудбалски меч између Колубије и Јамајке?
+Зашто је птичји грип најопаснији у Црној Гори?
+Зашто је Словенцима свака фудбалска утакмица међународна?
+Зашто је у скупштини потребнији ветеринар него лекар?
+Зашто је Хитлер носио црвене трегере?
+Зашто је Чак Норис најјачи?
+Зашто Јеврејин на питање увек одговара питањем?
+Зашто Јовица игра шах црним фигурама?
+Зашто Југо има грејаче само на задњем стаклу?
+Зашто Караџић неће да се преда у Хаг?
+Зашто корњача нема оклоп?
+Зашто жена не сме да скочи са 10. спрата?
+Зашто крава пасе траву?
+Зашто људождери воле да једу девојке?
+Зашто људождери воле да једу труднице?
+Зашто магнет увек има девојку?
+Зашто Мирко Алвировић не иде у Гучу?
+Зашто Мирко Алвировић не иде у Израел?
+Зашто мртваци не могу да играју фудбал?
+Зашто Мујо има нос пун перја?
+Зашто на вратима полицијских кола пише полиција?
+Зашто на пајсеру пише "лепа реч"?
+Зашто Марсовци не праве журке?
+Зашто не треба да возите немачким аутопутевима?
+Зашто неки пси имају затупасте њушке?
+Зашто Октавијан носи сандале?
+Зашто пандур наручује 3 кафе одједном?
+Зашто пандур носи панцир када улази у кафану?
+Зашто пандур оставља књиге у полицијским колима?
+Зашто пас лиже себи препоне?
+Зашто пас маше репом?
+Зашто Пироћанац не малтерише кућу? 
+Зашто Пироћанац премотава видео снимак свадбе уназад?
+Зашто Пироћанац скида тапете са зида?
+Зашто Пироћанац ставља руку на уста када повраћа?
+Зашто Пироћанац, који се управо довезао на паркинг, себи реже ногу тестером?
+Зашто Пироћанци имају рупу на фрижидеру?
+Зашто Пироћанци не једу еурокрем?
+Зашто пита стално седи кући?
+Зашто плавиша стално гази паукове?
+Зашто плавуша баца сат у ваздух?
+Зашто плавуша баца траву на улицу?
+Зашто плавуша доноси рекет у ресторан?
+Зашто плавуша држи компјутер на земљи?
+Зашто плавуша држи новчаник на телевизору?
+Зашто плавуша држи патике у кавезу?
+Зашто плавуша држи радијатор на сред собе?
+Зашто плавуша држи шећер испод јастука?
+Зашто плавуша иде у ћошак када јој је хладно?
+Зашто плавуша излази напоље када грми?
+Зашто плавуша једе новине?
+Зашто плавуша носи мердевине кад иде у продавницу?
+Зашто плавуша маже врат маргарином и мајонезом?
+Зашто плавуша маже коректором екран компјутера?
+Зашто плавуша мења беби пелене једанпут месечно?
+Зашто плавуша не доји бебу?
+Зашто плавуша не зна да напише број 11?
+Зашто плавуша носи ципеле број 45 на изборима?
+Зашто плавуша носи компјутер у дом здравља?
+Зашто плавуша носи наочаре на стомаку?
+Зашто плавуша носи секиру у колима?
+Зашто плавуша носи шал кад ради на рачунару?
+Зашто плавуша отвара млеко у продавници?
+Зашто плавуша седи на листу папира на аутопуту?
+Зашто плавуша скаче са моста у реку? 
+Зашто плавуша скида врата од купатила кад се тушира?
+Зашто плавуша скупља празне флаше у затвору?
+Зашто плавуша ставља кацигу на главу?
+Зашто плавуша ставља сат на ране?
+Зашто плавуша ставља ЦД у шерпу?
+Зашто плавуша ставља чашу испред куће?
+Зашто плавуша стоји увече испод дрвета?
+Зашто плавуша у коси има и по који црни прамен?
+Зашто плавуша учи на крову?
+Зашто плавуша шета док се тушира?
+Зашто полицајац зида округлу кућу?
+Зашто птице у јесен лете на југ?
+Зашто сарма нема дечка?
+Зашто се деца у Словенији не смеју истезати на физичком?
+Зашто се Перица осећао као генерал у школи?
+Зашто се плавуша ваља по путу?
+Зашто се птице у гнезду никада не смеше?
+Зашто се саобраћајац никад не купа?
+Зашто се свемир шири? 
+Зашто се штребер обрадује скраћеним часовима?
+Зашто слон нема компјутер? 
+Зашто слонови носе тамне наочаре?
+Зашто слонови сувише пију?
+Зашто су 3 прасета побегла од куће?
+Зашто су астронаути отишли са месеца?
+Зашто су италијански аутопутеви врло опасни?
+Зашто су камиказе носиле шлем?
+Зашто су ловачким псима увек спуштене уши? 
+Зашто су Саша и Дејан Матић избачени из воза? 
+Зашто су се удавили Босанци на трајекту?
+Зашто су Турци толико заостали?
+Зашто су Црногорци забранили извоз камена из Црне Горе?
+Зашто су Црногорци одбили столицу у Уједињеним нацијама?
+Зашто су четвороношци лоши плесачи?
+Зашто Супермен лети?
+Зашто тако брзо једеш те колаче сине? Зар си заборавио на сестру? 
+Зашто теле плаче по цео дан?
+Зашто треба јести пасуљ?
+Зашто у Америци нема људождера?
+Зашто у Земуну не пада снег?
+Зашто у Кини нема комараца?
+Зашто у Љубљани више нема диско клубова?
+Зашто у Словенији нема Великог брата?
+Зашто у Словенији у школи немају географске карте?
+Зашто у шпанским ресторанима постоје 2 врсте бубрега?
+Зашто фламинго држи једну ногу подигнуту?
+Зашто хирурзи стављају рукавице пре операције? 
+Зашто хирурзи носе маску за време операције?
+Зашто Хрвати и Шиптари не гаје кокошке?
+Зашто Цезар носи сандале?
+Зашто Цигани не причају преко мобилног на ромском?
+Зашто Цигани плачу кад гледају Титаник?
+Зашто Црногорац седи на клупи и плаче?
+Зашто црногорци долазе у Србију?
+Зашто Шпанци не певају химну?
+Зашто штребер има швалерку и жену?
+Звони телефон у месари. Пита човек:NEWLINE- Имате ли свињску главу?NEWLINE- Да.NEWLINE- А пилеће ноге?NEWLINE- Да, месар ће нервозно.NEWLINE-...?
+Земунац прилази девојци:NEWLINE- 'Ало сестро, јеси ли за неко пићенце?NEWLINE- Ма бриши бре, имам дечка шест година!NEWLINE- ...?
+Зет забринуто пита доктора за здравље своје таште:NEWLINE- Шта јој је, докторе?NEWLINE- Оно најгоре.NEWLINE- Па реците ми!NEWLINE-...?
+Зове жена мужа и дере се:NEWLINE- Где си ти идиоте!NEWLINE- Драга, знаш ону златару где си се заљубила у ону огрлицу за коју сам рекао да ће једном бити твоја?NEWLINE- Дааааа!NEWLINE-...?
+Играју БиХ и Бразил утакмицу и Роналдињо шутира слободан ударац, а Босанци у живом зиду се окренули према голу.NEWLINEГолман виче:NEWLINE- Шта то радите, окрените се према лопти!NEWLINEА Мујо ће:NEWLINE-...?
+Играју се деца скривача у житу. И каже један мали:NEWLINE- Где год се будете сакрили у житу, мој пријатељ који ће сада доћи ће вас 100 посто све пронаћи. Ево, сада се сакријте, он долази!NEWLINEИ сакрију се деца, па долази тај пријатељ и говори му дечко:NEWLINE-...?
+Иде баба улицом и падне, и притрчи Тома Николић у помоћ и подигне је с улице, и баба ће:NEWLINE- Сине, хвала, како да ти се одужим?NEWLINE- Па гласајте за мене на изборима.NEWLINE-...?
+Иде зло прасе кроз шуму и наиђе на добру вилу. Пита га добра вила:NEWLINE- Ко си ти?NEWLINE- Ја сам зло прасе!NEWLINE- Е пошто си зло прасе, имаш право само на једну жељу.NEWLINE-...?
+Иде слон преко моста, а миш за њим. Где иде миш?
+Иде човек улицом и једе батак. Одједном баци кост на улицу, а пролазник га пита:NEWLINE- Зашто бацаш отпатке?NEWLINE-...?
+Иду 3 глисте. Прва каже: Видим 2 глисте иза себе. Друга каже: Видим једну глисту испред, и једну иза себе. Трећа каже: Видим 4 глисте иза себе. Како то?
+Изашла мама са сином напоље у шетњу и успут сретне своју јако лепу и згодну пријатељицу. Каже Мама сину:NEWLINE– Сине, пољуби тету.NEWLINE– Не, мама!NEWLINE– Чујеш шта ти кажем, пољуби тету одмах. Не буди непристојан!NEWLINE– МАМА, рекао сам НЕ!NEWLINE– А зашто нећеш да је пољубиш?NEWLINE–...?
+Измењај глагол бити (ја ..., ти ..., он ..., итд.).
+Имаш 4 чоколаде и овај поред тебе ти узме 3. Шта ти остаје?
+Имаш акваријум са 10 рибица. 2 ти се угуше, 3 ти се удаве и 2 ти побегну. Колико ти је рибица остало живо на броју? 
+Ишао Пироћанац да купи јабуке и пита:NEWLINE- Пошто јабуке?NEWLINE- Што више купиш, све су јефтиније!NEWLINE-...?
+Једне вечери четири пријатеља студента су били на забави и нису учили за тест који је требао бити следећи дан. Ујутро су испланирали следеће: запрљали су се што су боље могли, затим су такви отишли до професора и рекли му да су прошлу ноћ били на венчању, а на повратку им је пукла гума на ауту, па су га морали гурати натраг и због тога нису у стању писати тест. Професор је љубазно дозволио да пишу тест за 3 дана. Захвалили су му и рекли да ће бити спремни за 3 дана. Трећег дана су отишли писати тест. Професор је рекао да им је припремио посебан тест и да ће свако од њих писати у другој просторији. Сви су се сложили с тим, будући да су се добро припремили. Тест се састојао од једног питања за 100 бодова.NEWLINEКоје је питање?
+Јеси ли читао "7 јарића"?
+Кад има највише меса у купусу? 
+Кад можеш да видиш летећи тањир? 
+Кад радник почиње да ради?
+Кад умире дијабетичар?
+Каже жена мужу: Купи ми нешто што иде од 0 до 100 за пар секунди. Шта је муж купио?
+Каже зет ташти:NEWLINE- Ви тако добро изгледате. Били бисте идеалан модел за неког кинеског сликара.NEWLINEТашта, сва усхићена, упита:NEWLINE- А зашто баш кинеског? NEWLINE-...? 
+Каже комшија Пироћанцу:NEWLINE- Син вам је нагазио на ексер!NEWLINE-...?
+Каже тип девојци:NEWLINE- Дођи вечерас код мене, нема никог код куће.NEWLINEИ она дође, звони, и ...?
+Какав сладолед не могу да једу сирочићи?
+Какав траг је оставио Мирко Алвировић?
+Каква идеја наркоману најчешће пада на памет? 
+Каква је разлика између игле и авиона?
+Какве журке је највише волео Мирко Алвировић?
+Какво је време кад ти слон падне на кола?
+Како гласи множина од пива? 
+Како гласи слоган за туристичку агенцију у Земуну?
+Како гласи црногорска палатализација?
+Како да испустиш јаје на бетон, а да се не поломи?
+Како да препознаш бебу Земунца у породилишту?
+Како двометраш вози Фићу?
+Како деца у Чернобиљу броје до 100?
+Како држати будалу у неизвесности?
+Како Земунац каже "На врх брда врба мрда"?
+Како Земунац пише смајлија?
+Како Земунац честита сестри положен испит?
+Како Земунци играју карте?
+Како Земунци кажу зачин це?
+Како знамо да је плавуша радила на компјутеру?
+Како зове човек који воли мусли? 
+Како зовеш Цигу са пушком?
+Како изгледа босански компјутерски вирус?
+Како изоштрити апетит?
+Како је Еским променио пол? 
+Како је најлакше скинути Црнца са дрвета?
+Како је настао Велики кањон?
+Како је настао минус?
+Како је умро капетан Кука?
+Како југу удвостручити вредност?
+Како канибали зову атлетичаре?
+Како Кинез држи дијету?
+Како Кинези добијају имена?
+Како Кинези зову лифт?
+Како кокошка абортира?
+Како криминалци броје паре после пљачке?
+Како лаје црногорски пас?
+Како Мирка Алвировића плаћају на РТС-у?
+Како Мирко Алвировић прафи селфи?
+Како можеш дигнути слона са једном руком?
+Како најлакше убити ноја?
+Како отпоздравља двоглави орао на ћао?
+Како пијуче земунско пиле?
+Како Пироћанац повраћа?
+Како Пироћанац храни пилиће?
+Како Пироћанац части хармоникаша на свадби? 
+Како Пироћанка натера децу да покосе двориште?
+Како плавуша абортира?
+Како плавушама потопити подморницу ?
+Како политичар кува коњску супу? 
+Како полицајац мучи муву?
+Како полицајац отвара конзерву? 
+Како почиње цигански рецепт за торту?
+Како препознати богатог Етиопљана?
+Како препознати младожењу на земунској свадби?
+Како препознати отровну гљиву?
+Како пронаћи особу из снова?
+Како родитељи кажњавају Сашу Матића?
+Како са Југом за 10 секунди убрзати до 100 km/h?
+Како се Босанац удавио киндер јајетом?
+Како се види да политичар лаже?
+Како се данас зову куле близњакиње?
+Како се загревају словенски фудбалери?
+Како се зове баба дилер?
+Како се зове болестан Цига?
+Како се зове Босанац који користи фен?
+Како се зове Босанац који не пуши? 
+Како се зове Босанка која студира ДИФ? 
+Како се зове Бранко Коцкица кад легне да спава? 
+Како се зове ванбрачно дете пилота?
+Како се зове вегета кад на њу слети афричка мува?
+Како се зове во у бигамији?
+Како се зове главни град Фејсбука?
+Како се зове грчки бог бежања са часа?
+Како се зове жена Брус Лија?
+Како се зове жена коју је прегазио воз?
+Како се зове животиња коју су открили у Зеници?
+Како се зове журка епилептичара?
+Како се зове заљубљени Цига?
+Како се зове Земунац молер у Италији ?
+Како се зове земунски дечји хор?
+Како се зове изум којим Руси гледају кроз зидове?
+Како се зове кад ти мистична особа украде завесу?
+Како се зове када Цигани масовно искачу из авиона?
+Како се зове коалиција Србије и Грчке?
+Како се зове кокошка у тренду?
+Како се зове костур који носи кожну јакну?
+Како се зове кочница на југу?
+Како се зове крива врба?
+Како се зове кум на венчању у Земуну?
+Како се зове Лондон са угашеним светлима? 
+Како се зове Марија која се удала за Брус Лија? 
+Како се зове матичар који добро рачуна?
+Како се зове мачор Чака Нориса?
+Како се зове Мексиканац који је изгубио ауто?
+Како се зове миш који има мисију?
+Како се зове муж од осе?
+Како се зове мужјак веверице?
+Како се зове набилдован Цига?
+Како се зове најбогатији Кинез?
+Како се зове најбољи јапански кројач?
+Како се зове најбољи рандом алгоритам икада?
+Како се зове највећи Француз?
+Како се зове најжући Јапанац?
+Како се зове најзахвалнији амерички глумац?
+Како се зове насмејани Јапанац?
+Како се зове одрасли пеликан?
+Како се зове опасан пас који чува намештај?
+Како се зове пас без ногу?
+Како се зове пас који ради за шанком?
+Како се зове Петар пиротехничар?
+Како се зове пироћанска обавештајна служба?
+Како се зове планина кроз коју је Ник копао тунел?
+Како се зове главни Цига у селу?
+Како се зове рода на електричном стубу?
+Како се зове сарма нудиста?
+Како се зове син од алкохоличара?
+Како се зове слепи миш после операције очију?
+Како се зове Словенац из Чернобиља?
+Како се зове спори Цига?
+Како се зове тек рођени Цига?
+Како се зове телевизор без слике?
+Како се зове Цига који бежи из школе?
+Како се зове Цига који вози мотор?
+Како се зове Цига који добро памти?
+Како се зове Цига који зна да рачуна?
+Како се зове Цига који има закрчење вена?
+Како се зове Цига који мирише?
+Како се зове Цига који отвара прозоре?
+Како се зове Цига који прати модне трендове?
+Како се зове Цига који предаје хемију?
+Како се зове Цига који продаје кокице?
+Како се зове Цига који продаје ЦД-ове?
+Како се зове Цига који ради као зидар?
+Како се зове Цига који ради као чувар у електрани?
+Како се зове Цига који ради у електрани?
+Како се зове Цига који се вози јавним превозом без карте?
+Како се зове Цига који сече лук?
+Како се зове Цига пољопривредник?
+Како се зове Цига математичар?
+Како се зове Цига пилот?
+Како се зове Цига писац?
+Како се зове Цига психолог?
+Како се зове Цига пушач?
+Како се зове Цига рокер?
+Како се зове Цига терориста?
+Како се зове Цига у Бразилу?
+Како се зове Цига у 'буби'?
+Како се зове Цига у иностранству?
+Како се зове Цига у реклами?
+Како се зове Цига џокеј?
+Како се зове Цигин омиљени фудбалски клуб?
+Како се зове шаљивџија у коми?
+Како се зове шампион матичар?
+Како се зове шеф италијанске мафије који највише воли кафу?
+Како се зове Шрек у Финској?
+Како се зову стари Цигани?
+Како се на јапанском каже: воз?
+Како се на мађарксом каже: гробље?
+Како се на српском каже: камин?
+Како се на енглеском каже: Преведи ме на другу страну улице?
+Како се на јапанском каже: Он не може да остави цигарете?
+Како се људи излежавају у Чернобиљу?
+Како се мери висина хотела барометром?
+Како се на арапском каже: пчела?
+Како се на арапском каже: хемичар?
+Како се на арапском каже: штала?
+Како се на јапанском каже Црногорац?
+Како се на јапанском каже: југословенски путеви?
+Како се на македонском каже: be cool?
+Како се на новобосанском каже: кошаркаш?
+Како се на новохрватском каже отети?
+Како се на новохрватском каже: кацига?
+Како се на новохрватском каже: пас?
+Како се на свахилију каже: Извините, да ли би сте могли поновити последње две реченице?
+Како се на хрватском каже: радник на бензинској пумпи?
+Како се на шпанском каже: абортус?
+Како се облаче Ескими?
+Како се Осама Бин Ладен отвара у шаху? 
+Како се Пироћанац тушира?
+Како се плавуша поломила док је скупљала лишће? 
+Како се поздављају 2 костура?
+Како се представља пас Џејмса Бонда?
+Како се пуж убио струјом?
+Како се терориста удвара девојци?
+Како се Црногорац удвара девојци?
+Како се чује мотор у Македонији?
+Како се штребер ошиша?
+Како слепи миш падане у несвест?
+Како Словенци мере убрзање аутомобила?
+Како су Босанци добили килу у рату?
+Како су настале жирафе?
+Како талибани гасе пожар?
+Како ћеш препознати војника у цивилном оделу на стадиону међу 30.000 људи?
+Како у акваријуму препознати која је рибица ОН, а која ОНА?
+Како у Црној Гори зову ванбрачно дете?
+Како угурати 50 Етиопљана у фићу?
+Како Цига пали мотор? 
+Како Цига проверава да ли му је жена трудна?
+Како Црногорац чита књигу?
+Како Чак Норис пије воду са чесме?
+Како Чак Норис прескаче реку? 
+Како човек може да издржи 8 дана без сна?
+Како штребер прети батинама?
+Кандидују се Србин, Албанац и Цига за неко радно место. Ко ће добити посао?
+Кинеска пословица: Пас који лаје...?
+Ко другоме јаму копа,...?
+Ко је измислио рибу са поврћем и зашто?
+Ко је рођен као соко, а живи као кокошка?
+Ко пита,...?
+Ко рано рани,...?
+Ко се задњи смеје,...?
+Ко узима дрогу?
+Ко чека,...?
+Ког витамина овца највише има?
+Кога највише ударају по глави?
+Која је e-mail адреса Чака Нориса?
+Која је јединица за отпор?
+Која је казна за бигамију?
+Која је омиљена бајка аутостопера?
+Која је омиљена игрица наркомана?
+Која је омиљена пословица Мирка Алвировића?
+Која је последња плоча Томе Здравковића?
+Која је разлика између Више пословне школе и лударе?
+Која је разлика између Звезде/Партизана и бабе на свадби?
+Која је разлика између Земунца и трамболине?
+Која је разлика између Југа и Јеховиног сведока?
+Која је разлика између пада са првог и 10. спрата?
+Која је разлика између педагога и педофила?
+Која је разлика између продавца компјутера и продавца кола?
+Која је разлика између седам плавуша и три овце? 
+Која је разлика између слона и клавира?
+Која је разлика између таште и лешинара?
+Која је разлика између Црнца и аутомобилске гуме?
+Која је разлика између Црнца и бицикла?
+Која је разлика између чистачице и обичног студента?
+Која је сличност између жене инжењера и морског прасета?
+Која је сличност између прдежа и 'Отписаних'?
+Која је сличност између фудбалера и кошаркаша Србије?
+Која се животиња након смрти окрене једно 500 пута?
+Која су 3 неписана правила?
+Које 2 речи се највише користе у школи?
+Које године се десила 1914?
+Које је боје жуманце, бело или бијело?
+Које је време: ја купујем, ти купујеш, он купује...?
+Које је најстрашније место на свету? 
+Које је Пајино омиљено воће (За МАТФовце, Бобино)?
+Који ауто можеш да возиш 120 km/h по неасфалтираном путу?
+Који ветар дува кад је Мирко Алвировић на Јадранском мору?
+Који је главни узрок развода?
+Који је матерњи језик косача?
+Који је најкраћи пут до луднице?
+Који је најтежи посао Црногорцу?
+Који је најчешћи разлог за суву кожу?
+Који је омиљени инструмент Мирка Алвировића?
+Који је омиљени књижевни лик Мирка Алвировића?
+Који је омиљени покемон играча игрица?
+Који је омиљени школски предмет наркомана и зашто?
+Који је рекорд Црногораца на 100м?
+Који је Циги омиљени супер херој?
+Који саобраћајни знак не постоји у Црној Гори?
+Који сок Цига највише воли?
+Који су омиљени оброци Чака Нориса?
+Који точак се не окреће у кривини?
+Коју расу паса нарочито не воли Шешељ?
+Колико је дугачка Дрина?
+Колико ногу има сто и једна овца?
+Колико Чак Норис може да уради склекова?
+Купио папа нови Мерцедес па сео да се мало провоза. Каже возачу:NEWLINE- Вози!NEWLINEВози возач, вози али вози споро, око 70 km/h. папа му каже:NEWLINE- 'Ајде бре, вози то брже!NEWLINEИ овај стварно, убрза на стотку, папа се изнервира и каже:NEWLINE- Седи назад, коњу један, сад ћу да ти покажем како се вози.NEWLINEИ папа седне и појури 200 на сат, не стаје на црвено, не поштује знаке, ништа и нормално, заустави га милиција. Папа отвара прозор и пита:NEWLINE- Шта је било?NEWLINEА полицајац, кад је видео да се зезнуо, каже:NEWLINE- Ништа, друже председниче, срећан пут...NEWLINEИ полицајац одмах зове овог на следећој раскрсници и каже:NEWLINE- Немој случајно да си зауставио црни мерцедес!NEWLINE- Што бре, ко је унутра?NEWLINE-...?
+Лежи Црногорац у трави и виче:NEWLINE- Женоооооо, дај ми серум за змије!NEWLINEПита жена:NEWLINE- Да те није угризла случајно?NEWLINE-...?
+Лети орао изнад града, кад за њим иде врабац, сав задихан:NEWLINE- Орле, орле, орле!NEWLINE- Реци.NEWLINE- Како то ти тако фино летиш, скоро не машући крилима, а ја морам 5 пута у секунди махнути како бих летео?NEWLINEПогледа га орао, одмахне десним крилом и каже:NEWLINE-...?
+Мајка пита сина Земунца:NEWLINE- Зашто си добио јединицу из владања?NEWLINE- Ударао сам главом о зид.NEWLINE- Несрећниче, зашто си ударао главом о зид?NEWLINE- ...?
+Мали Земунац у купатилу се купа сат времена. Ћале му лупа на врата и пита:NEWLINE- Слинави за колико завршаваш?NEWLINE- ...?
+Мали Земунац:NEWLINE- Кевоооо! Кевооооооооо!!! Кево, бре!!!NEWLINE- Ћао, сине! Шта је било?NEWLINE- ...?
+Мали Ивица уђе код фризера, а брица вели једној муштерији:NEWLINE- Ово је најглупљи клинац на свету. Сад ћу ти доказати.NEWLINEБрица стави новчаницу од 1000 динара у једну руку и две новчанице од 100 динара у другу руку, затим позове малог Ивицу и пита га:NEWLINE- Шта би хтео од овога, мали?NEWLINEМали Ивица узме две по 100 и оде.NEWLINE- Шта сам ти рекао? Тај мулац никад неће научити! Касније, муштерија оде и види клинца како једе сладолед.NEWLINE- Хеј, мали! Могу нешто да те питам? Зашто си узео 200, а не 1000 динара?NEWLINEМали Ивица полиже сладолед и каже:NEWLINE- ...?
+Мали Цига каже мами:NEWLINE- Али мамо, ја не волим сир са рупама!NEWLINEМама одговара:NEWLINE-...?
+Маркова мама има троје деце: Понедељак, Уторак и ?
+Мујо за клавиром. Дође Хасо, па га пита:NEWLINE- Болан Мујо, како можеш да свираш клавир кад ти је јуче Фата умрла?NEWLINE-...?
+Мујо на квизу одговара на питање за 100.000 евра.NEWLINEПитање гласи: Који је главни град Хрватске?NEWLINEа) КнинNEWLINEб) ЗагребNEWLINEц) СисакNEWLINEд) СплитNEWLINEМујо се мисли, мисли, па на крају каже:NEWLINE– Ја бих ипак позвао помоћ, искористио бих "Позови пријатеља", па бих позвао свог јарана Хасу.NEWLINE– У реду, позваћемо вашег пријатеља Хасу – одговара водитељ.NEWLINE– Халооооо, Хасо? Овде водитељ квиза ”Милионер”. Ваш пријатељ је запео на једном питању па изволите, имате 30 секунди.NEWLINE– Здраво Хасо, шта има? Како су ти Фата и деца, има ли шта ново?NEWLINEИ тако тече прича док не истекне 30 секунди. Сирена се огласи, а Мујо га не упита који је главни град Хрватске.NEWLINE– Па добро Мујо, зашто нисте питали свог пријатеља за одговор? – зачуђено ће водитељ.NEWLINE–...?
+Мујо седи у чекаоници општинског суда. Након два сата чекања, наилази судија који га упита:NEWLINE- Извините што касним, због чега сте ви овде?NEWLINE- Због теткиног наследства.NEWLINE- Да ли сте дуго чекали?NEWLINE-...?
+На једном плесном балу мушкарац прилази девојци:NEWLINE- Опростите, госпођице, већ сат времена желим нешто да вам кажем, али се устручавам...NEWLINE- Слободно реците.NEWLINE- Кад год се насмејете, пожелим да вам кажем да дођете код мене.NEWLINE- Ох, ви сте један прави заводник!NEWLINE- ...?
+На олимпијади баца Црногорац мотику дупло даље од осталих и освоји злато, а после га новинари питају: NEWLINE- Како вам је то успело?NEWLINE-...?
+На суду одговара Земунац.NEWLINE- Кад сте већ узели златан накит, зашто нисте узели и 5.000 евра који су били у суседној фиоци?NEWLINE-...?
+На суђењу пита судија оптуженог Земунца:NEWLINE- Имате ли нешто за своју одбрану?NEWLINE-...?
+На тесту.NEWLINEПрофесор: Ко се то окреће?!NEWLINEУченик: Земља.NEWLINEПрофесор: Ко је то рекао?NEWLINE-...?
+На чему Мирко Алвировић зида кућу?
+На чему Мирко Алвировић сурфује?
+На чему спава Мирко Алвировић (тј. испод главе)?
+На шта личи Црнац са великим богињама?
+Неко куца на врата:NEWLINE - Добар дан, ја сам из Јеховиних свједока, желео бих да разговарам са вама.NEWLINE- Изволите, уђите, седите. О чему желите разговарати?NEWLINE-...?
+Од чега се атомски мрав усере од страха?
+Опљачкали Мујо и Хасо банку и свако узме по један џак. После неколико месеци сретну се они, и Мујо пита Хасу:NEWLINE- Шта је било у твојој торби?NEWLINE- Око пола милиона евра. Купио сам кућу, ауто, пропутовао сам доста,... А у твојој?NEWLINE- Ма, пуна врећа рачуна, ...?
+Оставља Црногорац девојку:NEWLINE- Леп ти је бивши.NEWLINE- Ко?NEWLINE:- ...?
+Отишао Мујо у Немачку и једног дана шаље Фати телеграм: 'Ископај онај митраљез. Очисти га, подмажи и врати на исто место.'NEWLINEПрочитао поштар телеграм и одмах га однео у полицију. Полиција дошла, прекопала башту и није нашла митраљез.NEWLINEШаље Мујо други телеграм:NEWLINE'...'?
+Отишао Суљо да пеца на неко језеро у Америци где је иначе пецање забрањено. Рибе к’о песка. Зачас нахватао пуну канту рибе и таман је понео, кад – ротација. Мурија.NEWLINE- Господине, овде је пецање забрањено. Мораћете кривично одговарати за те рибе.NEWLINE- Ово су моје рибе.NEWLINE- Како?NEWLINE- Лепо. Ја их свако јутро донесем овде на језеро, пустим их да се мало испливају, после их зовнем, оне се фино врате у канту, носим их кући и све тако. Хоћете ли да вам покажем?NEWLINE- Хајде.NEWLINEСуљо истресе рибе у језеро. Тајац неколико секунди. Полицајац:NEWLINE- Хајде сад.NEWLINE- Шта?NEWLINE- Па зовни их.NEWLINE- Кога?NEWLINE- Па рибе.NEWLINE-...?
+Отишао Цига у кафану и пита келнера:NEWLINE- Је л' имате дивљу патку?NEWLINE-...?
+Отишли на вечеру Земунац и његов ћале у отмени ресторан.NEWLINEКад су почели вечерати, угледа отац сина како једе рукама па му говори:NEWLINE- Ножем сине, ножем.NEWLINE-...?
+Падају са високог солитера Џо Бајден и Хилари Клинтон. Ко ће први да падне?
+Перица зове полицију:NEWLINE- Полиција, полиција, брзо дођите, овде има пуно мртвих људи!NEWLINE- Реците где се налазите.NEWLINE-...?
+Перица упеца златну рибицу и она проговори:NEWLINE- Пусти ме, испунићу ти једну  жељу.NEWLINE- Само једну?NEWLINE- Да, само једну.NEWLINE- ...?
+Перице, кажи две заменице. -...
+Петогодишњак долази плачући мајци:NEWLINE- Сека ме почупала за косу.NEWLINE- Немој се љутити на њу, она још не зна да чупање за косу боли.NEWLINEУбрзо након тога, мајка зачује малену како плаче. Оде погледати шта се дешава.NEWLINEДечак јој рече:NEWLINE-...?
+Пеца лудак и упеца златну рибицу. Каже она:NEWLINE- Пусти ме и испунићу ти три жеље.NEWLINE- Прва жеља да се Амери преселе у Русију.NEWLINE- Друга жеља да се Руси преселе у Америку.NEWLINE- Трећа жеља да се сви врате и све буде нормално.NEWLINEКаже рибица:NEWLINE- Па јеси ли ти нормалан, потроши три жеље џабе, што си то урадио???NEWLINE- ...?
+Пеца Скинхед и поред њега пеца Цига. Упеца Скинхед златну рибицу. Каже златна рибица:NEWLINE- Имаш три жеље, али Цига ће добити два пута више.NEWLINE- Желим један БМW.NEWLINEДобије он БМW, а Цига добије два.NEWLINE- Добро. Желим једну велику кућу и милион евра.NEWLINEДобије он велику кућу и милион евра, а Цига добије две велике куће и два милиона евра. Скинхед побесни и рече:NEWLINE- ...?
+Пеца Суљо рибу, и упеца златну ајкулу! Каже му она:NEWLINE- Пусти ме и испунићу ти једну жељу.NEWLINEКаже Суљо:NEWLINE- Желим да ми је она ствар до земље.NEWLINE- ...?
+Пецао Лала, па упецао златну рибицу. Рибица му каже да ће му испунити три жеље, ако је пусти.NEWLINE- Прва жеља је да комшији избеглици из Босне цркне крава.NEWLINE- Друга жеља је да другом комшији, избеглици из Хрватске, исто цркне крава.NEWLINE- А трећа?NEWLINE- И мени да цркне крава.NEWLINEРибица га погледа, па га упита:NEWLINE- А што теби?"NEWLINE- ...?
+Пита Ева Адама:NEWLINEАдаме, волиш ли ме?NEWLINEАдам одговара:
+Пита екипа РТС-а Цигу:NEWLINE- Да ли вам је било добро за време Слободана Милошевића?NEWLINE- Па, било је добро. Одем са жену у маркет, узем саламу, леба, млеко за децу, сок фрутела...NEWLINE- А како вам је сада?NEWLINE-...?
+Пита Земунац сина:NEWLINE- Зашто су ти црвене очи?NEWLINE- Дувао сам траву, тата.NEWLINE- ...?
+Пита један Земунац другог:NEWLINE– Брате, колико си пук’о за патике?NEWLINE- ...?
+Пита један Земунац другог:NEWLINE- Чуо сам да ти сав новац дајеш сиромашнима.NEWLINE- Да.NEWLINE- Па од чега живиш, брате?NEWLINE- ...?
+Пита једна жена другу:NEWLINE- Како си смршала?NEWLINE- Ма кромпир, шаргарепа,...NEWLINE- Пржила или кувала?NEWLINE-...?
+Пита комшија Пироћанца:NEWLINE- Што ти ова кокошка има једну ногу?NEWLINE-...?
+Пита мама Перицу: Има ли петица у школи?
+Пита мама Перицу:NEWLINE- Како је било на тесту?NEWLINE- Добро.NEWLINE- Шта ћеш добити?NEWLINE-...?
+Пита мама Перицу:NEWLINE- Сине, шта је између тебе и оне згодне девојке са спрата изнад нас?NEWLINE-...?
+Пита мама сина:NEWLINE- Сине, да се ти не дрогираш?NEWLINE- ...?
+Пита Мујица свог оца Мују:NEWLINE- Тата, како се Земља окреће?NEWLINEПосле дужег размишљања, Мујо каже:NEWLINE-...?
+Пита случајни пролазник Земунца:NEWLINE– Извините, да вас питам...NEWLINE– ...?
+Пита учитељица малог Пироћанца: Имаш 7 јабука и ја ти тражим 2. Колико ће ти остати?
+Пита учитељица Перицу:NEWLINE- Перице, је л' ти тата помаже код домаћих задатака?NEWLINE-...?
+Пита учитељица у школи, ко зна да броји од 7 до 10. Јавља се Перица:NEWLINE- Знам ја, знам ја!NEWLINEУчитељица:NEWLINE- Хајде Перице.NEWLINEПерица:NEWLINE- 7, 8, 9, 10.NEWLINEУчитељица:NEWLINE- Браво, Перице. А знаш ли како иде даље?NEWLINEПерица:
+Пита штребера његова девојка шта је 14. фебруара. Шта је рекао?
+Питају Амера:NEWLINE- Којим возилом идете на посао?NEWLINE- Фордом.NEWLINE- Којим возилом идете на излете?NEWLINE- Шевролетом.NEWLINE- Којим возилом идете у иностранство?NEWLINE-...?
+Питали Цигу: Шта ћеш бити кад порастеш?
+Плавуша аутом прегазила четири човека. Заустави је полицајац и упита:NEWLINE- Јесте ли ви нормални? Прегазили сте четири човека!NEWLINE-...?
+Плавуша мува Земунца:NEWLINE- Јој, како си ми леп, сав сладак, тако лепо обријан, супер ти стоји та тренерка, а и парфем ти је супер.NEWLINEЗемунац се тргне и одвали јој шамарчину:NEWLINE-...?
+Плавуша први пут спрема ручак. Кад је појео неколико залогаја, муж је упита:NEWLINE- Чиме си пунила шарана, драга?NEWLINE-...?
+Планирају лудаци да побегну из луднице. Обију браву, ошамуте стражара и прескоче ограду. Вођа каже: ?
+Плаче мала петогодишња Мара, сва се уби од суза. Упита мајка Перицу:NEWLINE- Перице, црни сине, шта си урадио Мари?NEWLINE- Понудио сам Мари паре ако поспреми собу, да би научила како се зарађује.NEWLINE- Добро, али сигурно не плаче због тога?NEWLINE-...?
+По чему се препознаје пироћанско двориште?
+Показује учитељ деци како су алкохол и цигарете штетни, па наспе алкохола у једну теглу и убаци у њу глисту. Након пар минута глиста наравно угине. Онда узме цигарету и запали је па је убаци у теглу и онда убаци другу глисту. Након пар минута и ова глиста угине. Пошто је завршио са демонстрирањем, пита учитељ децу јесу ли нешто научили. Јавља се Перица и каже: 
+Полиција ти цепа дрва.NEWLINE-...?
+После удеса два аутомобила у потпуности слупана.NEWLINEИз једног аута излази здрав и жив, згодан мушкарац. Из другог аута извуче се неповређна лепа, згодна жена. Мушкарац јој приђе са флашом вина која је по срећи такође неразбијена и каже:NEWLINEЖена - Ми се морамо упознати и наздравити за наше будуће пријатељство.NEWLINEЖена га погледа и помисли: 'Како је само леп'. Узме флашу и наздрави. Затим пружи вино мушкарцу да и он наздрави. Он узме флашу и затвори је. Жена га пита:NEWLINE- Зар ти нећеш наздравити?NEWLINE-...?
+Пред погубљење двојицу осуђеника на смрт, питају за последњу жељу. Први каже:NEWLINE- Да још једном чујем последњи хит од Јелене Карлеуше!NEWLINEА други ће на то:NEWLINE-...?
+Прилази Црногорац девојци.NEWLINE- Оћеш плесат'?NEWLINE- 'Оћу!NEWLINE-...?
+Приликом посете психијатријској болници, један посетитељ пита директора болнице на основу чега одлучују кога ће примити у болницу на лечење.NEWLINE- Врло једноставно, ставимо га пред каду пуну воде и дамо му чајну кашичицу, чашу и канту, и кажемо му да испразни каду на најбржи начин.NEWLINE- Аха, разумем, онај који је нормалан, ... (допуните)
+Прича Мујо Хаси:NEWLINE- Синоћ, када сам се враћао из кафане, видим на једном ћошку, њих петорица туку неког јадника. Размишљам ја, да л' да улетим међу њих... оћу, нећу, оћу, нећу... Ма реко' улећем и ја у тучу.NEWLINE- И шта је било?NEWLINE-...?
+Причају два детета:NEWLINE– Погоди како ми се зове васпитачица, на слово Т.NEWLINE– Тања.NEWLINE– Не.NEWLINE– Тијана.NEWLINE– Не.NEWLINE– Тамара.NEWLINE– Не.NEWLINE– Не знам, како се зове?NEWLINE–...?
+Причају два другара:NEWLINE- Девојка ме води на изложбу кућних љубимаца.NEWLINE- Добро, па?NEWLINE-...?
+Причају два Земунца.NEWLINE- Како да је освојим, брате?NEWLINE- Па буди јој све!NEWLINE- ...?
+Причају два Земунца:NEWLINE- Брате, какву сам рибу синоћ упознао! Врх!NEWLINE- Па је л' си јој узео фон?NEWLINE- ...?
+Причају два Земунца:NEWLINE- Е брате, био сам на једној журци, било пуууно добрих риба! Једној сам пришао!NEWLINE- И шта је било?NEWLINE-...?
+Причају Мујо и Хасо у затвору. Каже Мујо:NEWLINE- Хасо, шта је тебе довело у затвор?NEWLINE-...?
+Пробај да изговориш слово између М и Њ.
+Продавац из телешопа убеђује лика:NEWLINE- Заборавите одмах све што сте знали о јастуцима!NEWLINE- Добро, важи!NEWLINE- Да ли знате какав јастук Вама треба?NEWLINE-...?
+Пролази човек гробљем и види огроман камен на коме пише:NEWLINE- Брате Србине, ако си прави брат и друг помози, помери камен овај што ми на души стоји и олакшај ми муке.NEWLINEЧовек проба да помери, гура, вуче, и после подужег мучења, скоро се искилавивши, успе да помери камен. А оно испод њега урезано у камен:NEWLINE-...?
+Професор математике пита Перицу: 'Ако сабереш 2506 и 6708, па помножиш са 6 и поделиш са 22, шта добијеш?'
+Професор хемије пита студента:NEWLINE- Плин у овој боци је смртоносан. У случају да се он ослободи, какве бисте кораке предузели?
+Професор:NEWLINE- Ко одговори на моје следеће питање, може да иде кући и закључићу му петицу за крај школске године!NEWLINEПерица гађа кредом таблу. Професор :NEWLINE- Ко је бацио креду???NEWLINEПерица:NEWLINE- ...?
+Разговарају два пријатеља:NEWLINE- Прошлог петка затекнем ташту пред вратима, пита ме да ли може да остане пар дана. Рекао сам да може.NEWLINE- И ...?
+Разговарају два пријатеља:NEWLINE- У мојој фирми траже благајника.NEWLINE- Зашто? Па прошле недеље сте узели новог.NEWLINE- ...?
+Решава босанац/плавуша/пандур укрштене речи: Бол, 7 слова?
+Решава босанац/плавуша/пандур укрштене речи: Види слику, 5 слова?
+Решава босанац/плавуша/пандур укрштене речи: Врста животиње са кућицом, 3 слова?
+Решава босанац/плавуша/пандур укрштене речи: Део купатила, 4 слова?
+Решава босанац/плавуша/пандур укрштене речи: Део прибора за јело, 3 слова?
+Решава босанац/плавуша/пандур укрштене речи: Женин брат, 5 слова?
+Решава босанац/плавуша/пандур укрштене речи: Иницијали песника Јесењина, 2 слова?
+Решава босанац/плавуша/пандур укрштене речи: Кокошији производ, 4 слова?
+Решава босанац/плавуша/пандур укрштене речи: Мера за драгоцености, 5 слова?
+Решава босанац/плавуша/пандур укрштене речи: Морски гребен, 2 слова?
+Решава босанац/плавуша/пандур укрштене речи: Најмањи троцифрени број, 3 слова?
+Решава босанац/плавуша/пандур укрштене речи: Неизлечива болест, 4 слова?
+Решава босанац/плавуша/пандур укрштене речи: Неопходан зачин, 2 слова?
+Решава босанац/плавуша/пандур укрштене речи: Становник Тиране, 7 слова?
+Решава босанац/плавуша/пандур укрштене речи: Телефонски позив, 3 слова?
+Решава босанац/плавуша/пандур укрштене речи: Хемијска ознака за злато, 2 слова?
+Решава босанац/плавуша/пандур укрштене речи: Хемијска ознака за кисеоник, 1 слово?
+Решава пандур укрштене речи: Хладно орузје, 7 слова?
+Решава Земунац укрштене речи: Лука у Шпанији, 7 слова?
+Решава Мирко Алвировић укрштене речи: Како се зове државно уређење у коме владају краљ и краљица?
+Решили Јапанци да науче како се не ради, и наравно позвали црногорске стручњаке да им у томе помогну. Најавила се црногорска делегација да стиже ускоро и Јапанци трк на аеродром да их дочекају. Слеће авион, отварају се врата... и из авиона излази гомила Босанаца. Јапанци одмах почну да се буне и галаме:NEWLINE- Ми смо склопили уговор са Црногорцима, а не са Босанцима, каква је ово превара?NEWLINEЈедан од Босанаца им приђе и мирно рече:NEWLINE-...?
+Са којим земљама се граничи Русија?
+Седе два Земунца у кафићу.NEWLINE- Брате, види ове што улази у кафић колико је дебела, све ће нас појести.NEWLINE- Коњино то ми је сестра!NEWLINE-...?
+Седе три цигана за столом у кафани и хвале се један другом:NEWLINE- Ја сам за 15 дана скинуо 35 килограма!NEWLINE- Ја сам за 10 дана скинуо 40 килограма!NEWLINE- А ја сам за 7 дана скинуо 45 килограма!NEWLINEСлуша то конобар са стране, па им рече:NEWLINE- Ма дај, не лажите! Не могуће је да човек скине толико сала за тако кратко време!NEWLINE-...?
+Седи Пироћанац у кафани, и за око му западне папагај који стоји у једном кавезу у ћошку. Пироћанац позове келнера:NEWLINE- Дете, скувај дер ми ону птицу за вечеру.NEWLINE- Јесте ли при себи? Тај папагај вреди бар 10000 долара!NEWLINE- Ништа се ти не брини за паре, него черупај!NEWLINEПосле неког времена, келнер доноси спремљеног папагаја на послужавнику.NEWLINE-...?
+Син се спремио за излазак у град и пита:NEWLINE- Тата, имаш ли пара?NEWLINE-...?
+Словенија баци нуклеарну бомбу на Америку. Америка ништа не враћа, тако први пут, други пут и трећи пут. Након тога назове председник Словеније Џорџа Буша и пита га зашто не враћа. Шта каже Џорџ Буш?
+Сложна браћа кућу граде,...?
+Срели се Мујо и Хасо после 50 година, и сад као пензионери, изљубе се и оду код Мује на кафу. Седе они на тераси, Мујо каже жени:NEWLINE- Љубави, 'ајде нам скувај кафицу!NEWLINEОна донесе. После пола сата, Мујо опет каже жени:NEWLINE- Срећо, 'ајде нам донеси ракијицу!NEWLINEОна донесе. Мало касније ће опет Мујо:NEWLINE- Пиле, 'ајде нам насеци мало сувог меса!NEWLINEОна исецка и донесе. Хасо све то гледа, и у чуду, каже Муји:NEWLINE- Свака ти част, јаране мој, дивим ти се, и после толико година брака, ти своју жену још увек ословљаваш са љубави, срећо, мацо... стварно дивно!NEWLINEА Мујо ће:NEWLINE-...?
+Сретну се два земунца:NEWLINE- ‘Де си брате, шта има?NEWLINE- Ма брате, не питај, ортак ми завршио у болници.NEWLINE- ...?
+Сретну се две златне рибице и једна ће:NEWLINE- Што си тако надувена?NEWLINEМа ухватио ме Хасо и рекао: ...?
+Шта ради Земунац на селу?
+Стоје на станици пандур и дизелаш, па ће дизелаш пандуру:NEWLINE- Знаш која је разлика између тебе и овог воза?NEWLINE- Немам појма.NEWLINE- Воз има два разреда, а ти ни толико.NEWLINEМисли се пандур и каже:NEWLINE- А знаш ти која је разлика између тебе и тог воза?NEWLINE- Не знам.NEWLINE-...?
+Стоји дебео човек испред основне школе, види га директорка, прилази му и пита:NEWLINE- Извините, да ли ви то чекате дете?NEWLINE- ...?
+Стоји човек на бензинској пумпи цео дан. Досадило то раднику на бензинској, па пита он човека:NEWLINE- Човече, шта радите цео дан овде?NEWLINE-...?
+Стопирају сељак и овца и нико неће да им стане. После пола сата стаје човек са БМW-ом и каже сељаку да ће њега повести, а овцу неће, јер много смрди. Сељак се сложи и каже возачу да ће овца ићи иза њих. Крену они, возач вози 30 km/h, погледа у ретровизор, а овца их прати. Убрза до 70 km/h, кад овца и даље прати. Возач се изнервира, нагази 200 km/h, погледа у ретровизор, кад овца трчи, али је исплезила језик улево. Каже он то сељаку, а сељак ће: 
+Судија пита оптуженог:NEWLINE- Зашто сте украли ауто?NEWLINE- Журио сам на воз.NEWLINE- Могли сте трамвајем.NEWLINE-...?
+Такмичили се Американац, Немац и Црногорац ко ће да пробије кинески зид. Американац турира свој кадилак и опали у зид, али ништа. Па Немац турира своју мечку и опали у зид, али опет ништа. Дошао ред на Црногорца, а Американац и Немац су већ одустали од такмичења. Црногорац турира, турира фићу и крене и проби зид. Тад ће њему ова двојица:NEWLINE- Па како ти проби зид, а ми оваква бесна аута имамо?NEWLINE- Е, сада ћете видети.NEWLINEОтвори Црногорац хаубу и каже:NEWLINE-...?
+Такмичили се Американац, Француз и Србин ко има најбољег војника. Председник Америке: Ајде ти скочи са оне тамо куле!NEWLINE- Али не могу, имам жену, децу, фамилију,...NEWLINE- Бруко једна, обрукао си и мене и целу нашу државу!NEWLINEПредседник Француске: Ајде ти скочи са оне тамо куле!NEWLINE- Али не могу, имам жену, децу, фамилију,...NEWLINE- Бруко једна, обрукао си и мене и целу нашу државу!NEWLINEПредседник Србије: Гледајте шта је прави војник. Живораде!NEWLINE- Молим?NEWLINE- Је л' видиш тамо ону кулу?NEWLINE- Видим.NEWLINE-...?
+Тата, сад кад су поскупеле цигарете, оћеш мање пушити?
+Тетка пита малог Перицу: Зашто тако плачеш, мали мој?
+Титаник тоне. Џон:NEWLINE- Колико је до земље одавде?NEWLINEЏек:NEWLINE- 1 км.NEWLINEЏон скочи у море и пита:NEWLINE- У ком смеру?NEWLINE-...?
+У Београду гужва, сви аутомобили стоје. Једном типу неко куца на прозор. Овај отвара прозор:NEWLINE- Друже, шта је ово?NEWLINE- Терористи отели цело председништво Србије. Траже 10.000.000 евра, или ће да их полију бензином и запале, па скупљамо прилоге.NEWLINE- Ок, даћу, није проблем. А колико се даје отприлике?
+У којим органима се најчешће налазе паразити?
+У Пентагон стигло најновије достигнуће технологије, компјутер са свом базом података, а реагује на људски глас. Американац га пита колико је тежак кип слободе - испринта све у грам тачно. Француз - колико шрафова има Ајфелов торањ - ма испринта све тачно. Сад наговарају и Мују да га нешто пита, а они одоше на пиће. Кад су се вратили, соба пуна папира, комјутер полудео.NEWLINE- Па мој Мујо шта си га питао?NEWLINE- ...?
+У супермаркету:NEWLINE- Имате ли џигерице?NEWLINE- ...?
+У три ујутро, у олујној ноћи, неко лупа на врата. Мујо отвара врата куће, а пред њим стоји пијанац, једва стоји на ногама. Пијанац моли Мују да изађе да га мало погура.NEWLINE– Нема теорије, три је ујутру, човече!NEWLINEИ залупи му врата пред носом. Фата:– Ко је био?NEWLINE- Ма неки пијанац, тражи да га погурам.NEWLINE- Јеси ли му помогао?NEWLINE- Нисам луд, три је ујутру и напољу лије к’о из кабла!NEWLINE– Срам те било! Сећаш ли се кад смо се прије два месеца враћали од Суље, и кад су ти кола цркла по оној кишурини? Да се она двојица момака нису зауставили да те погурају, никад се не бисмо оданде извукли.NEWLINEМујо се мало постиди и на крају се обуче, отвори врата и продере се у мрак и кишу:NEWLINE– Хало, јеси ли још ту?NEWLINE– Јесам, дере се пијанац.NEWLINE– Треба ли те још погурати?NEWLINE– Треба, хвала лепо!NEWLINE– А где си?NEWLINE–...?
+У чему је разлика између мачке и Чака Нориса?
+Убио црногорац жену после 35 година брака. На суђењу пита га судија: Па добро, што сте то урадили баш сада након толико година, а не некада раније? 
+Угледавши Шћепаново отечено изгребано лице, модрицу на оку и замотану руку, Црногорац га упита:NEWLINE- Шта се то десило, соколе?NEWLINE- Борио сам се за част једне даме.NEWLINE- И шта је било јадо?NEWLINE-...?
+Улази жена у такси. Возач:NEWLINE- АААА, БУАААА - урла из свег гласа!NEWLINEЖена престрављена пита:NEWLINE- Шта ти је, човече?NEWLINE-...?
+Улази Земунац у апотеку:NEWLINE- Значи, треба ми кутија бенседина.NEWLINE- Је л' имате рецепт?NEWLINE- ...?
+Улази идиот у пекару и пита:NEWLINE- Је л' имате хлеб од пре 3 дана?NEWLINE- Имамо.NEWLINE-...?
+Улази Пироћанац у кафану и пита једног човека:NEWLINE- Јеси ли ти онај што је мом детету спасио зивот да се не удави у реци?NEWLINE- Јесам, не морате да ми захваљујете.NEWLINE-...?
+Улази Пироћанац у кафић и наруцује кафу. Окрене се, а иза њега три девојке и он их пита:NEWLINE- Девојке, шта пијете?NEWLINE- Кока-колу.NEWLINE-...?
+Улази Цига у ординацију, и са врата каже:NEWLINE- Докторе, треба ми потврда да не могу да радим.NEWLINE- А шта ти фали?NEWLINE-...?
+Улови рибар златну рибицу у канализацији и рибица рече:NEWLINE- ...?
+Умрли Босанац, Рус и Американац. Дође ђаво и каже:NEWLINE- Баците нешто у ово језеро, и ако ја нађем то што сте бацили, идете у пакао, а ако не нађем идете у рај!NEWLINEПрво Рус баци иглу, оде ђаво и после пола минута нађе. Онда Американац баци дугме, ето ђавола после пола минуте нађе, и Американац и Рус одоше у пакао. Баци Босанац нешто, оде ђаво и нема га десет дана. Изађе ђаво и пита Босанца:NEWLINE– Ама шта си то бацио па не могу да нађем?NEWLINE-...?
+Упада полиција кладионичару у кућу и каже:NEWLINE- Имамо дојаву да продајете дрогу.NEWLINE- А кладионичар ће:- ...?
+Упада човек код доктора:NEWLINE- Докторе, реците ми какви су ми налази, не могу да чекам више, умирем од радозналости!NEWLINEДоктор се окрене и са смешком каже:NEWLINE- ...?
+Упеца Земунац златну рибицу и рибица му каже да ће да му испуни једну жељу ако је пусти.NEWLINE- Добро, хоћу нека добра кола.NEWLINE- 'Оћеш на кредит или на лизинг?NEWLINE- ...?
+Упецао дизелаш златну рибицу. Каже му рибица:NEWLINE-Пусти ме и испунићу ти три жеље!NEWLINEЗагледао се он у рибицу и после пар минута стави је у унутрашњи џеп кожне јакне и каже:NEWLINE- ...?
+Упознаје се плавуша са неким ликом и он се похвали њој:NEWLINE- Ја сам пластични хирург!NEWLINEА плавуша ће на то:NEWLINE-...?
+Усред ноћи пробуди жена мужа и каже:NEWLINE- Драги, баш сам нешто ружно сањала и препала сам се. Знаш, када сам била мала и кад сам се усред ноћи бојала мрака, или кад ми је било хладно, мама би ме увек привила себи, загрлила и пољубила.NEWLINE-...?
+Усред тачке, запали се циркус и водитељ смирује публику: ...?
+Ухвати Бил Гејтс златну рибицу и каже му она:NEWLINE- Молим те, баци ме натраг у воду.NEWLINEИ баци њу Бил натраг, па настави да пеца. Каже рибица:NEWLINE- А жеља?NEWLINE- ...?
+Ухватили у рату групу Црногораца и водили их неком ливадом, кад пита Црногорац:NEWLINE- Где нас ово водите?NEWLINE- На стрељање.NEWLINE-...?
+Ухватио црнац златну рибицу и добије три жеље, како то већ доликује златној рибици. Пожели он да буде белац, да живи близу воде и да непрестано гледа у женско међуножје.NEWLINEШта се после десило?
+Учи Земунац клинца да плива. После првог завеслаја, мали почне да се дави. Извуче га Земунац из воде и стави му оне мишиће на надувавање. Међутим, опет иста прича. Први завеслај, и мали поново почне да се дави. Стави му и онај шлауф око појаса, опет га убаци у воду. Али опет иста прича. Тек један лик викне из кафића на обали:NEWLINE- ...?
+Учили Мујо и Хасо да скачу падобраном. На првом практичном скоку, инструктор им објасни како да отворе падобран:NEWLINE- Прва ручица је за отварање, а друга је резервна, у случају да се падобран не отвори.NEWLINEПрво је дошао ред на Хасу. Он скочи, и након што је повукао ручицу, падобран се отвори. Након тога и Мујо скочи, међутим, обе ручице пукоше, тако да он пројури поред Хасе. А Хасо ће на то, скидајући падобран:NEWLINE-...?
+Учитељица задала тему за писмени задатак: 'Да сам директор'. Сви пишу, само Перица седи скрштених руку. Пита га учитељица:NEWLINE– А што ти не пишеш, Перице?NEWLINE-...?
+Учитељица у Земуну испитује прваке математику:NEWLINE– Марице, ајде ти: Колико је 2+2?NEWLINE– 4, учитељице!NEWLINE– Браво! А 3+3?NEWLINE– 6!NEWLINE– Одлично Марице! А колико јееее... 3+2?NEWLINE– Мммммм... 5!NEWLINE– Одлично, Марице!NEWLINEУ том моменту мали Земунац устаје, вади утоку и испаљује 4 метка у Марицу. Учитељица:NEWLINE– Па, дете, шта си то урадио???NEWLINE- ...?
+Фата се навече пред телевизором почне умиљавати Муји и шапне му на ухо:NEWLINE– Мујо мој, морам ти рећ’ нешто. Ускоро нас више неће бити само двоје у кући, биће нас троје!NEWLINEМујо одушевљено погледа у Фатин трбух и рече:NEWLINE– Јао, Фато, машала, де да те пољубим! А како знаш?NEWLINE–...?
+Хабиба дође код свог доктора на преглед, међутим он има велику гужву, па је пошаље свом млађем колеги с којим дели ординацију. Пет минута касније, Хабиба изјури из ординације и почне вриштећи трчати низ ходник. Заустави је старији доктор и смири, те одведе у своју ординацију да му се изјада. Пет минута касније, старији доктор улети у ординацију млађег колеге и бесно га упита:NEWLINE– Шта вам је, колега! Госпођа има 63 године и мужа, троје деце и седморо унучади! Зашто сте јој рекли да је трудна!?NEWLINEМлади лекар, без да дигне поглед са картона којег је испуњавао упита:NEWLINE-...?
+Чиме се покрива штребер?
+Чиме се чешља ћелав човек?
+Човек жели да изнајми стан. Приметио је мрље на зиду и рече:NEWLINE- Какве су оно мрље на зиду?NEWLINE- Пре вас овде је био хемичар који се бавио опасним експериментима.NEWLINE- И то су хемикалије?NEWLINE-...?
+Човек је умро у пустињи од жеђи, а имао је торбу пуну млека. Зашто?
+Шета баба гробљем и наиђе на гробара и пита га где је гроб 143. А гробар каже:
+Шета се Пироћанац са девојком. Прођу они поред цвећаре, а девојка ће:NEWLINE- Јој, драги, колико лепо мирише оно цвеће!NEWLINE-...?
+Шетају ћале и син Земунци центром, наравно, Земуна, и мали види велико М на Мек Доналдсу.NEWLINE– Ћале, ш’а је оно велико М на оној згради?NEWLINE– ...?
+Шетали Мујо, Италијан и Американац пустињом. И наједном виде језерце, а у њему златна рибица. Узму златну рибицу и каже им рибица:NEWLINE- Вратите ме натраг у језеро и испунићу вам сваком по једну жељу.NEWLINEИ врате је они у језеро и каже Американац своју прву жељу:NEWLINE- Ја бих кући.NEWLINEИ врати се кући. Пожели Италијан своју жељу:NEWLINE-И ја бих кући.NEWLINEИ врати се кући. И дође ред на Мују да каже своју жељу:NEWLINE- ...?
+Шта 17 плавуша чека испред дискотеке?
+Шта би било да су Адам и Ева били Кинези?
+Шта види Мирко Алвировић на крају тунела?
+Шта гледа Мирко Алвировић на јутубу?
+Шта да радиш у пустињи кад је испред тебе лав, иза тебе јагуар, а имаш само један метак на располагању?
+Шта да радиш ако хоћеш пса у кући, а имаш децу?
+Шта да радиш кад те Босанац гађа бомбом?
+Шта дели Мирко Алвировић кад суди фудбалску утакмицу?
+Шта добијеш кад полицајца полијеш јогуртом по глави ?
+Шта добијеш кад ставиш црнца у кључалу воду?
+Шта Земунски студенти најчешће дају?
+Шта Земунци праве 31. децембра?
+Шта зец има на леђима кад лети?
+Шта значи демократија?
+Шта значи ДСС?
+Шта значи 'немати'?
+Шта значи NIKE?
+Шта значи ПДВ?
+Шта значи СНС?
+Шта значи СПС?
+Шта значи СРС?
+Шта има Мирко Алвировић кад поједе пасуљ?
+Шта има Мирко Алвировић на глави кад му није чиста савест?
+Шта има прсте, а нема нокте?
+Шта има четири ноге и једну руку?
+Шта имаш ако ти у левој руци стоје 3 јабуке и 4 поморанџе, а у десној 4 јабуке и 3 поморанџе?
+Шта имаш против Цигана?
+Шта испадне кад се укрсте пит бул и пудлица?
+Шта је 666999? 
+Шта је 'аеробик'?
+Шта је аутостопер?
+Шта је бацио Мирко Алвировић човеку који се давио у реци?
+Шта је Босанац написао на писменом на тему "Како сам се провео на летњем распусту" и добио 1?
+Шта је зебра?
+Шта је зелено кад је чисто, а бело кад је испрљано?
+Шта је између неба и мора?
+Шта је конзерваторијум?
+Шта је 'лицемер'?
+Шта је мало жуто и скаче по тепиху?
+Шта је мало, дугуљасто долази у разним бојама и зна шта си вечерао?
+Шта је Мирко Алвировић запалио на протесту?
+Шта је Мирко Алвировић поклонио Чеди Јовановићу за рођендан?
+Шта је отров за мишеве?
+Шта је перика?
+Шта је 'петак'?
+Шта је 'пигмент'?
+Шта је плавуша кад заврши факултет?
+Шта је плавуша кад се окупа?
+Шта је прво урадио цар Душан кад је дошао на престо?
+Шта је радио Мирко Алвировић док је имао фритезу?
+Шта је рекао Индијанац када је видео Црнца да силази са брда?
+Шта је романтичар?
+Шта је слоновача?
+Шта је 'Сомалија'?
+Шта је табакера?
+Шта је то Ba + Na2?
+Шта је то зелено и црвено и прави 5000 обртаја у минуту?
+Шта је то зелено, клик, црвено?
+Шта је то жуто и увек показује север?
+Шта је то лоповлук? 
+Шта је то мало зелено, што виче мууу?
+Шта је то мало црно и говори хаил Хитлер?
+Шта је то мало црно у трави? Црнац тражи бомбу. Шта је то мало црно у ваздуху?
+Шта је то бело, седи у углу и једе говна?
+Шта је то мало, плаво на грани и пева?
+Шта је то мало, црвено, мили по зиду?
+Шта је то што дању лаје, а ноћу плива?
+Шта је то што кад се чита уназад нема к?
+Шта је то, црнац у кабини авиона?
+Шта је то: бумбар јесте, оса није?
+Шта је то: мало, црвено, седи у колицима и плаче?
+Шта је 'транспарент'?
+Шта је урадио Мирко Алвировић кад није знао да одговори на питање у квизу Милионер?
+Шта је 'установа'?
+Шта је Чак Норис помислио кад је срео Вилијама Шекспира?
+Шта је Чаку Норису потребно да за минут убије 100000 људи?
+Шта је џемпер?
+Шта је школски марш?
+Шта једу људождери вегетаријанци?
+Шта каваљеру пише на гробу?
+Шта каже Бетмен Робину када улазе у кола? 
+Шта каже Босанац кад види пола бабе?
+Шта каже кинез кад види празан фрижидер?
+Шта каже Павароти кад му се повраћа?
+Шта каже Саша Матић на вицеве о њему?
+Шта каже талибан када га позовеш на кафу?
+Шта каже Црногорац када га зову на прославу 20 година матуре?
+Шта каже Шварценегер жени кад заврши ручак?
+Шта каже штребер пре него што уђе строга историчарка у учионицу?
+Шта кенгури имају, а остале животиње немају?
+Шта корњача не може кад је окренеш на леђа?
+Шта крава даје после земљотреса?
+Шта лети, а нема крила?
+Шта личи на пола јабуке?
+Шта људождери једу кад је пост?
+Шта мислите о затвореним базенима?
+Шта муви задње пролети кроз главу кад удари у шофершајбну?
+Шта никада не можеш појести за доручак?
+Шта означава црна влас косе на глави једне плавуше?
+Шта представљају 4 коња испред скупштине?
+Шта раде 2 вука кад иду улицом?
+Шта раде млада и младожења прве брачне ноћи?
+Шта раде пилићи у кафани?
+Шта ради 10 мазохиста испред вешала?
+Шта ради Босанац кад заврши економски факултет?
+Шта ради дизелаш када му је хладно док спава?
+Шта ради жена кад јој муж трчи цик-цак по дворишту?
+Шта ради кладионичар кад нема шта да игра?
+Шта ради Мирко Алвировић кад му је рођендан?
+Шта ради Мирко Алвировић кад му се поцепа обућа?
+Шта ради Мирко Алвировић у последњој недељи октобра у 3 ујутру?
+Шта ради Пироћанац кад има затвор?
+Шта ради Пироћанац кад му гори кућа?
+Шта ради плавуша на дну мора?
+Шта ради програмер кад му је вруће?
+Шта ради ронилац у шуми?
+Шта ради Цига до појаса у води?
+Шта ради Цига на киши?
+Шта ради Цига на олимпијади?
+Шта ради Цига на раскрсници?
+Шта ради Цига у 4h поподне?
+Шта ради Цига у мраку?
+Шта ради црногорски вирус у компјутеру? 
+Шта ради Чак Норис када закасни на бус?
+Шта ради Чех после свадбе?
+Шта ради штребер кад је лепо време?
+Шта ради штребер кад му родитељи отпутују?
+Шта радиш кад хоћеш да уситниш 100 динара?
+Шта се добија када се Црногорац убаци у рерну?
+Шта се добије када се укрсте ћурка и печурка?
+Шта се добије када се баба стави у кључалу воду?
+Шта се добије када се беба стави у кључалу воду?
+Шта се добије када се испресује Пироћанац?
+Шта се добије када се младунче од камиле стави у кључалу воду?
+Шта се добије када се стави Босанац у угао?
+Шта се добије када се укрсте 2 стоноге?
+Шта се добије када се укрсте горила и бодљикаво прасе?
+Шта се добије када се укрсте зец и коњ?
+Шта се добије када се укрсте змија и јеж?
+Шта се добије када се укрсте крава и пчела?
+Шта се добије када се укрсте ружа и крокодил?
+Шта се добије када се укрсте слон и миш?
+Шта се добије када се укрсте сплав и праћка?
+Шта се добије када се укрсте Црногорац и Јапанац?
+Шта се догоди кад једна плавуша трчи према другој?
+Шта си узео жени за 8. март?
+Шта тражи Мирко Алвировић од кројача?
+Шта треба дати слону кад има пролив?
+Шта тренира чистачица?
+Шта ће мали Перица да буде кад порасте?
+Шта ће се десити ако бацимо црвени камен у плаво море?
+Шта ураде наши фудбалери кад победе Бразил?
+Шта урадити када епилептичар добије напад у кади?
+Шта Цига ради на компјутеру?
+Шта Црногорац једе за дезерт?
+Шта Чак Норис ради у кључалој води? 
+Шта чека наркоман испод јелке?
+Што је то алгоритам? 
+Учитељица:NEWLINE- Перице, шта ћеш радити кад порастеш?NEWLINE- Пааа, кад порастем, хоћу да се оженим, да купујем жени скупе ствари, бунде, дијаманте, да је изводим у елитне ресторане, и да јој купим последњи модел ферарија!NEWLINE- Браво, Перице! А ти, Павле, шта ћеш радити кад порастеш?NEWLINE- ...?
+Која жена увек зна где јој је муж?
